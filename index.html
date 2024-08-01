@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mercado Online</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>
+</head>
+<body>
+    <h1>Bem-vindo ao Mercado Online</h1>
+    <div id="cart-summary">
+        <h2>Carrinho</h2>
+        <ul id="cart-items"></ul>
+        <button id="checkout-btn" onclick="checkout()">Finalizar Pedido</button>
+    </div>
+    <input type="text" id="search" placeholder="Pesquisar...">
+    <select id="filter-group">
+        <option value="">Todos os Grupos</option>
+    </select>
+    <select id="filter-brand">
+        <option value="">Todas as Marcas</option>
+    </select>
+    <div class="product-list" id="product-list">
+        <!-- Produtos serão inseridos aqui pelo JavaScript -->
+    </div>
+    <div id="pagination">
+        <button id="prevPage" onclick="prevPage()">Anterior</button>
+        <span id="pageInfo"></span>
+        <button id="nextPage" onclick="nextPage()">Próxima</button>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
