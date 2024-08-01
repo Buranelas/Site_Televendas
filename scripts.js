@@ -45,7 +45,7 @@ function displayProducts(productsToDisplay, page) {
             <h2>${product["Descrição"]}</h2>
             <p>Grupo: ${product["Desc Grupo"]}</p>
             <p>Marca: ${product["Desc Marca"]}</p>
-            <button onclick="addToCart('${product["Descrição"]}')">Selecionar</button>
+            <button onclick="handleButtonClick(event); addToCart('${product["Descrição"]}', this)">Selecionar</button>
         `;
         productList.appendChild(productItem);
     });
@@ -74,13 +74,14 @@ function prevPage() {
     }
 }
 
-function addToCart(productDescription) {
+function addToCart(productDescription, button) {
     const product = products.find(item => item["Descrição"] === productDescription);
     const existingProduct = cart.find(item => item["Descrição"] === productDescription);
     if (existingProduct) {
         existingProduct.quantity++;
     } else {
         cart.push({ ...product, quantity: 1 });
+        button.classList.add('selected');
     }
     renderCart();
 }
@@ -91,6 +92,10 @@ function removeFromCart(productDescription) {
         cart[productIndex].quantity--;
         if (cart[productIndex].quantity === 0) {
             cart.splice(productIndex, 1);
+            const button = document.querySelector(`button[onclick="addToCart('${productDescription}', this)"]`);
+            if (button) {
+                button.classList.remove('selected');
+            }
         }
     }
     renderCart();
@@ -103,7 +108,7 @@ function renderCart() {
         const li = document.createElement('li');
         li.innerHTML = `
             <span>${item["Descrição"]} - Quantidade: ${item.quantity}</span>
-            <button onclick="removeFromCart('${item["Descrição"]}')">Remover</button>
+            <button onclick="handleButtonClick(event); removeFromCart('${item["Descrição"]}')">Remover</button>
         `;
         cartItems.appendChild(li);
     });
@@ -119,6 +124,9 @@ function checkout() {
 function clearCart() {
     cart = [];
     renderCart();
+    document.querySelectorAll('.product-item button.selected').forEach(button => {
+        button.classList.remove('selected');
+    });
 }
 
 function filterProducts() {
@@ -164,8 +172,20 @@ function populateFilters() {
     });
 }
 
+function handleButtonClick(event) {
+    const button = event.target;
+    button.classList.add('clicked');
+    setTimeout(() => {
+        button.classList.remove('clicked');
+    }, 300); // Tempo em milissegundos
+}
+
 document.getElementById('search').addEventListener('input', filterProducts);
 document.getElementById('filter-group').addEventListener('change', filterProducts);
 document.getElementById('filter-brand').addEventListener('change', filterProducts);
 
 document.addEventListener('DOMContentLoaded', loadProducts);
+
+document.querySelectorAll('button').forEach(button => {
+    button.addEventListener('click', handleButtonClick);
+});

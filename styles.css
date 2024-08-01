@@ -46,6 +46,14 @@ input[type="text"], select {
     cursor: pointer;
 }
 
+.product-item button.clicked,
+#pagination button.clicked,
+#cart-items button.clicked,
+#checkout-btn.clicked {
+    background-color: #1d70c7; /* Cor mais escura para indicar o clique */
+    transition: background-color 0.3s ease;
+}
+
 #pagination {
     display: flex;
     justify-content: center;
