@@ -116,7 +116,7 @@ function renderCart() {
 
 function checkout() {
     const orderText = cart.map(item => `${item.quantity}x ${item["Descrição"]}`).join('\n');
-    const whatsappUrl = `https://wa.me/554530567599?text=${encodeURIComponent('Meu Carrinho:\n' + orderText)}`;
+    const whatsappUrl = `https://wa.me/554530457512?text=${encodeURIComponent('Meu Carrinho:\n' + orderText)}`;
     window.location.href = whatsappUrl;
     clearCart();
 }
