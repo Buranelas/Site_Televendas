@@ -25,11 +25,6 @@
     "Desc Marca": "MESTRE CHURRASQUEIRO"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO NACON KG MUSSARELA TRANCA VINHO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "NACON"
-  },
-  {
     "Descrição": "VINHO CANCAO 2L TINTO MEIO SECO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CANCAO"
@@ -208,11 +203,6 @@
     "Descrição": "ANTEPASTO COMPANHIA ERVAS 330G ESCABECHE PIMENTAS",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "COMPANHIA DAS ERVAS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 400G GREGO TRAD.",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "BEBIDA LAC.3 CORACOES 260ML CHOCOLATE",
@@ -460,11 +450,6 @@
     "Desc Marca": "YOKI"
   },
   {
-    "Descrição": "ZZZ INATIVAR CALDO CANA BEMTOP 290ML UVA",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "BEMTOP"
-  },
-  {
     "Descrição": "PALMITO GOMES COSTA 300G ACAI TOLETE",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "GOMES DA COSTA"
@@ -563,11 +548,6 @@
     "Descrição": "BISC DA COLONIA 80G ROSQUINHA VENTO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "DA COLONIA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SALSICHA MEICA 260G MINI WINI",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "MEICA"
   },
   {
     "Descrição": "QUEIJO KIFORMAGGIO KG PROVOLONETE",
@@ -693,11 +673,6 @@
     "Descrição": "GERGELIM KARUI 100G PRETO",
     "Desc Grupo": "NATURAIS E INTEGRAIS",
     "Desc Marca": "KARUI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BACON DEF.PERDIGAO KG CUBOS",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "PERDIGAO"
   },
   {
     "Descrição": "DOCE BORRAZOPOLIS 250G BANANA COCO",
@@ -855,16 +830,6 @@
     "Desc Marca": "SEARA"
   },
   {
-    "Descrição": "ZZZ INATIVAR MACARRAO.LMK 500G CASEIRO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "DIVERSOS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G INT.CAMADA PESSEGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "AVEIA FLOCOS YOKI 170G FLOCOS",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "YOKI"
@@ -948,11 +913,6 @@
     "Descrição": "ASPARGO LA CUMPARSITA 430G PEDA OS",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "LA CUMPARSITA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SORRENTINO F.MINAS 250G RIC.PARM.CA",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "FORNO DE MINAS"
   },
   {
     "Descrição": "GELEIA QUEENSBERRY GLAM 270G FRAMBO",
@@ -1043,16 +1003,6 @@
     "Descrição": "BISC SALGADINHO PIZZAQUE PIRAQUE",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "PIRAQUE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LEITE FERM.ACTIVIA 400G CHIA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "ACTIVIA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PAO ALHO ZINHO 300G BAGUETE TRADICIONAL C/ QUEIJO",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "ZINHO"
   },
   {
     "Descrição": "VINHO BRA MIOLO RESERVA 750ML TINTO PINOT NOIR",
@@ -1218,11 +1168,6 @@
     "Descrição": "QUEIJO A VACA QUE RI 140G PALITO PROCESADO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "TIROLEZ"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MANTEIGA LAC LELO 200G S/SAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "LAC LELO"
   },
   {
     "Descrição": "BISC REC GALO 345G CHOCOLATE",
@@ -1475,11 +1420,6 @@
     "Desc Marca": "DORI"
   },
   {
-    "Descrição": "ZZZ INATIVAR MANTEIGA LAC LELO 500G C/SAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "LAC LELO"
-  },
-  {
     "Descrição": "VINHO CHI MUCHO MAS 750ML TINTO CARMENERE",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CWC"
@@ -1695,11 +1635,6 @@
     "Desc Marca": "DUSUL"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO LAC LELO 150G COLONIAL FATIADO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "LAC LELO"
-  },
-  {
     "Descrição": "NECTAR SUFRESH 1L PERA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "SUFRESH"
@@ -1805,11 +1740,6 @@
     "Desc Marca": "KITAL"
   },
   {
-    "Descrição": "ZZZ INATIVAR LINGUICA CALABRESA SEARA 240G FININ",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SEARA"
-  },
-  {
     "Descrição": "BATATA PRINGLES 105G CHEDDAR E BACON",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "PRINGLES"
@@ -1838,11 +1768,6 @@
     "Descrição": "FARINHA TRIGO HORIZONTE 1KG PREMIUM",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "HORIZONTE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO DANUBIO 200G COTTAGE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "DANUBIO"
   },
   {
     "Descrição": "BATATA PALHA YOKI 120G EXT.FINA PRE",
@@ -2185,11 +2110,6 @@
     "Desc Marca": "COCA-COLA"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO FRIMESA KG COALHO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "BARRA CEREAIS NUTRY 25G NUTS ORIGINAL",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "NUTRIMENTAL"
@@ -2335,11 +2255,6 @@
     "Desc Marca": "GALLO"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE UNIBABY 320G PETIT MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
     "Descrição": "GOMA MASCAR TRIDENT 54G GARRAFA MENTA",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "TRIDENT"
@@ -2373,11 +2288,6 @@
     "Descrição": "CARCACA SUINA VAREJO KG INDUSTRIALIZACAO",
     "Desc Grupo": "SUINOS - MERCADO",
     "Desc Marca": "PRIMATO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONE GREGO 400G ORIGINAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
   },
   {
     "Descrição": "BUBBA BALA BG MIX GATO",
@@ -2453,11 +2363,6 @@
     "Descrição": "TEMPERO BUDWEISER 110G BEEF",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "MSE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 100G GREGO KIWI",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "VINAGRE AMADEO 500ML FRUTA MACA",
@@ -2590,11 +2495,6 @@
     "Desc Marca": "HALBERTH"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE PAULISTA 100G MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "PAULISTA"
-  },
-  {
     "Descrição": "GELADINHO CREMOSO FLIPER 20G",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "G.T.ESSENCIAS"
@@ -2690,11 +2590,6 @@
     "Desc Marca": "BODAS DE CANA"
   },
   {
-    "Descrição": "ZZZ INATIVAR FRANGO FUTURO 200G BANDEJA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "FAZENDA FUTURO"
-  },
-  {
     "Descrição": "VINHO CHI CORDILLERA ANDINA 750ML TINTO MERLOT",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "VINA DE AGUIRRE"
@@ -2763,11 +2658,6 @@
     "Descrição": "BALAS SOBERANA 200G MILKLANDER SORT",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "BALAS SOBERANA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR AGNOLINE TIA MARI 2KG",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "TIA MARI"
   },
   {
     "Descrição": "CHOC SICAO GOLD 2,05KG GOTAS BRANCO",
@@ -2858,11 +2748,6 @@
     "Descrição": "BISC CASA DA CUCA 250G POLVILHO DOCE",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "CASA DA CUCA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONINHO 900G P/BEBER",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
   },
   {
     "Descrição": "SAL MARINHO VITAO 1KG",
@@ -3073,11 +2958,6 @@
     "Descrição": "OLEO GIRASSOL SINHA 900ML",
     "Desc Grupo": "OLEOS E AZEITES",
     "Desc Marca": "SINHA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR VEGETAL DAUCY 300G BROCOLIS",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "DAUCY"
   },
   {
     "Descrição": "REFRESCO PO SUKEST 180G LIMAO",
@@ -3435,11 +3315,6 @@
     "Desc Marca": "CALLIA"
   },
   {
-    "Descrição": "ZZZ INATIVAR MINI RISSOLES BREAD KING 500GR FRN",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "BREAD KING"
-  },
-  {
     "Descrição": "MORTADELA COPACOL 380G S/TOUCINHO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "COPACOL"
@@ -3453,21 +3328,6 @@
     "Descrição": "VINHO CHI BICICLETA 750ML BRANCO CHARDONNAY",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CONO SUR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BEBIDA VEGETAL VIDA VEG 750ML COCO",
-    "Desc Grupo": "LEITES E DERIVADOS",
-    "Desc Marca": "VIDA VEG"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SALAMINHO CERATTI 340G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CERATTI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 400G ZERO MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "BISC MIGRA 250G ARROZ MELAD S/GLUTE",
@@ -3830,11 +3690,6 @@
     "Desc Marca": "PIKOLIN"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 100G GREGO MEL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "SALSICHA PERDIGAO KG GRANEL",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "PERDIGAO"
@@ -4018,11 +3873,6 @@
     "Descrição": "PAO QUEIJO FORNO DE MINAS 400G TRADICIONAL",
     "Desc Grupo": "CONGELADOS",
     "Desc Marca": "FORNO DE MINAS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR HAMBURGUER FUTURO 230G BANDEJA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "FAZENDA FUTURO"
   },
   {
     "Descrição": "BEBIDA LAC.PRIMATO 800G COCO",
@@ -4490,11 +4340,6 @@
     "Desc Marca": "VITAO"
   },
   {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.BATAVO 180G MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
-  },
-  {
     "Descrição": "BALAS FINI TUBES GIGANTE 27G MORANGO",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "FINI"
@@ -4543,11 +4388,6 @@
     "Descrição": "DIP LOKO EXPLOSIVE AMORA 15X11G",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "DIPLOKO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR KIT QUEIJO NACON 200G OURO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "NACON"
   },
   {
     "Descrição": "SNACK MUCILON 35G MORANGO E BANANA",
@@ -4660,11 +4500,6 @@
     "Desc Marca": "LORENZO"
   },
   {
-    "Descrição": "ZZZ INATIVAR PAO ALHO MEZZANI 310G CALABRESA",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "MEZZANI"
-  },
-  {
     "Descrição": "EMPANADO FRANGO LAR 700G COXA SOBRECOXA",
     "Desc Grupo": "CONGELADOS",
     "Desc Marca": "LAR"
@@ -4733,11 +4568,6 @@
     "Descrição": "VINHO CHI MONTES ALPHA 750ML TINTO MALBEC",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MONTES ALPHA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PITAYA FROOTY 200ML",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "FROOTY"
   },
   {
     "Descrição": "IOGURTE FRUTAP 320G PETIT BAN/MAC/M",
@@ -4843,11 +4673,6 @@
     "Descrição": "COMP.ERVA MATE UHDE 500G HORTELA",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "UHDE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO GRAN MESTRI KG MEIA FORMA GRANA NERO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "GRAN MESTRI"
   },
   {
     "Descrição": "IOGURTE CAROLINA 500G S/LACTOSE MOR",
@@ -4965,11 +4790,6 @@
     "Desc Marca": "PAGANINI"
   },
   {
-    "Descrição": "ZZZ INATIVAR TORRESMO LEMON PEPPER GIMORES",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "GIMORES"
-  },
-  {
     "Descrição": "QUEIJO VENETTO KG PARMESAO FRACIONADO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "VENETTO"
@@ -5018,11 +4838,6 @@
     "Descrição": "ESPUMANTE BRA MIOLO MILL SIME 750ML BRUT ROSE",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MIOLO SIGLE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE VEGANO VIDA VEG 450G COCO Z.ACUCAR",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIDA VEG"
   },
   {
     "Descrição": "VINHO FRA SINGLE VINEYARD 750ML TOURIGA NACIONAL",
@@ -5285,11 +5100,6 @@
     "Desc Marca": "IREMAR"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO PRIMATO KG MINAS COLONIAL P",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "PRIMATO MARCA PROPRIA"
-  },
-  {
     "Descrição": "VINHO BRA MIOLO SELECAO 750ML PINOT GRI",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "VINIC.MIOLO"
@@ -5370,11 +5180,6 @@
     "Desc Marca": "PRIMATO"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE VIGOR GREGO 90G TRAD. ZERO LAC",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
-  },
-  {
     "Descrição": "BISC ZAGONEL 300G POLVILHO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "ZAGONEL"
@@ -5415,19 +5220,9 @@
     "Desc Marca": "ELMA CHIPS"
   },
   {
-    "Descrição": "ZZZ INATIVAR PAO BATATA CHOC AMARGO BREAD KING 150G",
-    "Desc Grupo": "SALGADINHOS",
-    "Desc Marca": "BREAD KING"
-  },
-  {
     "Descrição": "ESPUMANTE BRA PONTO NERO ICON 750ML BRUT",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "PONTO NERO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MARG.LECO 200G S/SAL MARGARINA/MANT",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "LECO"
   },
   {
     "Descrição": "LEITE UHT NINHO 1L SEMIDESNATADO",
@@ -5540,11 +5335,6 @@
     "Desc Marca": "MASSALEVE"
   },
   {
-    "Descrição": "ZZZ INATIVAR KIT QUEIJO KROON 400G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "KROON"
-  },
-  {
     "Descrição": "DOCE FRONTEIRA BANANADA 500G",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "FRONTEIRA"
@@ -5588,11 +5378,6 @@
     "Descrição": "QUEIJO CRIOULO 150G MUSSARELA FATIADA Z.LACTOSE",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "CRIOULO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR KIT QUEIJO PRIMADONNA 200G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "KROON"
   },
   {
     "Descrição": "SALGAD.CHEETOS 51G PATINHAS",
@@ -5740,11 +5525,6 @@
     "Desc Marca": "HEMMER"
   },
   {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO UNIBABY 180G CREMOSO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
     "Descrição": "BEBIDA LAC.COLONIA HOLANDESA 200ML CHOCOLATE",
     "Desc Grupo": "LEITES E DERIVADOS",
     "Desc Marca": "COLONIA HOLANDESA"
@@ -5868,11 +5648,6 @@
     "Descrição": "MOLHO INGL S KITANO 150ML",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "KITANO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE VEGANO VIDA VEG 450G COCO/MORANGO Z.ACUCAR",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIDA VEG"
   },
   {
     "Descrição": "BISC SANTA EDWIGES 100G SEQUILHO ORIGINAL",
@@ -6265,11 +6040,6 @@
     "Desc Marca": "BATAVO"
   },
   {
-    "Descrição": "ZZZ INATIVAR PIROGUE TIA MARI 2KG",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "TIA MARI"
-  },
-  {
     "Descrição": "CARNE SUINA PRIMATO KG CONGELADA BARRIGA C/P",
     "Desc Grupo": "SUINOS - MERCADO",
     "Desc Marca": "PRIMATO MARCA PROPRIA"
@@ -6293,11 +6063,6 @@
     "Descrição": "KETCHUP ORIGINAL CEPERA 1,01KG",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "CEPERA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO PRESIDENT 100G ROQUEFORT SOCIETE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "PRESIDENT"
   },
   {
     "Descrição": "CAPSULAS D.GUSTO C/10 170G NESCAU",
@@ -6485,11 +6250,6 @@
     "Desc Marca": "TRIANGULO MINEIRO"
   },
   {
-    "Descrição": "ZZZ INATIVAR PAO ALHO ZINHO 300G BOLINHA CALABRESA E QUEIJO",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "ZINHO"
-  },
-  {
     "Descrição": "CROSTITI MR CHEFF 75G PROVOLONE",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "MT CHEFF"
@@ -6508,11 +6268,6 @@
     "Descrição": "BEBIDA LAC.PARMALAT WHEY FIT 250ML BAUNILHA",
     "Desc Grupo": "LEITES E DERIVADOS",
     "Desc Marca": "PARMALAT"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE BATAVO 170G JABUTICABA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
   },
   {
     "Descrição": "BALAS TRAM'S 140G FRUTAS",
@@ -6575,11 +6330,6 @@
     "Desc Marca": "BALAS SOBERANA"
   },
   {
-    "Descrição": "ZZZ INATIVO IOGURTE UNIBABY 170G ZERO LAC.MORAN",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
     "Descrição": "MILHO PIPOCA YOKI 500G",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "YOKI"
@@ -6588,11 +6338,6 @@
     "Descrição": "MARG.DELICIA 500G.MILA C/SAL",
     "Desc Grupo": "FRIOS",
     "Desc Marca": "POLINA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO CRUZILIA KG A LENDA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CRUZILIA"
   },
   {
     "Descrição": "MANJERICAO HUBER 25G",
@@ -6915,11 +6660,6 @@
     "Desc Marca": "GAROTO"
   },
   {
-    "Descrição": "ZZZ INATIVAR PEITO DEF.CHESTER 200G FAT.PEF",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "PERDIGAO"
-  },
-  {
     "Descrição": "GELATINA APTI 20G ABACAXI",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "APTI"
@@ -6933,11 +6673,6 @@
     "Descrição": "VINHO ARG AIME 750ML TINTO C.SAUVIGNON",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "RUCA MALEN"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE VIGOR GREGO 100G BANANA/CHOCOLATE",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "VINHO BRA MESA HALBERTH 5L TINTO SUAVE",
@@ -7190,11 +6925,6 @@
     "Desc Marca": "SALTON"
   },
   {
-    "Descrição": "ZZZ INATIVAR MAC.IMPERIO DAS MASSAS 300G TALHARI",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
-  },
-  {
     "Descrição": "MIST P/BOLO LOWCUCAR 300G BAUNILHA",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "LOWCUCAR"
@@ -7295,11 +7025,6 @@
     "Desc Marca": "COCA-COLA"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO RALADO PRESIDENT 100G FRESCO PRATO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "PRESIDENT"
-  },
-  {
     "Descrição": "MOLHO PIMENTA BRAVO 60ML SUAVE",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "SAKURA"
@@ -7365,11 +7090,6 @@
     "Desc Marca": "FRIMESA"
   },
   {
-    "Descrição": "ZZZ INATIVAR FONDUE BRETZKE 180G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "BRETZKE"
-  },
-  {
     "Descrição": "AMENDOIM DA NONA 140G CRICRI",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "DA NONA"
@@ -7405,19 +7125,9 @@
     "Desc Marca": "LUIGI BOSCA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G MAMAO/LARANJA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "ERVILHA KNORR 170G LATA",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "KNORR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE VIGOR GREGO 100G MEL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "POLPA TOMATE PAGANINI 690G AZEITONA",
@@ -7485,11 +7195,6 @@
     "Desc Marca": "FRIMESA"
   },
   {
-    "Descrição": "ZZZ INATIVO LEITE FERM.UNIBABY 170G",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
     "Descrição": "AZEITONA LA VIOLETERA 130G C/PRESUNTO",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "LA VIOLETERA"
@@ -7503,11 +7208,6 @@
     "Descrição": "VINHO ITA CECCHI CHIANTI DOCG 750ML TINTO SANGIOVESE",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "LOUIS ECHENAUER"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MARG.CLAYBOM 250G MANTEIGA C/SAL",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "PERDIGAO"
   },
   {
     "Descrição": "PO P/PUDIM APTI 50G COCO",
@@ -7533,11 +7233,6 @@
     "Descrição": "PE DE MOLEQUE GUIMARAES 300G A.MASC",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "GUIMARAES"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO CRIOULO 180G LIGHT",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "CRIOULO"
   },
   {
     "Descrição": "PAPRICA PICANTE KITAL 30G",
@@ -7725,19 +7420,9 @@
     "Desc Marca": "3 CORACOES"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONE 170G LIQ.FR.VERMELHAS",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
-  },
-  {
     "Descrição": "REFRESCO PO TOMY 30G MORANGO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "TOMY"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO RALADO GRAN MESTRI 50G GRANA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "GRAN MESTRI"
   },
   {
     "Descrição": "GOMA MASCAR TRIDENT 8G MELANCIA",
@@ -7753,11 +7438,6 @@
     "Descrição": "ERVILHA OLE 170G C/CENOURA",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "OLE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MARG.PRIME 500G COM SAL",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "COAMO"
   },
   {
     "Descrição": "FARINHA AVEIA APTI 150G",
@@ -7828,11 +7508,6 @@
     "Descrição": "PETISK ZEZE 80G SALAMINHO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "ZEZE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR VEGBURGUER FRESCO VIDA VEG 230G FRANGO",
-    "Desc Grupo": "SAUDAVEIS",
-    "Desc Marca": "VIDA VEG"
   },
   {
     "Descrição": "VINHO ARG NIETO BENJAMIN 750ML TINTO C.SAUVIGNON",
@@ -7965,11 +7640,6 @@
     "Desc Marca": "PRIMATO"
   },
   {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.ELEGE 170G SAL.FRUTAS",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "ELEGE"
-  },
-  {
     "Descrição": "LENTILHA KITAL 500G",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "KITAL"
@@ -8048,11 +7718,6 @@
     "Descrição": "BISC FIT FOOD ARROZ 60G CHOC AMARGO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "FITFOOD"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONE GREGO 100G F.VERMELHAS",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
   },
   {
     "Descrição": "BISC REC MARILAN 140G PRINCESA CHOC",
@@ -8223,11 +7888,6 @@
     "Descrição": "MILHO PIPOCA DUAS MARIAS 400G",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "DUAS MARIAS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE UNIBABY 850G PCT PESSEGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
   },
   {
     "Descrição": "PIPOCA MICRO-ONDAS ZAELI 100G PICANHA",
@@ -8530,19 +8190,9 @@
     "Desc Marca": "RESERVA MINAS"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE LACFREE 140G GOJIBERRY",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VERDE CAMPO"
-  },
-  {
     "Descrição": "KIT ESPUMANTE M.PASCHOAL MOSCATEL",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MONTE PASCHOAL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONE 900G MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
   },
   {
     "Descrição": "SNACKS AMENDUP  PIMEN.MEXIC. 50GR",
@@ -8690,11 +8340,6 @@
     "Desc Marca": "COCA-COLA"
   },
   {
-    "Descrição": "ZZZ INATIVAR BATATA PALITO BEM BRASIL 400G TRADICIONAL",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "BEM BRASIL"
-  },
-  {
     "Descrição": "LEITE FERM.FRIMESA 170G",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "FRIMESA"
@@ -8790,11 +8435,6 @@
     "Desc Marca": "TRIO"
   },
   {
-    "Descrição": "ZZZ INATIVAR COSTELA SUINA JULIATTO KG DEFUMADA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SADIA"
-  },
-  {
     "Descrição": "BARRA CEREAIS QUAKER 22G TORTA DE MORANGO",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "QUAKER"
@@ -8813,11 +8453,6 @@
     "Descrição": "MARG.DORIANA 500G C/SAL",
     "Desc Grupo": "FRIOS",
     "Desc Marca": "DORIANA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MARG.VIGOR MIX 250G COM SAL",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "CAFE SOL JANDAIA 50G SACHET",
@@ -8895,11 +8530,6 @@
     "Desc Marca": "TRIANGULO MINEIRO"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE CORPUS 170G S/LACTOSE MORAN",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "CORPUS"
-  },
-  {
     "Descrição": "VINHO CHI BODEGA VIEJA 750ML TINTO BLEND",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "BODEGA VIEJA"
@@ -8908,11 +8538,6 @@
     "Descrição": "SUCO DEL GRANO 1,5L PESSEGO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "DEL GRANO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SELETA LEGUMES MIX DO CHEF 300G",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "POLINA"
   },
   {
     "Descrição": "PIMENTA REINO BEIJA FLOR 30G",
@@ -9145,11 +8770,6 @@
     "Desc Marca": "DR.OETKER"
   },
   {
-    "Descrição": "ZZZ INATIVAR MACARR O SADIA HOT BOWLS 300G HOT DOG",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "SADIA"
-  },
-  {
     "Descrição": "CARNE SUINA PRIMATO TEMP.KG PICANHA",
     "Desc Grupo": "SUINOS - MERCADO",
     "Desc Marca": "PRIMATO MARCA PROPRIA"
@@ -9158,11 +8778,6 @@
     "Descrição": "MOLHO SAPORI 320G CALABRESA",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "CASTELO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE V.CAMPO WHEY 250G COOKIES/CREAM",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VERDE CAMPO"
   },
   {
     "Descrição": "FRISANTE DEL GRANO 660ML ROSADO",
@@ -9365,11 +8980,6 @@
     "Desc Marca": "BAUDUCCO"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONINHO 70G P/LEVAR MACA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
-  },
-  {
     "Descrição": "AZEITONA HEMMER 1,8KG VERDE S/CARO O",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "HEMMER"
@@ -9423,21 +9033,6 @@
     "Descrição": "VINHO ESP MARQUES DE TOMARES RESERVA MAGNUM 1,5L TINTO TEMPRANILLO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MARQUES DE TOMARES"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR KIT QUEIJO NACON 200G SAFIRA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "NACON"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.BATAVO 900G MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SALSICHA PERDIGAO KG SEM CORANTE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "PERDIGAO"
   },
   {
     "Descrição": "QUEIJO RECHEADO KG CHEDDAR E CARNE SECA",
@@ -9665,11 +9260,6 @@
     "Desc Marca": "BATAVO"
   },
   {
-    "Descrição": "ZZZ INATIVAR PERNIL FRIMESA 500G MOLHO ORIENTAL",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "MOLHO PIMENTA DUSUL 150ML PEGA FOGO",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "DUSUL"
@@ -9795,11 +9385,6 @@
     "Desc Marca": "COCA-COLA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G ZERO DESNATADO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "PIMENTA SABOR MINEIRO 1,8KG DE BICO",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "SABOR MINEIRO"
@@ -9833,11 +9418,6 @@
     "Descrição": "GELEIA R.MINAS 240G GOIABA",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "RESERVA MINAS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO FRIMESA 200G ALHO POR ",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "VINHO CHI VEO SUPERIOR 750ML TINTO SYRAH",
@@ -9878,11 +9458,6 @@
     "Descrição": "QUADRADINHOS DE GOIABA",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "TIA DEDE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR RAVIOLI TIA MARI 1KG",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "TIA MARI"
   },
   {
     "Descrição": "CALDO SMART 100G PEIXE",
@@ -10075,11 +9650,6 @@
     "Desc Marca": "SANTA EDWIGES"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 400G GREGO LIMAO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "WAFER MINUETO 81G MORANGO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "MINUETO"
@@ -10148,11 +9718,6 @@
     "Descrição": "MORTADELA COPACOL 380G FRANGO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "COPACOL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MINI PIZZA IMPERIO 120G BOLONHESA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
   },
   {
     "Descrição": "VINHO CHI TORO DE PIEDRA GRAN RESERVA LATE HARVEST 375ML S.BLANC",
@@ -10270,11 +9835,6 @@
     "Desc Marca": "LEAO JUNIOR S/A"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO VINHAIS KG EMMENTAL",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VINHAIS"
-  },
-  {
     "Descrição": "BARRA FLOWBAR GOJIBERRY",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "FLOWBAR"
@@ -10308,11 +9868,6 @@
     "Descrição": "LEITE UHT LATCO 1L DESNATADO",
     "Desc Grupo": "LEITE LONGA VIDA",
     "Desc Marca": "LATCO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE BATAVO 160G INTEGRAL CREMOSO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
   },
   {
     "Descrição": "GELO MOIDO 25KG",
@@ -10585,11 +10140,6 @@
     "Desc Marca": "MAGRO"
   },
   {
-    "Descrição": "ZZZ INATIVAR SALSICHA SEARA KG",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SEARA"
-  },
-  {
     "Descrição": "TORRONE TABLETE 120G",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "MORENO"
@@ -10638,11 +10188,6 @@
     "Descrição": "SUCO ALIANCA 200ML UVA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "ALIANCA"
-  },
-  {
-    "Descrição": "ZZINATIVOEXT.TOMATE ELEFANTE 340G+35G GRATIS",
-    "Desc Grupo": "MOLHOS E EXTRATOS",
-    "Desc Marca": "ELEFANTE"
   },
   {
     "Descrição": "AZEITONA INCOTRIL 150G FATIADA SACHE",
@@ -10855,11 +10400,6 @@
     "Desc Marca": "NOVA"
   },
   {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.PAULISTA 540G MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "PAULISTA"
-  },
-  {
     "Descrição": "PIMENTA REINO KITANO 15G PRETA GRAO",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "KITANO"
@@ -10983,11 +10523,6 @@
     "Descrição": "MARSHMALLOW FINI 80G TORCAO",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "FINI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO VONK KG CABRA C/MEL CUNHA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VONK"
   },
   {
     "Descrição": "VINHO BRA LONGARONE RESERVA 750ML TINTO MERLOT",
@@ -11265,11 +10800,6 @@
     "Desc Marca": "APTI"
   },
   {
-    "Descrição": "ZZZ INATIVAR MANDIOCA RADOLL 500G",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "POLINA"
-  },
-  {
     "Descrição": "MOLHO MASTERFOODS 234ML ROSE",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "MASTERFOODS"
@@ -11450,11 +10980,6 @@
     "Desc Marca": "TOQUE DE CLASSE"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONE SUPER GRAOS 250G COCO/CHIA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
-  },
-  {
     "Descrição": "BALAS FINI 90G GEL MINIONS",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "FINI"
@@ -11463,11 +10988,6 @@
     "Descrição": "FRISANTE ITA LAMBRUSCO VILLA FABRIZIA 750ML TINTO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "VILA FABRIZIA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BEBIDA VEGETAL VIDA VEG 1L AMENDOAS",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "VIDA VEG"
   },
   {
     "Descrição": "WAFER BAUDUCCO 140G NOZES",
@@ -11523,11 +11043,6 @@
     "Descrição": "LEITE COND.TRIANGULO 2,5KG SEMIDESNATADO",
     "Desc Grupo": "LEITES E DERIVADOS",
     "Desc Marca": "TRIANGULO MINEIRO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BATATA MCCAIN 600G PALITO FORNO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "MCCAIN"
   },
   {
     "Descrição": "FARINHA MANDIOCA PINDUCA 500G BRANCA",
@@ -11700,11 +11215,6 @@
     "Desc Marca": "ISABELA"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO NACON KG MINAS NATA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "NACON"
-  },
-  {
     "Descrição": "MASSA LASANHA LA NONNA 500G PR -COZIDA",
     "Desc Grupo": "FRIOS",
     "Desc Marca": "LA NONNA"
@@ -11723,11 +11233,6 @@
     "Descrição": "CHA PEGUE MAIS 15G ERVA DOCE",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "PEGUE MAIS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LEITE FERM.DANONINHO 100G",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
   },
   {
     "Descrição": "BALAS FRUTIBELO",
@@ -11843,11 +11348,6 @@
     "Descrição": "BARRA CEREAIS LINEA NUTS 25G TRADICIONAL",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "LINEA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR TOFU SAMURAI 100G ROSSO PREMIUM",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SAMURAI ORGANIC FOODS"
   },
   {
     "Descrição": "TAMARAS MEDJOUL EL REY 180G.PREMIUM",
@@ -12415,11 +11915,6 @@
     "Desc Marca": "NESTLE"
   },
   {
-    "Descrição": "ZZZ INATIVAR CARNE SUINA PERDIGAO KG PICANHA TEMP.BRASA",
-    "Desc Grupo": "SUINOS - MERCADO",
-    "Desc Marca": "PERDIGAO"
-  },
-  {
     "Descrição": "BEBIDA AVENTUREIROS 200ML MACA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "AVENTUREIROS"
@@ -12865,11 +12360,6 @@
     "Desc Marca": "BONDUELLE"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G PARC.DESNATADO F. VERMELHAS",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "LEITE FERM.CAROLINA 900G BIO BALANCE MOR",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "CAROLINA"
@@ -13170,11 +12660,6 @@
     "Desc Marca": "PARATI"
   },
   {
-    "Descrição": "ZZZ INATIVAR LEITE FERM.ACTIVIA 400G AVEIA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "ACTIVIA"
-  },
-  {
     "Descrição": "NECTAR SUFRESH 1L LARANJA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "SUFRESH"
@@ -13380,11 +12865,6 @@
     "Desc Marca": "DOCILE"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO FAIXA AZUL 100G BLUE CHEESE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FAIXA AZUL"
-  },
-  {
     "Descrição": "BEBIDA ACAI AMAZOO 200ML COM BANANA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "AMAZOO"
@@ -13450,11 +12930,6 @@
     "Desc Marca": "BOM PRINCIPIO"
   },
   {
-    "Descrição": "ZZZ INATIVAR KIT MINI JAMON HACIENDAS 1KG C/SUPORTE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "BRASSOL"
-  },
-  {
     "Descrição": "SARDINHA GOMES COSTA 125G LT LIMAO",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "GOMES DA COSTA"
@@ -13488,11 +12963,6 @@
     "Descrição": "BISC NINFA 300G ROSCA CALDA",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "NINFA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO GRAN MESTRI 180G",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "GRAN MESTRI"
   },
   {
     "Descrição": "MIST CAPPUCCINO 3 CORACOES 200G BAUNILHA",
@@ -13560,11 +13030,6 @@
     "Desc Marca": "ARCOR"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 400G GREGO BAUNILHA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "VINHO ITA FREIXENET DOC 750ML BRANCO PINOT GRIGIO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "FREIXENET"
@@ -13583,11 +13048,6 @@
     "Descrição": "MILHO VERDE BONARE 200G",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "BONARE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 100G GREGO TRADICIO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "QUEIJO SANTA CLARA KG MINAS ZERO LACTOSE",
@@ -13680,11 +13140,6 @@
     "Desc Marca": "BENDOCE"
   },
   {
-    "Descrição": "ZZZ INATIVAR SOBREMESA VIGORZINHO 360G CHOCOLATE",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
-  },
-  {
     "Descrição": "SARDINHA COQUEIRO 125G LT  LEO SOJA",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "COQUEIRO"
@@ -13718,11 +13173,6 @@
     "Descrição": "IOGURTE UNIBABY GREGO 90G MORANGO",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "UNIBABY"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO FRIMESA MUSSARELA FILETADA 4KG",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "CREME AVELA 250G RITTER",
@@ -13790,11 +13240,6 @@
     "Desc Marca": "JORDANS"
   },
   {
-    "Descrição": "ZZZ INATIVAR MORTADELA FRANGO AURORA 200G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "AURORA"
-  },
-  {
     "Descrição": "CAFE TRES CORACOES 80G ESP SEL BRAS",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "3 CORACOES"
@@ -13848,11 +13293,6 @@
     "Descrição": "VINHO ARG PORTE O 750ML TINTO C. SAUVIGNON",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "NORTON"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONINHO 140G P/BEBER COCO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
   },
   {
     "Descrição": "IOGURTE CAROLINA 130G DUET MO/AM/FR",
@@ -13943,11 +13383,6 @@
     "Descrição": "QUINOA BRANCA EL REY 200G",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "EL REY"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR POLPA NORTEPOLPA 100G PESSEGO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "NORTEPOLPA"
   },
   {
     "Descrição": "MAC & CHEESE SEARA 300G CHEEDAR BACON",
@@ -14175,11 +13610,6 @@
     "Desc Marca": "LEVITARE"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G IMUNE TANGERINA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "COCO RALADO LA VIOLETERA 50G PURO",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "LA VIOLETERA"
@@ -14265,11 +13695,6 @@
     "Desc Marca": "CASAL GARCIA"
   },
   {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO BUFALO 1,8KG BISNAGA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BUFALO"
-  },
-  {
     "Descrição": "BOLINHO TILAPIA COPACOL 1,050KG",
     "Desc Grupo": "CONGELADOS",
     "Desc Marca": "COPACOL"
@@ -14323,11 +13748,6 @@
     "Descrição": "CANJIQUINHA IREMAR 500G",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "IREMAR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SALSICHA SEARA 380G WEISS GOURMET",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SEARA"
   },
   {
     "Descrição": "CHAMPIGNON DIVINA MESA 200G FATIADO",
@@ -14485,11 +13905,6 @@
     "Desc Marca": "DIVELLA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE PAULISTA 170G DESNATADO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "PAULISTA"
-  },
-  {
     "Descrição": "QUEIJO PRESIDENT 120G EMMENTAL PROCESSADO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "PRESIDENT"
@@ -14510,11 +13925,6 @@
     "Desc Marca": "RIBEIRAO"
   },
   {
-    "Descrição": "ZZZ INATIVAR HAMBURGUER FRIMESA 672G SUINO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "BALAS SOBERANA 200G MENTA LUXO",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "BALAS SOBERANA"
@@ -14523,11 +13933,6 @@
     "Descrição": "REFRESCO PO MID ZERO 8G AMORA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MID"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR VINHO ORIGEM 750ML CAB.SAUVI.DEMI",
-    "Desc Grupo": "BEBIDAS",
-    "Desc Marca": "CASA VALDUGA"
   },
   {
     "Descrição": "BISC RENATA 360G COCO",
@@ -14563,11 +13968,6 @@
     "Descrição": "MAIONESE FUGINI 340G SACH  BICO",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "FUGINI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SOBR.CREM.VIGOR CHOCOLATE 2X90G",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "GELEIA QUEENSBERRY 100% 250G BLUEBE",
@@ -14610,11 +14010,6 @@
     "Desc Marca": "TRIDENT"
   },
   {
-    "Descrição": "ZZZ INATIVAR PAO QUEIJO CATUPIRY 390G PACT.TRADI",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "CATUPIRY"
-  },
-  {
     "Descrição": "ACUCAR MASCAVO MAE TERRA 400G",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "MAE TERRA"
@@ -14640,11 +14035,6 @@
     "Desc Marca": "APTI"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO FAIXA AZUL 125G CAMEMBERT",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FAIXA AZUL"
-  },
-  {
     "Descrição": "GELADINHO MARIDOCES C/40 UN SABORES",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MARIDOCES"
@@ -14668,11 +14058,6 @@
     "Descrição": "CAFE PO MELITTA 500G TRADICIONAL",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "MELITTA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 360G UVA PETIT",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "MOLHO INGL S DUSUL 900ML",
@@ -14740,24 +14125,9 @@
     "Desc Marca": "SUL"
   },
   {
-    "Descrição": "ZZZ INATIVAR PAO ALHO ZINHO 300G BOLINHA CATUPIRY",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "ZINHO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO VIGOR 120G BRIE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VIGOR"
-  },
-  {
     "Descrição": "PANETTONE SANTA EDWIGES 400G PREMIUM CHOCOLATE",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "SANTA EDWIGES"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PURURUCA GRASSI 70G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "DIVERSOS"
   },
   {
     "Descrição": "LINHACA ZAELI 200G DOURADA",
@@ -14788,11 +14158,6 @@
     "Descrição": "HOT HIT SEARA 145G.BACON",
     "Desc Grupo": "CONGELADOS",
     "Desc Marca": "SEARA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PASTEL TIA MARI 350G FRANGO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "TIA MARI"
   },
   {
     "Descrição": "MORTADELA PIQUIRI KG",
@@ -15275,11 +14640,6 @@
     "Desc Marca": "CRIOULO"
   },
   {
-    "Descrição": "ZZZ INATIVAR MARG.QUALY 500G VITA C/SAL",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "QUALY"
-  },
-  {
     "Descrição": "DOCE NATA SUICA R.MINAS 630G BRIGADEIRO",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "RESERVA MINAS"
@@ -15360,11 +14720,6 @@
     "Desc Marca": "BOM PRINCIPIO"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO SANTA CLARA KG MINAS LIGHT REDUCAO SODIO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SANTA CLARA"
-  },
-  {
     "Descrição": "SALADA FRUTAS SIMONS 450G",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "SIMONS"
@@ -15425,11 +14780,6 @@
     "Desc Marca": "PRIMATO MARCA PROPRIA"
   },
   {
-    "Descrição": "ZZZ INATIVAR MARG.QUALY 500G VITA S/SAL",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "QUALY"
-  },
-  {
     "Descrição": "VINHO BRA CASA PERINI 750ML TINTO MERLOT",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CASA PERINI"
@@ -15465,19 +14815,9 @@
     "Desc Marca": "PAGANINI"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE VIGOR GREGO 100G FLOCOS CAR",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
-  },
-  {
     "Descrição": "MOLHO COMPANHIA ERVAS 145ML ERVAS AROM TICAS",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "COMPANHIA DAS ERVAS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUICHE CATUPIRY 440G PRESUNTO QUEIJ",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "CATUPIRY"
   },
   {
     "Descrição": "MILHO PIPOCA YOKI 400G PREMIUM",
@@ -15518,11 +14858,6 @@
     "Descrição": "SALG.CHEETOS 37G TUBO",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "ELMA CHIPS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR HAMBURGUER",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "COPACOL"
   },
   {
     "Descrição": "MILHO VERDE HEINRICH 300G PCT CONG PRE COZIDO",
@@ -15940,16 +15275,6 @@
     "Desc Marca": "TREM MINAS"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 100G GREGO JABUTICA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR RAVIOLI FORNO DE MINAS 250G 4 QUE/NOZE",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "FORNO DE MINAS"
-  },
-  {
     "Descrição": "CHA INST.TASTE&CO 350G LIMAO",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "TASTE E CO"
@@ -16078,11 +15403,6 @@
     "Descrição": "XAROPE MONIN 700ML CURACAU BLUE",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MONIN"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE PAULISTA 95G GREGO MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "PAULISTA"
   },
   {
     "Descrição": "CRAVO DA INDIA ZAELI 7G",
@@ -16500,11 +15820,6 @@
     "Desc Marca": "COCA-COLA"
   },
   {
-    "Descrição": "ZZZ INATIVAR PASTEL FORNO BREAD KING 280G FRA/RE",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "BREAD KING"
-  },
-  {
     "Descrição": "IOGURTE BATAVO 450G GREGO PENSE ZERO MORANGO",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "BATAVO"
@@ -16640,11 +15955,6 @@
     "Desc Marca": "VINA DEL ASADOR"
   },
   {
-    "Descrição": "ZZZ INATIVAR LEITE F.ACTIVIA 100G SHOT TANG/CENO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "ACTIVIA"
-  },
-  {
     "Descrição": "CHA MATE PRENDA 250G NATURAL",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "CHA PRENDA DO BRASIL"
@@ -16668,11 +15978,6 @@
     "Descrição": "BISC CASA DA CUCA 300G PINTADO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "CASA DA CUCA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PAIO FRIMESA KG GRANEL",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "LEITE PO PIRACANJUBA 400G INTEGRAL",
@@ -16745,19 +16050,9 @@
     "Desc Marca": "COCA-COLA"
   },
   {
-    "Descrição": "ZZZ INATIVAR SOBREMESA LAC.FRIMESA 200G BANANA CARAMELIZADA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "BATATA MR.CRISPS 100G QUEIJO",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "MR CRISPS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO FAIXA AZUL 150G EMMENTAL",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FAIXA AZUL"
   },
   {
     "Descrição": "VINHO BRA M.PASCHOAL RESERVA 750ML BRANCO CHARDONNAY",
@@ -16875,11 +16170,6 @@
     "Desc Marca": "POLENGHI"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO FRIMESA 200G MUSSARELA C/OR GANO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "SNACK INSPIRE 20G MAC/CANELA",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "INSPIRE"
@@ -16968,11 +16258,6 @@
     "Descrição": "FARINHA P/EMPANAR TARESSU 200G PANCO",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "TARESSU"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO FAIXA AZUL KG GOUDA FRACIONADO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FAIXA AZUL"
   },
   {
     "Descrição": "TEMPERO SMART SAL 1KG SAL MARINHO MOSORO GROSSO",
@@ -17300,19 +16585,9 @@
     "Desc Marca": "DR.OETKER"
   },
   {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO GRAN MESTRI 180G LIGHT",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "GRAN MESTRI"
-  },
-  {
     "Descrição": "CHA PEGUE MAIS 15G P/CHIM.LIM/MAC",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "PEGUE MAIS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 100G GREGO LIMAO SI",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "ONION CEBOLA",
@@ -17388,11 +16663,6 @@
     "Descrição": "MOSTARDA CEPERA 7G SACHE C/175",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "CEPERA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SALAME FRIMESA KG CALABRES",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "QUEIJO RECHEADO KG TOMATE SECO",
@@ -17528,16 +16798,6 @@
     "Descrição": "REFRESCO PO NUTRINHO 25G TANGERINA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "NUTRIMENTAL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO MI.FRESCAL POLENGHI 150G CRE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "POLENGHI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 170G FUNC.MAMAO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "TEMPERO RECEITA CASA 450G S/PIMENTA",
@@ -17880,11 +17140,6 @@
     "Desc Marca": "SAKURA"
   },
   {
-    "Descrição": "INATIVO-TRIDENT 5S MORANGO",
-    "Desc Grupo": "BALAS E CHICLETES",
-    "Desc Marca": "TRIDENT"
-  },
-  {
     "Descrição": "SUCO DO BEM 1L LARANJA TP",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "DO BEM"
@@ -18020,11 +17275,6 @@
     "Desc Marca": "MONTEVERGINE"
   },
   {
-    "Descrição": "ZZZ INATIVAR PASTEL IMPERIO DAS MASSAS 650G PIZZ",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
-  },
-  {
     "Descrição": "NHOQUE MEZZANI 500G",
     "Desc Grupo": "FRIOS",
     "Desc Marca": "MEZZANI"
@@ -18080,11 +17330,6 @@
     "Desc Marca": "SANTA CLARA"
   },
   {
-    "Descrição": "ZZZ INATIVAR CARNE MOIDA FUTURO 270G BANDEJA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "FAZENDA FUTURO"
-  },
-  {
     "Descrição": "MARG.DELICIA 4X100G TAB.CULINARIO",
     "Desc Grupo": "FRIOS",
     "Desc Marca": "POLINA"
@@ -18113,11 +17358,6 @@
     "Descrição": "GELATINA LOWCUCAR ZERO 10G AMORA",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "LOWCUCAR"
-  },
-  {
-    "Descrição": "ZZZ INATIVO IOGURTE NINHO FRUTI 250G MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "NESTLE"
   },
   {
     "Descrição": "GELATINA DR.OETKER 20G ABACAXI",
@@ -18203,11 +17443,6 @@
     "Descrição": "KETCHUP CEPERA 1,01KG TRADICIONAL",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "CEPERA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LINGUICA TOSCANA SAMOLLE KG PICANTE",
-    "Desc Grupo": "SUINOS - MERCADO",
-    "Desc Marca": "SAMOLLE"
   },
   {
     "Descrição": "BISC MARILAN 360G REC CHOC PRINCESA",
@@ -18313,11 +17548,6 @@
     "Descrição": "MOLHO TOMATE OLE 300G TRADICIONAL",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "OLE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR GORDURA VEGETAL COAMO 500G",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "COAMO"
   },
   {
     "Descrição": "DROPS TIC TAC 14G COCA COLA",
@@ -18695,11 +17925,6 @@
     "Desc Marca": "CAMIL"
   },
   {
-    "Descrição": "ZZZ INATIVAR COSTELA SUINA SEARA KG GOURMET C/BARBECUE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SEARA"
-  },
-  {
     "Descrição": "PICLES COAVO 300G",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "COAVO"
@@ -18738,11 +17963,6 @@
     "Descrição": "IOGURTE CAROLINA 170G GLUCK COCO",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "CAROLINA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MANTEIGA GRAN MESTRI 200G POTE C/SAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "GRAN MESTRI"
   },
   {
     "Descrição": "AMENDOIM TORRADO SEM PELE 50G",
@@ -18868,11 +18088,6 @@
     "Descrição": "ACUCAR CRISTAL DOCESUCAR 1KG",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "DOCESUCAR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PAO ALHO MEZZANI 310G PICANTE",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "MEZZANI"
   },
   {
     "Descrição": "LINGUICA TOSCANA FRICEU KG EMBALADA",
@@ -19175,11 +18390,6 @@
     "Desc Marca": "KENKO"
   },
   {
-    "Descrição": "ZZZ INATIVAR LASANHA IMP.DAS MASSAS 700G BOLONHE",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
-  },
-  {
     "Descrição": "CHA LEAO C/15UN ROSA SILV/HIB/AMORA",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "LEAO JUNIOR S/A"
@@ -19275,11 +18485,6 @@
     "Desc Marca": "MIGRA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONINHO 100G P/BEBER BAN/MOR",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
-  },
-  {
     "Descrição": "ERVA DOCE KITANO 8GR",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "KITANO"
@@ -19343,11 +18548,6 @@
     "Descrição": "REFRESCO PO MID 25G MIX LARAN/ABACA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MID"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO CRUZILIA KG BRIE TRIANGULO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CRUZILIA"
   },
   {
     "Descrição": "PAO ALHO SANTA MASSA 240G TRADICIONAL",
@@ -19445,11 +18645,6 @@
     "Desc Marca": "PRIMATO MARCA PROPRIA"
   },
   {
-    "Descrição": "ZZZ INATIVAR SALSICHA SEARA 350G SCHUBLIG GOURMET",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SEARA"
-  },
-  {
     "Descrição": "VINHO ITA NADARIA 750ML BRANCO GRILLO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "NADARIA"
@@ -19473,11 +18668,6 @@
     "Descrição": "CHA MATTE LEAO ICE TEA 1,5L PET PESSEGO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "COCA-COLA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.UNIBABY 510G SENSA  O/L.COND",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
   },
   {
     "Descrição": "TORRONE GUIMARAES 90G AMENDOIM",
@@ -19590,16 +18780,6 @@
     "Desc Marca": "CANTINHO DO SUL"
   },
   {
-    "Descrição": "ZZZ INATIVAR ERVILHA SADIA 300G",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "SADIA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO CLARA MILK 1,8KG CHEDDAR",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "CLARA MILK"
-  },
-  {
     "Descrição": "FARINHA TRIGO ANACONDA 1KG INTEGRAL",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "ANACONDA"
@@ -19695,11 +18875,6 @@
     "Desc Marca": "RITTER"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE LACFREE 500G NATURAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VERDE CAMPO"
-  },
-  {
     "Descrição": "BALAS MENTOS 37,5G FRUIT",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "MENTOS"
@@ -19708,11 +18883,6 @@
     "Descrição": "VINHO ITA CALDORA D'ABRUZZO 750ML TINTO MONTEPULCIANO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CALDORA VINI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO FRIMESA 200G CEBOLA CARAMELIZADA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "AZEITE OLIVA BONS VENTOS 500ML",
@@ -19848,11 +19018,6 @@
     "Descrição": "ESPUMANTE BRA DEDICATO CHAMPENOISE 750ML BRUT",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MONTE PASCHOAL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 200G GREGO INTEGRAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "TEMPERO SATIS 23G BIFE ACEBOLADO",
@@ -20103,11 +19268,6 @@
     "Descrição": "QUEIJO TIROLEZ KG ESTEPE PEDACO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "TIROLEZ"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO PRESIDENT KG MAASDAM",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "PRESIDENT"
   },
   {
     "Descrição": "BISC RENATA 330G AMANT COCO",
@@ -20365,11 +19525,6 @@
     "Desc Marca": "KIRIN"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO RALADO EL MAESTRO 50G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "EL MAESTRO"
-  },
-  {
     "Descrição": "MIST P/BOLO APTI 400G MILHO",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "APTI"
@@ -20570,24 +19725,9 @@
     "Desc Marca": "FRONTERA"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO LACFREE 150G MUSSARELA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VERDE CAMPO"
-  },
-  {
     "Descrição": "DOCE LEITE FRIMESA 400G LIGHT",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "FRIMESA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE VIGOR GREGO 100G MORANGO/CHOCOLATE",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO CRUZILIA KG AZUL DE MINAS",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CRUZILIA"
   },
   {
     "Descrição": "MAIONESE HEMMER 500G",
@@ -20780,11 +19920,6 @@
     "Desc Marca": "ISABELA"
   },
   {
-    "Descrição": "ZZZ INATIVAR PAO ALHO SABOR NUMERO HUMM 310G QUE",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "KI-BOX"
-  },
-  {
     "Descrição": "TEMPERO SMART Z.SODIO 48G FRANGO",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "SMART"
@@ -20865,11 +20000,6 @@
     "Desc Marca": "KURUPI"
   },
   {
-    "Descrição": "ZZZ INATIVAR TOFU SAMURAI 100G SHITAKE DEFUMADO PREMIUM",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SAMURAI ORGANIC FOODS"
-  },
-  {
     "Descrição": "IOGURTE BATAVO 1150G CEREAL",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "BATAVO"
@@ -20945,11 +20075,6 @@
     "Desc Marca": "CHOCO SOY"
   },
   {
-    "Descrição": "ZZZ INATIVAR TORRESMO BARBECUE GIMORES",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "GIMORES"
-  },
-  {
     "Descrição": "QUEIJO CRIOULO KG PRATO LANCHE",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "CRIOULO"
@@ -20968,11 +20093,6 @@
     "Descrição": "IOGURTE VIGOR GREGO 90G BLUEBERRY",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "VIGOR"
-  },
-  {
-    "Descrição": "INATIVO",
-    "Desc Grupo": "BALAS E CHICLETES",
-    "Desc Marca": "ARCOR"
   },
   {
     "Descrição": "AMENDOIM PINDUCA 500G BRANCO",
@@ -21145,11 +20265,6 @@
     "Desc Marca": "IREMAR"
   },
   {
-    "Descrição": "ZZZ INATIVAR TOFU SAMURAI 100G SHITAKE PREMIUM",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SAMURAI ORGANIC FOODS"
-  },
-  {
     "Descrição": "MIX FRUTT BRASNUTT 100G",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "BRASNUTT"
@@ -21158,11 +20273,6 @@
     "Descrição": "SOBREMESA LAC.DANETTE 180G CHOCOLAT",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "DANETTE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE VIGOR GREGO 100G FLOCOS BRA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "BARRA CEREAIS RITTER 25G NAPOLITANO",
@@ -21368,11 +20478,6 @@
     "Descrição": "VINHO MESA D.GRANO 750ML TINTO SUAVE",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "DEL GRANO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR CARNE SUINA FRIMESA KG COPA CONGEL",
-    "Desc Grupo": "SUINOS - MERCADO",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "WAFER BARION 120G MENDO WAFER AMENDOIM",
@@ -21653,11 +20758,6 @@
     "Descrição": "SAL MOIDO IODATADO HL 25KG",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "HENRIQUE LAGE SALINEIRA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO VIGOR 150G REINO JONG FATIADO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "SNACK INSPIRE 40G QUEIJO NACHO",
@@ -21975,11 +21075,6 @@
     "Desc Marca": "MEZZANI"
   },
   {
-    "Descrição": "ZZZ INATIVAR MINI PIZZA IMPERIO 120G 4 QUEIJOS",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
-  },
-  {
     "Descrição": "CASTANHA CAJU KG CARAMELIZADA",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "VIMACEDO"
@@ -22140,11 +21235,6 @@
     "Desc Marca": "PERDIGAO"
   },
   {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO DANUBIO 220G ZERO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANUBIO"
-  },
-  {
     "Descrição": "BISC REC MARILAN 140G TORTINHAS BOMBOM",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "MARILAN S/A"
@@ -22158,11 +21248,6 @@
     "Descrição": "BISC MARILAN 30G MINI MAIZENA",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "MARILAN S/A"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR POLPA POLPANORTE 100G TANGERINA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "NORTEPOLPA"
   },
   {
     "Descrição": "BALAS DORI REGALIZ GIRAFA 30G YOGURTE",
@@ -22250,11 +21335,6 @@
     "Desc Marca": "BATAVO"
   },
   {
-    "Descrição": "ZZZ INATIVAR LASANHA PAVIOLI 600G PRESUNTO/QUEIJO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "PAVIOLI"
-  },
-  {
     "Descrição": " GUA MIN.FONTANA ORO 5L S/GAS",
     "Desc Grupo": "AGUA MINERAL",
     "Desc Marca": "FONTANA ORO"
@@ -22290,11 +21370,6 @@
     "Desc Marca": "KING MIX"
   },
   {
-    "Descrição": "ZZZ INATIVAR BACON DEF.SADIA KG FATIADO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SADIA"
-  },
-  {
     "Descrição": "CHOC GRANULADO IREMAR 40G",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "IREMAR"
@@ -22308,11 +21383,6 @@
     "Descrição": "BISC REC LOWCUCAR 120G MORANGO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "LOWCUCAR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO SAO VICENTE KG GRUYERE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SAO VICENTE"
   },
   {
     "Descrição": "WAFER ISABELA LEITE 145GR",
@@ -22368,11 +21438,6 @@
     "Descrição": "PANETTONE SANTA EDWIGES 500G GOURMET CHURROS",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "SANTA EDWIGES"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SOBREMESA VIGOR 200G CREM.CHOCOL BR",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "BALAS ARCOR GEL.70G 7 BELO FRAMBOESA",
@@ -22540,11 +21605,6 @@
     "Desc Marca": "COCA-COLA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G PED.MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "CHA PEGUE MAIS 10G CAVALINHA",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "PEGUE MAIS"
@@ -22583,11 +21643,6 @@
     "Descrição": "TEMPERO DRY RUB DE CABRON 150G BEEF",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "DE CABRON"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO BUFALA BOM DESTINO 160G BOLA M POTE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "BOM DESTINO"
   },
   {
     "Descrição": "TEMPERO SABOR AMI 1KG S/PIMENTA",
@@ -22643,11 +21698,6 @@
     "Descrição": "OVOS CODORNA S O MIGUEL 300G DEFUMADO",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "CONSERVAS SAO MIGUEL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR POLPETONE SEARA 320G GOURMET",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "SEARA"
   },
   {
     "Descrição": "SUCO LIFE MIX KIDS TURMA DA MONICA 200ML LARANJA",
@@ -22785,11 +21835,6 @@
     "Desc Marca": "FRIMESA"
   },
   {
-    "Descrição": "ZZZ INATIVAR MARG.PRIMOR 400G FORNO & FOGAO",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "PRIMOR"
-  },
-  {
     "Descrição": "CHA MATE 81 LARANJA 25 UND",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "OITENTA E UM"
@@ -22848,11 +21893,6 @@
     "Descrição": "ESPUMANTE BRA MIOLO  RIDE 750ML BRUT BRANCO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MIOLO SIGLE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.BATAVO 900G CEREAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
   },
   {
     "Descrição": "CARNE SUINA PRIMATO TEMP.KG COSTELA RIPA",
@@ -22918,11 +21958,6 @@
     "Descrição": "VINHO EUA PUNTO MAXIMO 750ML TINTO ZINFANDEL",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "EVAKI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO PRIMA DONNA 200G FRA  O LEGGERO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "NACON"
   },
   {
     "Descrição": "BISC CLUB SOCIAL 45G SAND P PERU",
@@ -23145,11 +22180,6 @@
     "Desc Marca": "GAR A"
   },
   {
-    "Descrição": "PESSEGO CALDA INCOTRIL 430G METADES ( INATIVAR )",
-    "Desc Grupo": "DOCES,GELEIASEMEL",
-    "Desc Marca": "INCOTRIL"
-  },
-  {
     "Descrição": "MORTADELA CERATTI 150G TRADICIONAL",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "CERATTI"
@@ -23213,11 +22243,6 @@
     "Descrição": "VINHO ITA CORNALINO 750ML ROSSO MEIO SECO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CORNALINO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MINI PIZZA IMPERIO 120G FRANGO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
   },
   {
     "Descrição": "TORRADA BAUDUCCO 142G TRADICIONAL",
@@ -23385,11 +22410,6 @@
     "Desc Marca": "AMAFIL"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 170G FUNC.LIG.AMEIX",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "BEBIDA LAC.3 CORACOES 260ML CAPPUCCINO WHEY",
     "Desc Grupo": "LEITES E DERIVADOS",
     "Desc Marca": "3 CORACOES"
@@ -23433,11 +22453,6 @@
     "Descrição": "BATATA PALHA CASTROLANDA 400G",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "CASTROLANDA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 540G PROTEICO FR.VERM.ACAI BANANA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "GOIABADA PINDUCA 500G",
@@ -23603,11 +22618,6 @@
     "Descrição": "QUEIJO KIFORMAGGIO 200G PARMESAO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "KIFORMAGGIO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE BATAVO 170G BOB MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
   },
   {
     "Descrição": "QUEIJO CASA DA OVELHA  Z.LAC.100G PECORINO TOSCANO 270 DIAS",
@@ -23960,11 +22970,6 @@
     "Desc Marca": "CHAKANA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 170G FUNC.MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "AMENDOIM CROKISSIMO 90G PIMENTA",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "CROKISSIMO"
@@ -23973,11 +22978,6 @@
     "Descrição": "CREME TAHINE JASMINE 250G GERGELIM",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "JASMINE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR CARNE SUINA PERDIGAO KG SOBREPALETA TEMP.BRASA",
-    "Desc Grupo": "SUINOS - MERCADO",
-    "Desc Marca": "PERDIGAO"
   },
   {
     "Descrição": "BEBIDA LAC.BATAVO 510G MORANGO/COCO",
@@ -24098,11 +23098,6 @@
     "Descrição": "KETCHUP DUSUL 185G",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "DUSUL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PASTEL IMPERIO DAS MASSAS 650G CARN",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
   },
   {
     "Descrição": "MARG.BECEL 250G S/SAL",
@@ -24280,11 +23275,6 @@
     "Desc Marca": "CALDORA VINI"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE UNIBABY 170G PROT.WHEY BAUNILHA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
     "Descrição": "RECHEIO B.PRINCIPIO 400G MORANGO",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "BOM PRINCIPIO"
@@ -24360,11 +23350,6 @@
     "Desc Marca": "VAPZA"
   },
   {
-    "Descrição": "ZZZ INATIVAR MORTADELA COPACOL KG DEFUMADA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "COPACOL"
-  },
-  {
     "Descrição": "VINHO ARG MALCRIADO 750ML TINTO MALBEC",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MOSQUITA MUERTA"
@@ -24428,11 +23413,6 @@
     "Descrição": "ESPUMANTE BRA GHELLER 750ML DOCE MOSCATO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "GHELLER"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR VEGETAL DAUCY 300G ERVILHA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "DAUCY"
   },
   {
     "Descrição": "BRUSCHETTA LA PASTINA 280G PIMENT O",
@@ -24650,11 +23630,6 @@
     "Desc Marca": "QUATA"
   },
   {
-    "Descrição": "ZZZ INATIVAR LASANHA TIA MARI 500G BOLONHESA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "TIA MARI"
-  },
-  {
     "Descrição": "COOKIES NATURAL LIFE 180 S/GLUTEN LIMAO",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "NATURAL LIFE"
@@ -24720,11 +23695,6 @@
     "Desc Marca": "PRESIDENT"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO VIGOR 150G GOUDA FATIADO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VIGOR"
-  },
-  {
     "Descrição": "BATATA PALHA ELMA CHIPS 205G EXTRA FINA",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "ELMA CHIPS"
@@ -24753,11 +23723,6 @@
     "Descrição": "DUETO KNORR 170G",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "KNORR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO VIGOR 150G GRUYERE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "GELATINA BRETZKE 30G PESSEGO",
@@ -24793,11 +23758,6 @@
     "Descrição": "BISC CUETARA 213G NAPOLITANAS COM CANELA",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "MSE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MAC.IMPERIO DAS MASSAS 300G ESPAGUE",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
   },
   {
     "Descrição": "VINHO CODICI PUGLIA 750ML BRANCO",
@@ -24848,11 +23808,6 @@
     "Descrição": "IOGURTE BATAVO 170G PROBIO2 MORANGO",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "BATAVO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SALSICHA MEICA 250G FRANKFURTER",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "MEICA"
   },
   {
     "Descrição": "KETCHUP HEINZ 260G",
@@ -25010,11 +23965,6 @@
     "Desc Marca": "RENATA"
   },
   {
-    "Descrição": "ZZZ INATIVAR PAO ALHO ZINHO 300G BAGUETE PICANTE",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "ZINHO"
-  },
-  {
     "Descrição": "VINHO URU OMBU 750ML BRANCO S.BLANC",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "OMBU"
@@ -25043,11 +23993,6 @@
     "Descrição": "CAPSULAS 3 CORACOES 110G CAPPUCCINO AVELA",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "3 CORACOES"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G FUNC MOR/CEREA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "CHIA VITAO 150G GRAOS",
@@ -25115,11 +24060,6 @@
     "Desc Marca": "TABASCO"
   },
   {
-    "Descrição": "ZZZ INATIVAR MANTEIGA GRAN MESTRI 200G LATA ZERO LACTOSE",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "GRAN MESTRI"
-  },
-  {
     "Descrição": " GUA MIN.ITAIPU 1,5L C/GAS",
     "Desc Grupo": "AGUA MINERAL",
     "Desc Marca": "ITAIPU"
@@ -25178,11 +24118,6 @@
     "Descrição": "PO P/M.MOLE APTI 50G CHOCOLATE",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "APTI"
-  },
-  {
-    "Descrição": "ZZZ INATIVO IOGURTE MOLICO 850G ZERO LACTOSE MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "NESTLE"
   },
   {
     "Descrição": "FARINHA LACTEA NESTLE 210G SACHET",
@@ -25360,11 +24295,6 @@
     "Desc Marca": "HEMMER"
   },
   {
-    "Descrição": "ZZZ INATIVAR FOLHADO PRES.QUEIJO FORN.MINAS 240G",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "FORNO DE MINAS"
-  },
-  {
     "Descrição": "DIP LOKO NEON MONTERS OLHO 30X10G",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "DIPLOKO"
@@ -25495,11 +24425,6 @@
     "Desc Marca": "CHR.HANSEN"
   },
   {
-    "Descrição": "ZZZ INATIVAR CARNE ALFAMA 400G FRANGO DESFIADO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "ALFAMA"
-  },
-  {
     "Descrição": "VINHO MESA BORSO DI GRAPPA 720ML TINTO SUAVE",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "BORSO DI GRAPPA"
@@ -25560,19 +24485,9 @@
     "Desc Marca": "CAROLINA"
   },
   {
-    "Descrição": "ZZZ INATIVAR NATA SANTA CLARA 200G",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "SANTA CLARA"
-  },
-  {
     "Descrição": "MOLHO SHOYU ZAELI 150ML",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "ZAELI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE PAULISTA 170G INTEGRAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "PAULISTA"
   },
   {
     "Descrição": "AMENDOIM YOKI 500G JAPONES",
@@ -25618,11 +24533,6 @@
     "Descrição": "BISC ZEZE 60G MIGNON GALETO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "ZEZE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR CARNE SUINA PRIMATO TEMP.KG PERNIL TIPO TENDER",
-    "Desc Grupo": "SUINOS - MERCADO",
-    "Desc Marca": "PRIMATO MARCA PROPRIA"
   },
   {
     "Descrição": "QUEIJO CRIOULO KG PARMESAO SCHN.BRANCO PEDACO",
@@ -25700,11 +24610,6 @@
     "Desc Marca": "ANGIOLLETO"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE PARMALAT WHEY 200G FRUTAS VERMELHAS",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "PARMALAT ETTI"
-  },
-  {
     "Descrição": "AMENDOAS GERIBA 100G GOURMET SALGAD",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "GERIBA"
@@ -25748,11 +24653,6 @@
     "Descrição": "MAIONESE HEMMER 670G TRADICIONAL",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "HEMMER"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MARG.DORIANA LIGHT 500G S/SAL",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "DORIANA"
   },
   {
     "Descrição": "VINHO BRA VIRTUS 750ML ROSE MERLOT",
@@ -25818,11 +24718,6 @@
     "Descrição": "REFRIG.SCHWEPPES 200ML LEMONADE",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "COCA-COLA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SHAKE VEGANO VIDA VEG 250ML COCO C/CHOCOLATE",
-    "Desc Grupo": "SAUDAVEIS",
-    "Desc Marca": "VIDA VEG"
   },
   {
     "Descrição": "CAFE SOL 3CORACOES 200G TRADICIONAL",
@@ -25933,11 +24828,6 @@
     "Descrição": "LOMBO CANADENSE CERATTI 100G FATIADO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "CERATTI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOG CHAMYTO 130G MORANGO COM CEREAL COLORIDO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "CHAMYTO"
   },
   {
     "Descrição": "FONDUE QUATA 400G QUEIJO",
@@ -26415,11 +25305,6 @@
     "Desc Marca": "HAPPY VI"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO CRIOULO KG PARMESAO MONTANHES",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CRIOULO"
-  },
-  {
     "Descrição": "AZEITONA ZAELI 310G FATIADA",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "ZAELI"
@@ -26780,11 +25665,6 @@
     "Desc Marca": "RENATA"
   },
   {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO VIGOR 200G TRADICIONAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
-  },
-  {
     "Descrição": "TORRADA BAUDUCCO 142G MULTI GRAOS",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "BAUDUCCO"
@@ -27033,11 +25913,6 @@
     "Descrição": "QUEIJO RALADO RENATA 50G FORMAGGIO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "RENATA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO FAIXA AZUL 150G GRUYERE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FAIXA AZUL"
   },
   {
     "Descrição": "NUTRIWHEY PROTEIN INTEGRALMEDICA 907G CHOC PCT",
@@ -27395,11 +26270,6 @@
     "Desc Marca": "APTI"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO RALADO FINISSIMA 40G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FINISSIMA"
-  },
-  {
     "Descrição": "CHA ARIZONA 500ML ICED TEA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "ARIZONA"
@@ -27485,11 +26355,6 @@
     "Desc Marca": "HALLS"
   },
   {
-    "Descrição": "ZZZ INATIVAR MINI PIZZA IMPERIO 120G FRANGO CATU",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
-  },
-  {
     "Descrição": "BARRA CEREAIS RITTER 22G BRIGADEIRO",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "RITTER"
@@ -27563,11 +26428,6 @@
     "Descrição": "COOKIES JASMINE 150G ZERO AMENDOAS E CASTANHAS",
     "Desc Grupo": "NATURAIS E INTEGRAIS",
     "Desc Marca": "JASMINE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR COCO VERDE 400G AUTENTICOCO",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "PRIMATO"
   },
   {
     "Descrição": "ASPARGO LA CUMPARSITA 330G",
@@ -27715,11 +26575,6 @@
     "Desc Marca": "AVIACAO"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO VINHAIS KG GRUYERE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VINHAIS"
-  },
-  {
     "Descrição": "ACUCAR CRISTAL ESTRELA 5KG",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "ESTRELA"
@@ -27758,11 +26613,6 @@
     "Descrição": "BALAS FINI 90G FINIBURGUERS",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "FINI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR COSTELA SUINA JULIATTO KG PEDACO DEFUMADA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SADIA"
   },
   {
     "Descrição": "EXTRATO TOMATE OLE 260G COPO DECORADO",
@@ -27850,11 +26700,6 @@
     "Desc Marca": "KITAL"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONE 170G LIQ.MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
-  },
-  {
     "Descrição": "CHA LIFE MIX 290ML HIBISCO LATA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "LIFE MIX"
@@ -27928,11 +26773,6 @@
     "Descrição": "REFRESCO PO NUTRINHO 25G UVA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "NUTRIMENTAL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LEITE FERM.ACTIVIA 1KG ZERO LACTOSE MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "ACTIVIA"
   },
   {
     "Descrição": "CAFE SOL NESCAFE 50G TRADICAO",
@@ -28110,11 +26950,6 @@
     "Desc Marca": "GRAN MESTRI"
   },
   {
-    "Descrição": "ZZZ INATIVAR VEGETAL DAUCY 300G MISTURA TAILANDESA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "DAUCY"
-  },
-  {
     "Descrição": "BALAS PECCIN 150G PURA PESSEGO",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "PECCIN"
@@ -28168,11 +27003,6 @@
     "Descrição": "PRESUNTO COZ.PERDIGAO KG OVAL",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "PERDIGAO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PAO QUEIJO CATUPIRY 300G RECHEADO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "CATUPIRY"
   },
   {
     "Descrição": "SALSICHA COPACOL 500G HOT DOG",
@@ -28260,11 +27090,6 @@
     "Desc Marca": "ISABELA"
   },
   {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.PAULISTA 540G FEST.FRUTA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "PAULISTA"
-  },
-  {
     "Descrição": "BISC ED MAIS 300G AMANT COCO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "ED MAIS"
@@ -28323,11 +27148,6 @@
     "Descrição": "KETCHUP LINEA 350G ZERO",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "LINEA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 170G PARC.MARAC.GEN",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "CHA LIBERTEA 269ML VERDE C/LIMAO SICILIANO ALECRIM",
@@ -28710,11 +27530,6 @@
     "Desc Marca": "PARATI"
   },
   {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO FRIMESA 200G PIMENTA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "AZEITONA HEMMER 320G VERDE",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "HEMMER"
@@ -28743,11 +27558,6 @@
     "Descrição": "BRUSCHETTA STUTTGART 215G CAPONATA GRELHADA",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "BRUSCHETTA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PATE DE TOFU SAMURAI 160G MANJERICAO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SAMURAI ORGANIC FOODS"
   },
   {
     "Descrição": "IOGURTE DANONINHO 100G P/BEBER MORANGO",
@@ -28875,11 +27685,6 @@
     "Desc Marca": "PARMALAT ETTI"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOG CHAMYTO 130G MORANGO COM CEREAL CHOCOLATE",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "CHAMYTO"
-  },
-  {
     "Descrição": "CREME RICOTA TIROLEZ 200G",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "TIROLEZ"
@@ -28943,11 +27748,6 @@
     "Descrição": "IOGURTE V.CAMPO NATURAL WHEY 28 500G MORANGO",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "VERDE CAMPO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G FUNC.AMEIXA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "VINHO SAINT GERMAIN 750ML CABERNET",
@@ -29028,11 +27828,6 @@
     "Descrição": "SALGAD.FANDANGOS 44G PRESUNTO",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "ELMA CHIPS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LINGUICA CALABRESA SADIA 500G LKSP",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SADIA"
   },
   {
     "Descrição": "CHOCOTTONE BAUDUCCO 750G GOTAS CHOC",
@@ -29250,11 +28045,6 @@
     "Desc Marca": "INSPIRE"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO PRESIDENT 113G CABRA NATURAL",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "PRESIDENT"
-  },
-  {
     "Descrição": "LASANHA PERDIGAO 600G FRANGO BACON",
     "Desc Grupo": "CONGELADOS",
     "Desc Marca": "PERDIGAO"
@@ -29323,11 +28113,6 @@
     "Descrição": "PANETTONE SANTA EDWIGES 500G PREMIUM BRIGADEIRO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "SANTA EDWIGES"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR FONDUE CRUZILIA 250G CHOCOLATE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CRUZILIA"
   },
   {
     "Descrição": "MOLHO FRONTERA 89ML PIMENTA HABANERO",
@@ -29485,11 +28270,6 @@
     "Desc Marca": "NESTLE"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 170G LIGHT MAMAO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "IOGURTE FRIMESA 165G PARC.DESNATADO MEL",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "FRIMESA"
@@ -29638,11 +28418,6 @@
     "Descrição": "DOCE LAR 400G AMEIXA",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "LAR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE NESTLE GREGO 90G FRUTAS VERMELHAS",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "NESTLE"
   },
   {
     "Descrição": "MANTEIGA FRIMESA 200G TABLETE S/ SAL",
@@ -30015,11 +28790,6 @@
     "Desc Marca": "TARANTELLA"
   },
   {
-    "Descrição": "INATIVO",
-    "Desc Grupo": "DOCES,GELEIASEMEL",
-    "Desc Marca": "DELASKA(VITAO)"
-  },
-  {
     "Descrição": "DRAGEADO VITAO 30G AMENDOA SEM LACTOSE",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "VITAO"
@@ -30200,11 +28970,6 @@
     "Desc Marca": "FITFOOD"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G PED.FR.VERMELH",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "BALAS BUT.TOFFEES 600G MENTA",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "ARCOR"
@@ -30213,11 +28978,6 @@
     "Descrição": "MIST P/BOLO DR.OETKER 450G CHOCOLATE",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "DR.OETKER"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE DU CAMPO 1000G PCT MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DU CAMPO"
   },
   {
     "Descrição": "MOLHO PIMENTA KENKO 1L",
@@ -30253,11 +29013,6 @@
     "Descrição": "BISC MATINATTA 140G ERVAS FINAS",
     "Desc Grupo": "NATURAIS E INTEGRAIS",
     "Desc Marca": "ITAMARATY"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR CARNE SUINA SADIA 1KG FILE",
-    "Desc Grupo": "SUINOS - MERCADO",
-    "Desc Marca": "SADIA"
   },
   {
     "Descrição": "ESPUMANTE BRA GARIBALDI 750ML MOSCATEL ROSE",
@@ -30433,11 +29188,6 @@
     "Descrição": "GR O DE BICO FUGINI 170G",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "FUGINI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.FRIMESA 540G MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "SALGADINHO TORCIDA CALABRESA 50G",
@@ -30648,11 +29398,6 @@
     "Descrição": "AZEITONA LA VIOLETERA 130G C/JALAPE O",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "LA VIOLETERA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO CLARA MILK 1,8KG TRADICIONAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "CLARA MILK"
   },
   {
     "Descrição": "SALGADINHO BATATA LAYS CHEESE 50G",
@@ -31055,11 +29800,6 @@
     "Desc Marca": "UNIBABY"
   },
   {
-    "Descrição": "ZZZ INATIVAR PAO ALHO SABOR NUMERO HUMM 310G",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "KI-BOX"
-  },
-  {
     "Descrição": "MIST P/BOLO APTI 400G QUATRO LEITES",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "APTI"
@@ -31138,11 +29878,6 @@
     "Descrição": "AMBROSIA PORTUGUESA R.MINAS 620G",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "RESERVA MINAS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR DOCE LEITE DONA AUGUSTA 400G",
-    "Desc Grupo": "DOCES,GELEIASEMEL",
-    "Desc Marca": "LACTO BOM"
   },
   {
     "Descrição": "MIST P/ALMONDEGAS SATIS 60G PICANHA",
@@ -31245,11 +29980,6 @@
     "Desc Marca": "CERESER"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO PRESIDENT KG MUSSARELA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "PRESIDENT"
-  },
-  {
     "Descrição": "CHA PRENDA C/10UN FRUTAS VERMELHAS",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "CHA PRENDA DO BRASIL"
@@ -31278,11 +30008,6 @@
     "Descrição": "VINHO BRA CASA VALDUGA 1875 375ML TINTO BLEND LICOROSO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CASA VALDUGA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO RALADO VIGOR 50G PARMES O",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "BEBIDA LAC.CHOCOLECO 200ML",
@@ -31493,11 +30218,6 @@
     "Descrição": "FARINHA TRIGO ANDRE 5KG",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "ANDRE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR TIRINHAS DE FRANGO LAR 300G CAIXA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "LAR"
   },
   {
     "Descrição": "FEIJOADA VAPZA 500G",
@@ -31815,21 +30535,6 @@
     "Desc Marca": "MINUETO"
   },
   {
-    "Descrição": "ZZZ INATIVAR PATE DE TOFU SAMURAI 160G DEFUMADO PIMENTA VERDE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SAMURAI ORGANIC FOODS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO ANILA KG TRANCADO C/VINHO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "ANILA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LEITE FERM.ACTIVIA 400G AMEIXA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "ACTIVIA"
-  },
-  {
     "Descrição": "CHA PEGUE MAIS 10G CAMOMILA FLOR",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "PEGUE MAIS"
@@ -31853,11 +30558,6 @@
     "Descrição": "REFRESCO PO TOMY 30G MANGA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "TOMY"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.FRIMESA 540G MORANGO/COCO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "RAIZ FORTE WASABI S&B 43G NERI",
@@ -31980,11 +30680,6 @@
     "Desc Marca": "LAR"
   },
   {
-    "Descrição": "ZZZ INATIVAR PAO BATATA CARNE PANELA BREAD KING 150G",
-    "Desc Grupo": "SALGADINHOS",
-    "Desc Marca": "BREAD KING"
-  },
-  {
     "Descrição": "TORRONE MONTEVERGINE 90G AMENDOIM/CACAU/MEL",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "MONTEVERGINE"
@@ -32085,11 +30780,6 @@
     "Desc Marca": "ADAMS"
   },
   {
-    "Descrição": "ZZZ INATIVAR MANTEIGA GRAN MESTRI 200G LATA C/SAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "GRAN MESTRI"
-  },
-  {
     "Descrição": "BEBIDA LAC.VERDE CAMPO 200ML",
     "Desc Grupo": "LEITES E DERIVADOS",
     "Desc Marca": "VERDE CAMPO"
@@ -32133,16 +30823,6 @@
     "Descrição": "GELEIA B.PRINCIPIO 250G GOUR.AB.PIM",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "BOM PRINCIPIO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO PRESIDENT KG BRIE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "PRESIDENT"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR RICOTA FRESCA NACON",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "NACON"
   },
   {
     "Descrição": "MOLHO COMPANHIA ERVAS 80ML ARD NCIA REGA O",
@@ -32300,11 +30980,6 @@
     "Desc Marca": "RITTER"
   },
   {
-    "Descrição": "ZZZ INATIVAR PASTEL FORNO BREAD KING 280G CARNE",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "BREAD KING"
-  },
-  {
     "Descrição": "SNACKS AMENDUP  CALABRESA 50GR",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "AMENDUPA"
@@ -32338,11 +31013,6 @@
     "Descrição": "GOMA MASCAR TRIDENT 13,3G UNLIMITED MELANCIA",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "TRIDENT"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE BATAVO 900G CEREAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
   },
   {
     "Descrição": "PEITO FRANGO CERATTI 170G",
@@ -32495,11 +31165,6 @@
     "Desc Marca": "BRETZKE"
   },
   {
-    "Descrição": "ZZZ INATIVAR ENROLADO DE SALSICHA",
-    "Desc Grupo": "SALGADINHOS",
-    "Desc Marca": "MASSA PURA"
-  },
-  {
     "Descrição": "VINHO POR CORAGEM RESERVA 750ML TINTO BLEND",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CORAGEM"
@@ -32568,11 +31233,6 @@
     "Descrição": "MOLHO TOMATE POMAROLA 300G ALHO AZEITE AZEITONA",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "POMAROLA"
-  },
-  {
-    "Descrição": "INATIVO",
-    "Desc Grupo": "MATINAIS",
-    "Desc Marca": "NESTLE"
   },
   {
     "Descrição": "BEBIDA LAC.PRIMATO 150G MORANGO",
@@ -33040,11 +31700,6 @@
     "Desc Marca": "BALDONI"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO GRAN MESTRI KG GRANA CUORE DUPLO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "GRAN MESTRI"
-  },
-  {
     "Descrição": "DOCE LEITE R.MINAS 650G GOIABA",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "RESERVA MINAS"
@@ -33165,11 +31820,6 @@
     "Desc Marca": "ZAPOLI"
   },
   {
-    "Descrição": "ZZZ INATIVAR MASSA MINI PIZZA MEZZANI 400G",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "MEZZANI"
-  },
-  {
     "Descrição": "PASTA AMENDOIM VITAPOWER 1,005KG BLANK",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "VITAPOWER"
@@ -33245,11 +31895,6 @@
     "Desc Marca": "3 CORACOES"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE VIGOR GREGO 120G PEDACOS CR",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
-  },
-  {
     "Descrição": "VINAGRE KOLLER 3L VINHO BRANCO",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "KOLLER"
@@ -33323,11 +31968,6 @@
     "Descrição": "CREPIOCA NATURAL LIFE 250G",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "NATURAL LIFE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LINGUICA DEFUMADA CATTANI KG ESPECIAL",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "IRACI CATTANI"
   },
   {
     "Descrição": "AZEITE OLIVA O-LIVE 250ML EXTRA VIRGEM",
@@ -33415,11 +32055,6 @@
     "Desc Marca": "KELLOGGS"
   },
   {
-    "Descrição": "ZZZ INATIVAR LINGUICA TOSCANA SAMOLLE KG QUEIJO",
-    "Desc Grupo": "SUINOS - MERCADO",
-    "Desc Marca": "SAMOLLE"
-  },
-  {
     "Descrição": "BISC NINFA 300G ROSCA DE COCO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "NINFA"
@@ -33488,11 +32123,6 @@
     "Descrição": "CALDO ARISCO 19G GALINHA CAIPIRA",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "ARISCO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO VEGANO VIDA VEG 200G MINAS PADRAO CAST.CAJU",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VIDA VEG"
   },
   {
     "Descrição": "CARNE SUINA PRIMATO KG BISTECA S/PELE",
@@ -33700,11 +32330,6 @@
     "Desc Marca": "ZEZE"
   },
   {
-    "Descrição": "INATIVO",
-    "Desc Grupo": "TEMPEROS",
-    "Desc Marca": "MAGGI"
-  },
-  {
     "Descrição": "ACUCAR UNIAO 1KG DEMERARA",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "UNIAO REFINARIA"
@@ -33728,11 +32353,6 @@
     "Descrição": "MOLHO ELEG  200G QUATRO QUEIJOS",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "ELEGE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR EMPANADO TILAPIA COPACOL 400G FILE CORN FLAKES",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "COPACOL"
   },
   {
     "Descrição": "REQUEIJAO NESTLE 200G LIGHT",
@@ -33868,11 +32488,6 @@
     "Descrição": "PATE DE AZEITONAS NUCETE 190G VERDES C/ALHO",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "NUCETE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE BATAVO 170G BOB DE FRUTAS E CEREAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
   },
   {
     "Descrição": "TEMPERO NEW MAX KG 495 LING PERNIL",
@@ -34070,11 +32685,6 @@
     "Desc Marca": "BOM PRINCIPIO"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO VIGOR 150G EMMENTAL FATIADO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VIGOR"
-  },
-  {
     "Descrição": "COCO RALADO FLOCOCO 100G FLOCOS",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "SOCOCO"
@@ -34175,11 +32785,6 @@
     "Desc Marca": "BAUDUCCO"
   },
   {
-    "Descrição": "ZZZ INATIVAR AGUA MINERAL BONAFONT 500ML S/GAS",
-    "Desc Grupo": "AGUA MINERAL",
-    "Desc Marca": "BONAFONT"
-  },
-  {
     "Descrição": "BETERRABA HEMMER 400G",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "HEMMER"
@@ -34198,11 +32803,6 @@
     "Descrição": "SNACK FITFOOD 40G CHIPS COCO",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "FITFOOD"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PAO QUEIJO FORNO DE MINAS 1KG LANCHE",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "FORNO DE MINAS"
   },
   {
     "Descrição": "MAIONESE HEMMER 290G",
@@ -34248,11 +32848,6 @@
     "Descrição": "GELEIA CASA MADEIRA 240G TRAD.BLUEBERRY",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "CASA MADEIRA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE VIGOR GREGO 90G F.AMARELAS",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "AZEITONA FATIADA KG (REST)",
@@ -34363,11 +32958,6 @@
     "Descrição": "MOSTARDA REINE DIJON 200G TRADICIONAL",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "REINE DIJON"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.FRIMESA 1000G MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "VINHO BRA MIOLO TERROIR 750ML MERLOT",
@@ -34615,11 +33205,6 @@
     "Desc Marca": "BAUDUCCO"
   },
   {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.UNIBABY 125G ACAI MORANGO E CEREAIS",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
     "Descrição": "POLPA FRUTAE 400G GRAVIOLA",
     "Desc Grupo": "CONGELADOS",
     "Desc Marca": "FRUTAE"
@@ -34815,11 +33400,6 @@
     "Desc Marca": "LACTO BOM"
   },
   {
-    "Descrição": "ZZZ INATIVAR LOMBO SUINO SADIA KG TEMPERADO",
-    "Desc Grupo": "SUINOS - MERCADO",
-    "Desc Marca": "SADIA"
-  },
-  {
     "Descrição": "CHA TWININGS C/12 LIMAO C/GENGIBRE",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "TWININGS"
@@ -34878,11 +33458,6 @@
     "Descrição": "VINHO CHI TANTEHUE 750ML SAUVIGNON BLANC",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "VENTISQUEIRO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PASTEL IMPERIO DAS MASSAS 650G FRAN",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
   },
   {
     "Descrição": "CHOCOLATE PO SICAO 1,01KG 50%",
@@ -34953,11 +33528,6 @@
     "Descrição": "BISC CASA DA CUCA 300G AMENDOIM C/CHOC",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "CASA DA CUCA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MINI PIZZA IMPERIO 120G CALABRESA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
   },
   {
     "Descrição": "GRANOLA JASMINE 1KG LIGHT SOJA E LINHA A",
@@ -35145,11 +33715,6 @@
     "Desc Marca": "PIRACANJUBA"
   },
   {
-    "Descrição": "ZZZ INATIVAR TRIPA SECA LOPESCO 10M SEMI SECA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "LOPESCO"
-  },
-  {
     "Descrição": "MASSA LASANHA TRINDADE 500G",
     "Desc Grupo": "FRIOS",
     "Desc Marca": "TRINDADE"
@@ -35270,11 +33835,6 @@
     "Desc Marca": "DIVERSOS"
   },
   {
-    "Descrição": "ZZZ INATIVAR PIZZA SADIA 460G PORTUGUESA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "SADIA"
-  },
-  {
     "Descrição": "COMP.ERVA MATE UHDE 500G ICE MENTOL",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "UHDE"
@@ -35293,11 +33853,6 @@
     "Descrição": "KETCHUP BUDWEISER 400G PICANTE",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "MSE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MANTEIGA CRIOULO 200G C/SAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "CRIOULO"
   },
   {
     "Descrição": "QUEIJO PRESIDENT KG MINAS",
@@ -35575,11 +34130,6 @@
     "Desc Marca": "CASA MADEIRA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 400G ZERO AMEIXA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "AMENDOIM DORI 90G BOTECO SALGADO",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "DORI"
@@ -35628,11 +34178,6 @@
     "Descrição": "BEBIDA LAC.CAROLINA 510G VERY GURT MORANGO/COCO",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "CAROLINA"
-  },
-  {
-    "Descrição": "ZZINATIVOSODA CACHOEIRINHA 1,4L",
-    "Desc Grupo": "BEBIDAS",
-    "Desc Marca": "MILLENIUM"
   },
   {
     "Descrição": "MOLHO GREAT BRITISH 335G CHILLI",
@@ -35710,11 +34255,6 @@
     "Desc Marca": "CAMIL"
   },
   {
-    "Descrição": "ZZZ INATIVAR MORTADELA CERATTI 150G C/PICLES",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CERATTI"
-  },
-  {
     "Descrição": "TEMPERO KI-FORTE 160G PEIXE",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "KI FORTE"
@@ -35728,11 +34268,6 @@
     "Descrição": "SALGAD.TROFEU 40G PIMENTA",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "COM.DOCES LUCKY LTDA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MAC.IMPERIO DAS MASSAS 300G FUSILLI",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
   },
   {
     "Descrição": "BEB ADOCADA DEL VALLE FRUT 1,5L PET TANGERIN",
@@ -35860,11 +34395,6 @@
     "Desc Marca": "ZAELI"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO GRAN MESTRI KG MEIA FORMA GRANA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "GRAN MESTRI"
-  },
-  {
     "Descrição": "CARNE SUINA FRIMESA KG COSTELA CONGELADA C/OSSO",
     "Desc Grupo": "SUINOS - MERCADO",
     "Desc Marca": "FRIMESA"
@@ -35920,16 +34450,6 @@
     "Desc Marca": "KARUI"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO VONK KG MAASDAM CUNHA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VONK"
-  },
-  {
-    "Descrição": "ZZZ INATIVO IOGURTE BATAVO 100G PEDACOS DUO MARAC/PESSEGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
-  },
-  {
     "Descrição": "BALAS BUT.TOFFEES 600G COCO",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "ARCOR"
@@ -35948,11 +34468,6 @@
     "Descrição": "DOCE DE LEITE NO PONTO BRIGADEIRO 50G",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "NO PONTO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO FLOR DA TERRA KG TIPO SAINT-MARCELLIN",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FLOR DA TERRA QUEIJOS FINOS"
   },
   {
     "Descrição": "VINHO ESPUMANTE LA DORNI 750ML MOSC",
@@ -36435,11 +34950,6 @@
     "Desc Marca": "DO VOVO"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G INT.CAM.GOIABA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "VINHO POR PARDALITO DOC 750ML VERDE",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "BARCOS WINE"
@@ -36468,16 +34978,6 @@
     "Descrição": "MARG.COAMO 500G C/SAL EXTRA CREMOSA",
     "Desc Grupo": "FRIOS",
     "Desc Marca": "COAMO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO CRIOULO KG MUSSARELA BOLINHA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CRIOULO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO FRIMESA 500G PRATO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "FEIJAO CARIOCA CALDO BOM 1KG OURO",
@@ -36715,11 +35215,6 @@
     "Desc Marca": "GRILLS PEPPER"
   },
   {
-    "Descrição": "ZZZ INATIVAR PASTEL MEZZANI 250G CARNE",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "MEZZANI"
-  },
-  {
     "Descrição": "VINAGRE BALSAMICO CASTELO 500ML TRA",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "CASTELO"
@@ -36783,11 +35278,6 @@
     "Descrição": "MELADO DACOLONIA 250G BISNAGA",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "DACOLONIA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PAO BATATA MEZZANI 300G REQUEIJAO",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "MEZZANI"
   },
   {
     "Descrição": "VINHO MESA CAMPO LARGO 750ML BRANCO SECO",
@@ -36975,11 +35465,6 @@
     "Desc Marca": "DIVINA MESA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 170G ZERO MIRTILIO BLUEBERRY",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "QUEIJO RALADO GRAN PALADARE 50G ZERO LACTOSE",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "GRAN PALADARE"
@@ -37118,11 +35603,6 @@
     "Descrição": "FARINHA MANDIOCA AMAFIL 500G TORRADA",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "AMAFIL"
-  },
-  {
-    "Descrição": "INATIVO",
-    "Desc Grupo": "TEMPEROS",
-    "Desc Marca": "HINOMOTO"
   },
   {
     "Descrição": "TEMPERO VINAGRE CASTELO 450ML TRADI",
@@ -37298,11 +35778,6 @@
     "Descrição": "VINHO BRA CASTELLAMARE 3L BRANCO CHARDONNAY",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CASTELLAMARE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SORRENTINO F.MINAS 250G MUS.BUFALA",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "FORNO DE MINAS"
   },
   {
     "Descrição": "CHA DR.OETKER 30G MACA E CANELA",
@@ -37590,11 +36065,6 @@
     "Desc Marca": "PODER DA TERRA"
   },
   {
-    "Descrição": "ZZZ INATIVO LEITE FERM.UNIBABY 850G",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
     "Descrição": "BISC CUETARA 200G DIGESTA MARIE",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "MSE"
@@ -37673,11 +36143,6 @@
     "Descrição": "PACOQUINHA DA COLONIA 14G ROLHA",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "DA COLONIA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO VERDE CAMPO 180G SAL HIMALA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VERDE CAMPO"
   },
   {
     "Descrição": "AVEIA FLOCOS YOKI 500G GROSSOS",
@@ -37773,11 +36238,6 @@
     "Descrição": "VINHO BRA ALMEJO 750ML TINTO MERLOT",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "FAMILIA BEBBER"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MANTEIGA CAMPOS VACARIA 200G COM SAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "RAR"
   },
   {
     "Descrição": "BEB ADOCADA KAPO 200ML ABACAXI",
@@ -37935,11 +36395,6 @@
     "Desc Marca": "DO PONTO"
   },
   {
-    "Descrição": "ZZZ INATIVAR BEBIDA VEGETAL VIDA VEG 1L COCO",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "VIDA VEG"
-  },
-  {
     "Descrição": "BATATA CANTU 160G CREME CEBOLA",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "CANTU"
@@ -38040,11 +36495,6 @@
     "Desc Marca": "CRIOULO"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G PARC.AMEIXA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "NIBS CACAU CALLEBAUT 800G AM.CAC.TO",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "BARRY CALLEBAUT"
@@ -38120,11 +36570,6 @@
     "Desc Marca": "MARILAN S/A"
   },
   {
-    "Descrição": "ZZZ INATIVAR AGUA TONICA ANTARCTICA 269ML 3 LIMOES LATA",
-    "Desc Grupo": "BEBIDAS",
-    "Desc Marca": "ANTARCTICA"
-  },
-  {
     "Descrição": "MIX LA VIOLETERA VC+ 25G GLAM",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "LA VIOLETERA"
@@ -38148,11 +36593,6 @@
     "Descrição": "BRUSCHETTA STUTTGART 215G ASPARGOS VERDES QUEIJO",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "BRUSCHETTA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO VIDA VEG 150G PARMES O CAST.CAJU",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VIDA VEG"
   },
   {
     "Descrição": "GELEIA CASA MADEIRA 240G GOURMET ABACAXI COM PIMENTA",
@@ -38223,11 +36663,6 @@
     "Descrição": "ARROZ PAGANINI 1KG CARNAROLI",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "PAGANINI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO LACFREE KG PADRAO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VERDE CAMPO"
   },
   {
     "Descrição": "BARRA CEREAIS TRIO 20G BRIGADEIRO",
@@ -38690,11 +37125,6 @@
     "Desc Marca": "TODDY"
   },
   {
-    "Descrição": "ZZZ INATIVO IOGURTE UNIBABY 800G ZERO LAC.MORAN",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
     "Descrição": "AZEITONA LA VIOLETERA 200G VERDE",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "LA VIOLETERA"
@@ -38703,11 +37133,6 @@
     "Descrição": "WAFER VIEIRA 125G CHOCOLATE",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "ISABELA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR ANEIS DE CEBOLA COPACOL 1,1KG EMPAN",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "COPACOL"
   },
   {
     "Descrição": "LEITE COND.MOCA 395G TP",
@@ -38980,11 +37405,6 @@
     "Desc Marca": "FLORMEL"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO SAO VICENTE KG EMMENTAL",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SAO VICENTE"
-  },
-  {
     "Descrição": "CAFE SOL NESCAFE 40G REFIL TRADICAO",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "NESTLE"
@@ -39220,11 +37640,6 @@
     "Desc Marca": "HELLMANNS"
   },
   {
-    "Descrição": "ZZZ INATIVAR DOCE DE LEITE DE BUFALA BOM DESTINO 400G",
-    "Desc Grupo": "DOCES,GELEIASEMEL",
-    "Desc Marca": "BOM DESTINO"
-  },
-  {
     "Descrição": "ACUCAR CRISTAL ALTO ALEGRE 2KG",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "ALTO ALEGRE"
@@ -39290,11 +37705,6 @@
     "Desc Marca": "KITAL"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO COLONIAL KG PRATO URUGUAIA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "COLONIAL"
-  },
-  {
     "Descrição": "BALAS FINI 90G CANDY CRUSH",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "FINI"
@@ -39317,11 +37727,6 @@
   {
     "Descrição": "PRESUNTO COZ.FRIMESA 500G FATIADO",
     "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FRIMESA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PORCO A PASSARINHO FRIMESA 1KG AGRIDOCE PICANTE",
-    "Desc Grupo": "CONGELADOS",
     "Desc Marca": "FRIMESA"
   },
   {
@@ -39530,11 +37935,6 @@
     "Desc Marca": "KLAIN"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONE 170G LIQ.VIT.FRUTAS",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
-  },
-  {
     "Descrição": "POLVILHO HORIZONTE 500G AZEDO",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "HORIZONTE"
@@ -39623,16 +38023,6 @@
     "Descrição": "RUFFLES SAL 37G",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "ELMA CHIPS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO BUFALA BOM DESTINO 160G CEREJA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "BOM DESTINO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR TOFUBURGUER SAMURAI 180G LEGUMES E CEREAIS",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "SAMURAI ORGANIC FOODS"
   },
   {
     "Descrição": "VINAGRE ZAELI 500ML ALCOOL",
@@ -39773,11 +38163,6 @@
     "Descrição": "ERVILHA QUERO 170G TP",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "QUERO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PRESUNTO CERATTI JAMON IBERICO C/OSSO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CERATTI"
   },
   {
     "Descrição": "CARNE SUINA KG MIUDO BANHA RAMA",
@@ -39970,11 +38355,6 @@
     "Desc Marca": "BARRY CALLEBAUT"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO BUFALA BOM DESTINO 200G BURRATA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "BOM DESTINO"
-  },
-  {
     "Descrição": "PIMENTA TOQUE DE CLASSE 180G BIQUINHO",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "TOQUE DE CLASSE"
@@ -40013,11 +38393,6 @@
     "Descrição": "BATATA PALHA YOKI 240G EXTRA FINA",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "YOKI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MORTADELA SEARA 180G FATIADA FRANGO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SEARA"
   },
   {
     "Descrição": "ALIM.SOJA PURITY 1L MAMAO/BANANA",
@@ -40098,11 +38473,6 @@
     "Descrição": "CAFE PO DUAS MARIAS 500G POUCH EXTRA FORTE",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "DUAS MARIAS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MASSA PASTEL MEZZANI 500G ROLO",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "MEZZANI"
   },
   {
     "Descrição": "QUEIJO PRESIDENT 180G PARMESAO",
@@ -40275,16 +38645,6 @@
     "Desc Marca": "DUSHY"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO FAIXA AZUL 300G PARMESAO CUNHA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FAIXA AZUL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE NESTON 130G COOKIES",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "NESTLE"
-  },
-  {
     "Descrição": "BISC NINFA 500G PAO MEL",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "NINFA"
@@ -40308,11 +38668,6 @@
     "Descrição": "CEBOLA ALHO SALSA BEIJA FLOR 40G",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "BEIJA FLOR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LASANHA SADIA 600G VERDE/BOLONHES",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "SADIA"
   },
   {
     "Descrição": "AMENDOIM IZAURA 200G CRICRI CHOCOLA",
@@ -40370,11 +38725,6 @@
     "Desc Marca": "DOM PALMERENSE"
   },
   {
-    "Descrição": "ZZZ INATIVO SOBREMESA LAC.NESTLE 200G FLAN MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "NESTLE"
-  },
-  {
     "Descrição": "PASTEL NALIDE 650G RISOLES",
     "Desc Grupo": "CONGELADOS",
     "Desc Marca": "NALIDE"
@@ -40405,11 +38755,6 @@
     "Desc Marca": "FONTANA ORO"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 170G ZERO LACTOSE FRUTAS VERMELHAS",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "CARNE SUINA KG ESPINHACO",
     "Desc Grupo": "SUINOS - MERCADO",
     "Desc Marca": "DIVERSOS"
@@ -40438,16 +38783,6 @@
     "Descrição": "QUEIJO FRIMESA KG ESTEPE",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "TIROLEZ"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.UNIBABY 125G ACAI BANANA E GRANOLA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LASANHA IMP.DAS MASSAS 400G FRANGO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
   },
   {
     "Descrição": "SAL BARBECUE DE CABRON 250G AMERICANO C/PIMENTA",
@@ -40508,11 +38843,6 @@
     "Descrição": "OLEO GERGELIM KENKO 100ML NATURAL",
     "Desc Grupo": "OLEOS E AZEITES",
     "Desc Marca": "KENKO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 170G FUNC.AMEIXA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "MAIONESE HELLMANNS 330G SQZ SUPREME",
@@ -40598,11 +38928,6 @@
     "Descrição": "BARRA CEREAIS NUTRY 22G CASTANHA CAJU",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "NUTRIMENTAL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE VIGOR GREGO 120G PED.COCO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "VINAGRE CHEMIM 750ML COMPOSTO MACA",
@@ -40760,11 +39085,6 @@
     "Desc Marca": "SINHA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE BATAVO 850G MORANGO PENSE ZERO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
-  },
-  {
     "Descrição": "COOKIES CHOCOLATE  GOTAS",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "CASAREDO"
@@ -40885,19 +39205,9 @@
     "Desc Marca": "PARATI"
   },
   {
-    "Descrição": "ZZZ INATIVAR PIZZA VIRA VITA 340G",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "VIGORE E VITA"
-  },
-  {
     "Descrição": "MASSA PASTEL AMA BENE 1KG ROLO",
     "Desc Grupo": "FRIOS",
     "Desc Marca": "AMABILE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LEITE FERM.ACTIVIA 800G AMEIXA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "ACTIVIA"
   },
   {
     "Descrição": "PIZZA SEARA 460G CALABRESA",
@@ -40908,11 +39218,6 @@
     "Descrição": "BISC MARILAN 137G PIT STOP PRESUNTO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "MARILAN S/A"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LINGUICA DEF.COPACOL 500G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "COPACOL"
   },
   {
     "Descrição": "CHA PRENDA C/10UN HIBISCUS",
@@ -40993,11 +39298,6 @@
     "Descrição": "QUEIJO MINAS KG",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "DIVERSOS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO GRAN MESTRI KG MEIA PECA PARMESAO NERO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "GRAN MESTRI"
   },
   {
     "Descrição": "BOLO NUTRELLA 35G ANA MARIA BAUNILH",
@@ -41125,11 +39425,6 @@
     "Desc Marca": "MAGRO"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO CRUZILIA KG EMENTAL",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CRUZILIA"
-  },
-  {
     "Descrição": "BARRA CEREAIS KELLOGG S 17G FROOT LOOPS",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "KELLOGGS"
@@ -41198,11 +39493,6 @@
     "Descrição": "TEMPERO COMP.IREMAR 500G GROSSO S/P",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "IREMAR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G LIG.FC.MOR/CER",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "MOLHO GRILLS PEPPER 200G CHIMICHURRI TRADICIONAL",
@@ -41295,11 +39585,6 @@
     "Desc Marca": "CASABLANCA"
   },
   {
-    "Descrição": "ZZZ INATIVAR LEITE FERM.DANONINHO 450G BAUNILHA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
-  },
-  {
     "Descrição": "AMIDO MILHO GERIBA 500G",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "GERIBA"
@@ -41308,11 +39593,6 @@
     "Descrição": "MAIONESE DIVINA MESA 200G SACH ",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "DIVINA MESA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G FUNC.MAM/LARAN",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "STICK COPACOL 300G FRANGO",
@@ -41343,11 +39623,6 @@
     "Descrição": "POLPA POLPANORTE 100G FRUTAS VERMELHAS",
     "Desc Grupo": "CONGELADOS",
     "Desc Marca": "NORTEPOLPA"
-  },
-  {
-    "Descrição": "INATIVO",
-    "Desc Grupo": "BEBIDAS",
-    "Desc Marca": "MONIN"
   },
   {
     "Descrição": "BARRA PROTEINA Q-VITA 40G COOKIES",
@@ -41490,11 +39765,6 @@
     "Desc Marca": "DORI"
   },
   {
-    "Descrição": "ZZINATIVOBALAS FINI TUBES GIGANTE 27G TWISTER",
-    "Desc Grupo": "BALAS E CHICLETES",
-    "Desc Marca": "FINI"
-  },
-  {
     "Descrição": "BISC RENATA 360G CRACKER INTEGRAL",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "RENATA"
@@ -41518,11 +39788,6 @@
     "Descrição": "BISC.BARION 75G CARINHO AMANT.CHOCOLATE",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "BARION"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR EMPANADO TILAPIA COPACOL 400G FILE COCO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "COPACOL"
   },
   {
     "Descrição": "BATATA LAYS 70G SOUR CREAM",
@@ -41595,19 +39860,9 @@
     "Desc Marca": "NESTLE"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE BATAVO 900G MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
-  },
-  {
     "Descrição": "VINHO ESP MARQUES DE TOMARES EXCELLENCE 750ML TINTO TEMPRANILLO VARIETAL",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MARQUES DE TOMARES"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PAO ALHO ZINHO 300G BOLINHA PICANTE",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "ZINHO"
   },
   {
     "Descrição": "CARNE SUINA LEITOA KG",
@@ -41628,11 +39883,6 @@
     "Descrição": "SELETA LEGUMES OLE 170G VIDRO",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "OLE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR CALDO CANA TOPCANA 300ML TRADICIONAL",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "TOPCANA"
   },
   {
     "Descrição": "SALSICHA CERATTI 200G VIENA C/TOMATE",
@@ -41960,11 +40210,6 @@
     "Desc Marca": "UNDURRAGA"
   },
   {
-    "Descrição": "INATIVO",
-    "Desc Grupo": "MOLHOS E EXTRATOS",
-    "Desc Marca": "HEINZ"
-  },
-  {
     "Descrição": "TEMPERO SMART 4X1 35G ERVAS",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "SMART"
@@ -42028,11 +40273,6 @@
     "Descrição": "MIST P/BOLO COPRA 300G COCO",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "COPRA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO GRAN MESTRI KG FRACIONADO GRANA NERO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "GRAN MESTRI"
   },
   {
     "Descrição": "TEMPERO KI-FORTE 500G TEMP.TUDO",
@@ -42173,11 +40413,6 @@
     "Descrição": "RECHEIO TORTA NESTLE",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "NESTLE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR KIT QUEIJO NACON 200G DIAMANTE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "NACON"
   },
   {
     "Descrição": "CHA LEAO C/10UN CHA PRETO",
@@ -42380,11 +40615,6 @@
     "Desc Marca": "APTI"
   },
   {
-    "Descrição": "ZZZ INATIVAR LINGUICA DEFUMADA CATTANI KG COLONIAL",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "IRACI CATTANI"
-  },
-  {
     "Descrição": "CHA PEGUE MAIS 10G POEJO",
     "Desc Grupo": "TEMPEROS",
     "Desc Marca": "PEGUE MAIS"
@@ -42503,11 +40733,6 @@
     "Descrição": "SORVETINA SELECTA 100G NATA",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "SELECTA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LINGUICA PERNIL CATTANI KG",
-    "Desc Grupo": "SUINOS - MERCADO",
-    "Desc Marca": "IRACI CATTANI"
   },
   {
     "Descrição": "BISC NINFA PALPIT 70G PRESUNTO",
@@ -42795,11 +41020,6 @@
     "Desc Marca": "KITAL"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO EL MAESTRO KG PARMES O URUGUAIO PRETO CUNHA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "EL MAESTRO"
-  },
-  {
     "Descrição": "SNACK INSPIRE T.MONICA 20G TOR.MACA",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "INSPIRE"
@@ -42883,11 +41103,6 @@
     "Descrição": "TEMPERO COMP.DUSUL 900G S/PIM",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "DUSUL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO CRIOULO 150G MUSSARELA FATIADA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CRIOULO"
   },
   {
     "Descrição": "COOKIES PARATI 60G BAUN/GOTAS CHOCOLATE",
@@ -43405,11 +41620,6 @@
     "Desc Marca": "KITAL"
   },
   {
-    "Descrição": "ZZZ INATIVAR CROUTTON PITA BREAD 100G NATURAL",
-    "Desc Grupo": "BISCOITOS",
-    "Desc Marca": "SEVENBOYS"
-  },
-  {
     "Descrição": "GELEIA RITTER 260G DIET UVA",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "RITTER"
@@ -43423,11 +41633,6 @@
     "Descrição": "VINHO ESP RAMON BILBAO 750ML ROSE GARNACHA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MONTE PASCHOAL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR VEGETAL DAUCY 1KG MILHO VERDE CONGE",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "DAUCY"
   },
   {
     "Descrição": "DOGUINHO",
@@ -43570,11 +41775,6 @@
     "Desc Marca": "COCA-COLA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONE GREGO 360G LIGHT MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
-  },
-  {
     "Descrição": "DOCE NATA SUICA R.MINAS 630G NOZES",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "RESERVA MINAS"
@@ -43668,11 +41868,6 @@
     "Descrição": "VINHO TESTIMONIO 750ML OLD VINES",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "LUIGI BOSCA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PUDIM BATAVO 200G DOCE DE LEITE",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
   },
   {
     "Descrição": "ASPARGO LA CUMPARSITA 180G VIDRO",
@@ -43990,11 +42185,6 @@
     "Desc Marca": "KITAL"
   },
   {
-    "Descrição": "ZZ INATIVAR QUEIJO RALADO GRAN MESTRI 40G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "GRAN MESTRI"
-  },
-  {
     "Descrição": "FONDUE SANTA CLARA 400G QUEIJO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "SANTA CLARA"
@@ -44038,11 +42228,6 @@
     "Descrição": "KETCHUP HUNTS 383G",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "HUNTS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE CORPUS 170G S/LACTOSE MELAN",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "CORPUS"
   },
   {
     "Descrição": "CREME BALS MICO CASA MADEIRA 100ML MORANGO PIMENTA",
@@ -44163,11 +42348,6 @@
     "Descrição": "QUEIJO POLENGHI 34G POCKET LIGHT",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "POLENGHI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PATE DE TOFU SAMURAI 160G GIRASSOL",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SAMURAI ORGANIC FOODS"
   },
   {
     "Descrição": "MOLHO BONATELLI 340G TRADICIONAL",
@@ -44310,11 +42490,6 @@
     "Desc Marca": "PIETROBON"
   },
   {
-    "Descrição": "ZZZ INATIVAR CHEDDAR TOP CHEDDAR 1,2KG BISNAGA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "TOP CHEDDAR"
-  },
-  {
     "Descrição": "SAGU DO TITO SABOR CAFE 140G",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "TITO"
@@ -44373,11 +42548,6 @@
     "Descrição": "MILHO VERDE QUERO 200G MENOS S DIO",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "QUERO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PASTEL MEZZANI 250G QUEIJO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "MEZZANI"
   },
   {
     "Descrição": "VINHO FRA CRES RICARDS 750ML TINTO BLEND",
@@ -44590,11 +42760,6 @@
     "Desc Marca": "SEARA"
   },
   {
-    "Descrição": "ZZINATIVOVASILHAME SODA CACHOEIRINHA 1,4L",
-    "Desc Grupo": "BEBIDAS",
-    "Desc Marca": "PRIMATO"
-  },
-  {
     "Descrição": "FEIJAO CARIOCA FLOR DO SUL 1KG T-1",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "FLOR DO SUL"
@@ -44750,11 +42915,6 @@
     "Desc Marca": "YOKI"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 100G GREGO FRUTAS V",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "OLEO MISTO OLIVA 5,02L",
     "Desc Grupo": "OLEOS E AZEITES",
     "Desc Marca": "PRIMATO"
@@ -44763,11 +42923,6 @@
     "Descrição": "MAIONESE HELLMANNS 250G REGULAR",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "HELLMANNS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PIZZA VIRA VITA 410G DOCE",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "VIGORE E VITA"
   },
   {
     "Descrição": "AMIDO MILHO KITAL 200G",
@@ -44843,11 +42998,6 @@
     "Descrição": "BISC REC ISABELA 150G MOUSSE MOR/CH",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "ISABELA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MARG.QUALY 250G C/SAL MULTIGRAOS",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "QUALY"
   },
   {
     "Descrição": "MOLHO TOMATE BARILLA 400G ARRABIATA",
@@ -45250,11 +43400,6 @@
     "Desc Marca": "MENTOS"
   },
   {
-    "Descrição": "ZZZ INATIVAR LEITE ARBRALAT UHT 1L INTEGRAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "GRAANMILK"
-  },
-  {
     "Descrição": "WAFER ISABELA LIMAO 145GR",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "ISABELA"
@@ -45293,11 +43438,6 @@
     "Descrição": "BOLO SEVEN BOYS 250G. CHOCOLATE",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "SEVENBOYS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR CREME DANETTE CRIA OES 200G CHOCOLATE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "DANETTE"
   },
   {
     "Descrição": "FRISANTE CERESER 300ML SUNSET",
@@ -45420,11 +43560,6 @@
     "Desc Marca": "SADIA"
   },
   {
-    "Descrição": "ZZZ INATIVAR LASANHA ROMANHA 600G BOLONHESA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "ROMANHA"
-  },
-  {
     "Descrição": "BISC VITAO 80G INTEGRAL AVEIA",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "VITAO"
@@ -45488,11 +43623,6 @@
     "Descrição": "CHOC GRANULADO DORI 120G",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "DORI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO LAC LELO 150G MUSSARELA FATIADA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "LAC LELO"
   },
   {
     "Descrição": "CAPSULAS D.GUSTO C/10 160G CHOCOCINO",
@@ -46000,11 +44130,6 @@
     "Desc Marca": "DOCILE"
   },
   {
-    "Descrição": "ZZZ INATIVAR CARNE SUINA PERDIGAO KG BARRIGA TEMP.BRASA",
-    "Desc Grupo": "SUINOS - MERCADO",
-    "Desc Marca": "PERDIGAO"
-  },
-  {
     "Descrição": "OVOS CODORNA S O MIGUEL 300G",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "CONSERVAS SAO MIGUEL"
@@ -46285,11 +44410,6 @@
     "Desc Marca": "LOWCUCAR"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO GRAN MESTRI KG FRACIONADO PECORINO ROMANO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "GRAN MESTRI"
-  },
-  {
     "Descrição": "SUCO CAMPO LARGO 900ML TANGERINA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CAMPO LARGO"
@@ -46315,11 +44435,6 @@
     "Desc Marca": "CRIOULO"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 540G LIG.FC.MOR/AME",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "MIST CAPPUCCINO JANDAIA 140G LIGHT",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "JANDAIA"
@@ -46338,16 +44453,6 @@
     "Descrição": "CARNE SUINA PRIMATO TEMP.KG ALCATRA",
     "Desc Grupo": "SUINOS - MERCADO",
     "Desc Marca": "PRIMATO MARCA PROPRIA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PAO DE ALHO ZINHO 900G BOLINHA TRADICIONAL C/ QUEIJO",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "ZINHO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR TOFUBURGUER SAMURAI 180G TOMATE E MILHO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "SAMURAI ORGANIC FOODS"
   },
   {
     "Descrição": "CASTANHA CAJU B.PRINCIPIO 100G",
@@ -46423,11 +44528,6 @@
     "Descrição": "MASSA PIZZA FRIREGIO 160G",
     "Desc Grupo": "FRIOS",
     "Desc Marca": "FRIREGIO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PIZZA VIRA VITA 600G",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "VIGORE E VITA"
   },
   {
     "Descrição": "CAFE SOL NESCAFE 40G REFIL MATINAL",
@@ -46695,11 +44795,6 @@
     "Desc Marca": "PINDUCA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 850G ZERO MAMAO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "BISC BON GOUTER 100G TOMATE SECO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "BON GOUTER"
@@ -46718,11 +44813,6 @@
     "Descrição": "SAGU GERIBA 500G",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "GERIBA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BEBIDA VEGETAL VIDA VEG 750ML CASTANHA",
-    "Desc Grupo": "LEITES E DERIVADOS",
-    "Desc Marca": "VIDA VEG"
   },
   {
     "Descrição": "LEITE UHT PARMALAT 1L PET SEMI DESN",
@@ -46850,11 +44940,6 @@
     "Desc Marca": "SABOR AMI"
   },
   {
-    "Descrição": "ZZZ INATIVAR MANTEIGA GRAN MESTRI 200G POTE S/SAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "GRAN MESTRI"
-  },
-  {
     "Descrição": "MEL APITOLEDO 500G POTE",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "APITOLEDO"
@@ -46950,19 +45035,9 @@
     "Desc Marca": "PRIMATO"
   },
   {
-    "Descrição": "ZZZ INATIVAR LEITE FERM.FRIMESA 170G FRIMINHO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "CEBOLINHA CONSERVA COAVO 300G VINHO",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "COAVO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR POLPA NORTEPOLPA 100G MELAO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "NORTEPOLPA"
   },
   {
     "Descrição": "CARNE SUINA CARCACA COMPRA KG COSTELA COM PELE",
@@ -47150,11 +45225,6 @@
     "Desc Marca": "PEGUE MAIS"
   },
   {
-    "Descrição": "ZZZ INATIVAR BATATA PALITO MCCAIN 400G TRADICION",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "MCCAIN"
-  },
-  {
     "Descrição": "MOLHO TOMATE OLE 320G REFOGADO TRADICIONAL",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "OLE"
@@ -47178,11 +45248,6 @@
     "Descrição": "ESPUMANTE BRA CHANDON MAGNUM 1,5L BRUT",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CHANDON"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR NATA SAINT HONORE 230G",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "SAINT HONORE"
   },
   {
     "Descrição": "CHA PEGUE MAIS 15G ENDRO",
@@ -47340,11 +45405,6 @@
     "Desc Marca": "PAGANINI"
   },
   {
-    "Descrição": "ZZZ INATIVAR LASANHA IMP.DAS MASSAS 400G BOLONHE",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
-  },
-  {
     "Descrição": "ACUCAR CRISTAL GLOBO 5KG",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "GLOBO"
@@ -47368,11 +45428,6 @@
     "Descrição": "XAROPE MONIN 700ML MARACUJA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MONIN"
-  },
-  {
-    "Descrição": "INATIVO",
-    "Desc Grupo": "MATINAIS",
-    "Desc Marca": "TRIO"
   },
   {
     "Descrição": "MAIONESE HELLMANNS 335G SQZ CHURRASCO",
@@ -47685,16 +45740,6 @@
     "Desc Marca": "VENETTO"
   },
   {
-    "Descrição": "ZZZ INATIVAR SOBREMESA BATAVO NATURIS 180G SOJA CHOCOLATE",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 200G GREGO FRUTAS",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": " GUA TONICA SCHWEPPES 1,5L",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "COCA-COLA"
@@ -47905,11 +45950,6 @@
     "Desc Marca": "SADIA"
   },
   {
-    "Descrição": "ZZZ INATIVAR BEBIDA VEGETAL VIDA VEG 750ML AMENDOA",
-    "Desc Grupo": "LEITES E DERIVADOS",
-    "Desc Marca": "VIDA VEG"
-  },
-  {
     "Descrição": "VINHO ESPUMANTE EXTRUS 750ML BRUT",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "DEZEM"
@@ -47973,11 +46013,6 @@
     "Descrição": "VINHO VINUS 750ML ROUGE CLASSIQUE",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "PAUL MAS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONE GREGO 100G TRADICIONAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
   },
   {
     "Descrição": "ARROZ INT.ZAELI 1KG",
@@ -48198,11 +46233,6 @@
     "Descrição": "GELEIA B.PRINCIPIO 250G GOUR.CEB.CARAMEL",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "BOM PRINCIPIO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE VIGOR GREGO 120G PED.DAMASCO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "PEPINO TEMPERO DO SUL 270G CONSERVA PET",
@@ -48665,11 +46695,6 @@
     "Desc Marca": "ASSADOR"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G PARC.DESNATADO COCO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "VINHO BRA FRACAO UNICA 750ML TINTO MERLOT",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CASA PERINI"
@@ -48718,11 +46743,6 @@
     "Descrição": "REFRESCO PO TANG 18G LAR/MAMAO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "TANG"
-  },
-  {
-    "Descrição": "INATIVO",
-    "Desc Grupo": "BISCOITOS",
-    "Desc Marca": "ARCOR"
   },
   {
     "Descrição": "PAO ALHO PRIMATO 300G TRADICIONAL",
@@ -48868,11 +46888,6 @@
     "Descrição": "MOLHO KARUI 250ML TONKATSU",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "KARUI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO NACON KG MUSSARELA ESPETO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "NACON"
   },
   {
     "Descrição": "SUCO PRATS 300ML LARANJA, ACEROLA E MA A",
@@ -49035,11 +47050,6 @@
     "Desc Marca": "LA VIOLETERA"
   },
   {
-    "Descrição": "ZZZ INATIVAR MANTEIGA GRAN MESTRI 200G FORNO&FOGAO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "GRAN MESTRI"
-  },
-  {
     "Descrição": "MOLHO PIMENTA TABASCO 60ML C/ALHO",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "TABASCO"
@@ -49110,24 +47120,9 @@
     "Desc Marca": "DELICKS"
   },
   {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.UNIBABY 850G PCT COCO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR CREME RICOTA SANTA CLARA 200G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SANTA CLARA"
-  },
-  {
     "Descrição": "FARINHA MANDIOCA DONA JULIA 1KG TORRADA",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "PINDUCA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE UNIBABY 500G PEDACOS COCO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
   },
   {
     "Descrição": "POLPA POLPANORTE 100G DETOX",
@@ -49340,11 +47335,6 @@
     "Desc Marca": "LEAO JUNIOR S/A"
   },
   {
-    "Descrição": "ZZZ INATIVO IOGURTE UNIBABY 170G ZERO LAC.AMEIXA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
     "Descrição": "ERVA TERERE KURUPI MENTA E LIMAO 500G",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "KURUPI"
@@ -49460,11 +47450,6 @@
     "Desc Marca": "SAKURA"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO CRIOULO KG REINO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CRIOULO"
-  },
-  {
     "Descrição": "BANHA FRIMESA 3KG BALDE",
     "Desc Grupo": "FRIOS",
     "Desc Marca": "FRIMESA"
@@ -49478,11 +47463,6 @@
     "Descrição": "BISC ZAPOLI 800G BOLACHAO MEL GLACE",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "ZAPOLI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SOBREMESA VIGOR 200G CREM.CHOCOL PR",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "BEBIDA LAC.FRIMINHO 200ML CHOCOLATE LIGHT",
@@ -49840,11 +47820,6 @@
     "Desc Marca": "PAPAPA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE PAULISTA 95G GREGO PESSEGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "PAULISTA"
-  },
-  {
     "Descrição": "BROWNIE NESTLE CHOCOLATE",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "NESTLE"
@@ -50185,11 +48160,6 @@
     "Desc Marca": "VISCONTI"
   },
   {
-    "Descrição": "ZZZ INATIVAR LEITE FERM.ACTIVIA 120G PED.FR.SILV",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "ACTIVIA"
-  },
-  {
     "Descrição": "WAFER MARILAN 115G CHOCOLATE SUICO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "MARILAN S/A"
@@ -50213,11 +48183,6 @@
     "Descrição": "BATATA NEWBRAZ 2KG PALITO",
     "Desc Grupo": "CONGELADOS",
     "Desc Marca": "DIVERSOS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G ZERO BLUEBERRY",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "LEITE UHT FRIMESA 1L INTEGRAL",
@@ -50280,11 +48245,6 @@
     "Desc Marca": "FLORMEL"
   },
   {
-    "Descrição": "INATIVO-TRIDENT 5S HERBAL",
-    "Desc Grupo": "BALAS E CHICLETES",
-    "Desc Marca": "TRIDENT"
-  },
-  {
     "Descrição": "MIST PAO QUEIJO YOKI 250G",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "YOKI"
@@ -50340,16 +48300,6 @@
     "Desc Marca": "JOHN"
   },
   {
-    "Descrição": "ZZZINATIVARQUEIJO MINAS LACTO BOM 400G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "LACTO BOM"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PEITO FRANGO FATIADO SEARA 150G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SEARA"
-  },
-  {
     "Descrição": "ACUCAR DOCESUCAR 5KG EXTRA FINO",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "DOCESUCAR"
@@ -50368,11 +48318,6 @@
     "Descrição": "LEITE FERM.FRIMESA 850G",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "FRIMESA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO SANTA CLARA 120G GRUYERE FATIADO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SANTA CLARA"
   },
   {
     "Descrição": "SALGAD.AGORA 40G CEBOLA",
@@ -50398,11 +48343,6 @@
     "Descrição": "BISC MARILAN 350G ROSQUINHA CHOCOLATE",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "MARILAN S/A"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LEITE FERM.BATAVO 850G.FAMILIA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "BATAVO"
   },
   {
     "Descrição": "VINHO CHI SANTA CAROLINA RESERVADO 750ML TINTO MALBEC",
@@ -50525,11 +48465,6 @@
     "Desc Marca": "CEPERA"
   },
   {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO VEGANO VIDA VEG 180G CHEDDAR",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIDA VEG"
-  },
-  {
     "Descrição": "CARCACA SUINA KG C/PELE LEITAO SEM CABE A",
     "Desc Grupo": "SUINOS - MERCADO",
     "Desc Marca": "PRIMATO"
@@ -50538,11 +48473,6 @@
     "Descrição": "SUCO CAMPO LARGO 900ML LARANJA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CAMPO LARGO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR ANEIS DE CEBOLA COPACOL 400G EMPANADO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "COPACOL"
   },
   {
     "Descrição": "VASILHAME 1,4L SODA CACHOEIRINHA",
@@ -50640,11 +48570,6 @@
     "Desc Marca": "MELITTA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE CHAMYTO GO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "CHAMYTO"
-  },
-  {
     "Descrição": "SUCO DE UVA TREBON 1,5L",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "DIVERSOS"
@@ -50668,11 +48593,6 @@
     "Descrição": "SOBREMESA LAC.NESTLE 200G FLAN CARAMELO",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "NESTLE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PAO ALHO MEZZANI 310G TRADICIONAL",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "MEZZANI"
   },
   {
     "Descrição": "DOCE VITAO 200G ZERO ABOBORA E COCO",
@@ -50703,11 +48623,6 @@
     "Descrição": "ESPUMANTE CERESER 660ML MACA VERDE",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CERESER"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BATATA PALITO COPACOL 400G",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "COPACOL"
   },
   {
     "Descrição": "CARNE SUINA PRIMATO TEMP.KG COPA",
@@ -50758,11 +48673,6 @@
     "Descrição": "FARINHA TRIGO CONSOLATA 1KG PANIFICIO",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "CONSOLATA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BOLACHA IZAURA 250G PRETO E BRANCO",
-    "Desc Grupo": "BISCOITOS",
-    "Desc Marca": "IZAURA"
   },
   {
     "Descrição": "TEMPERO FA A F CIL ZAELI 60G LEGUMES VERDURAS ARROZ",
@@ -50975,16 +48885,6 @@
     "Desc Marca": "JACOBSENS"
   },
   {
-    "Descrição": "ZZZ INATIVAR MANDIOCA GRANO 1KG CUBOS",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "GRANO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR TOFU SAMURAI 100G AL PESTO PREMIUM",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SAMURAI ORGANIC FOODS"
-  },
-  {
     "Descrição": "ERVA TERERE VERDELANDIA NATURA",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "VERDELANDIA"
@@ -51065,11 +48965,6 @@
     "Desc Marca": "ERA DOS VENTOS"
   },
   {
-    "Descrição": "ZZZ INATIVAR SALSICHA RESF PCT 2 KG",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "VINHO POR MADEIRA JUSTINO'S 750ML TINTO BLEND SECO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "JUSTINO'S"
@@ -51103,11 +48998,6 @@
     "Descrição": "VINHO BRA LARENTIS RESERVA 750ML TINTO MALBEC",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "LARENTIS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO LENZ 200G LIGHT",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "GILSON LENZ"
   },
   {
     "Descrição": "PAO ALHO COPACOL 400G TRADICIONAL",
@@ -51180,11 +49070,6 @@
     "Desc Marca": "BARRY CALLEBAUT"
   },
   {
-    "Descrição": "ZZZ INATIVAR BLANQUET DE PERU SADIA KG",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SADIA"
-  },
-  {
     "Descrição": "AMENDOIM KITAL 500G BRANCO",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "KITAL"
@@ -51220,11 +49105,6 @@
     "Desc Marca": "PORTO ALEGRE"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO PAR MONTANHES FR",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "DIVERSOS"
-  },
-  {
     "Descrição": "AZEITONA HEMMER 180G VERDE C/PIMENT O",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "HEMMER"
@@ -51233,11 +49113,6 @@
     "Descrição": "QUEIJO POLENGUINHO 144G CHED.LIGHT",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "POLENGHI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR VEGBURGUER FRESCO VIDA VEG 230G CARNE",
-    "Desc Grupo": "SAUDAVEIS",
-    "Desc Marca": "VIDA VEG"
   },
   {
     "Descrição": "MEL APITOLEDO 1KG POTE",
@@ -51305,11 +49180,6 @@
     "Desc Marca": "NESTLE"
   },
   {
-    "Descrição": "ZZZ INATIVAR APRESUNTADO FRIMESA LANCHE 200G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "BALAS SOBERANA 600G IOG.MOR/PESS/CO",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "BALAS SOBERANA"
@@ -51330,11 +49200,6 @@
     "Desc Marca": "IMAGEM"
   },
   {
-    "Descrição": "ZZZ INATIVAR REQUEIJAO CATUPIRY 1,5KG ORIGINAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "CATUPIRY"
-  },
-  {
     "Descrição": "QUEIJO WITMARSUM KG MINAS BLOCO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "WITMARSUM"
@@ -51343,11 +49208,6 @@
     "Descrição": "SALGADINHO LONG CHIPS 75G CEBOLA",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "MSE"
-  },
-  {
-    "Descrição": "ZZZ INATIVO IOGURTE DANONE GREGO 600G F.VE.L+P-",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
   },
   {
     "Descrição": "IOGURTE DANONINHO 70G P/LEVAR BANANA",
@@ -51488,11 +49348,6 @@
     "Descrição": "COOKIES SANTA EDWIGES 100G NATALINO",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "SANTA EDWIGES"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR FONDUE CRUZILIA 400G QUEIJO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CRUZILIA"
   },
   {
     "Descrição": "CARNE SUINA PRIMATO KG BISTECA C/PELE",
@@ -51825,11 +49680,6 @@
     "Desc Marca": "FRIMESA"
   },
   {
-    "Descrição": "ZZZ INATIVAR LEITE FERM.UNIBABY 800G",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
     "Descrição": "CHA INST.TASTE&CO 350G FRAMBOESA",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "TASTE E CO"
@@ -51855,11 +49705,6 @@
     "Desc Marca": "SUFRESH"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO VONK KG CABRA EXTRA MATURADO CUNHA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VONK"
-  },
-  {
     "Descrição": "GELO CUBO 1,5KG",
     "Desc Grupo": "CONGELADOS",
     "Desc Marca": "SUL"
@@ -51873,11 +49718,6 @@
     "Descrição": "PAO DE MEL BAUDUCCO 30G",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "BAUDUCCO"
-  },
-  {
-    "Descrição": "GOMA MASCAR MENTOS 56G R.MINT - INATIVAR",
-    "Desc Grupo": "BALAS E CHICLETES",
-    "Desc Marca": "MENTOS"
   },
   {
     "Descrição": "ERVA TERERE 81 500G UVA MENTA",
@@ -52155,16 +49995,6 @@
     "Desc Marca": "EL REY"
   },
   {
-    "Descrição": "ZZZ INATIVAR FONDUE VIGOR 250G CHOCOLATE",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VIGOR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.PAULISTA 540G COCO/MORAN",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "PAULISTA"
-  },
-  {
     "Descrição": "GERGELIM CASA FORTE 500G PRETO",
     "Desc Grupo": "NATURAIS E INTEGRAIS",
     "Desc Marca": "CASAFORTE"
@@ -52203,11 +50033,6 @@
     "Descrição": "BISC SCHAR 60G SALINIS S/GLUTEN",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "SCHAR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO VIGOR 100G GORGONZOLA FRACIONADO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VIGOR"
   },
   {
     "Descrição": "MOLHO PIMENTA SRIRACHA 482G",
@@ -52298,11 +50123,6 @@
     "Descrição": "CHOC SICAO MAIS 1,01KG BARRA BLEND",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "BARRY CALLEBAUT"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE LACFREE 140G MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VERDE CAMPO"
   },
   {
     "Descrição": "PIZZA IMPERIO 550G FRANGO C/REQUEIJAO",
@@ -52510,11 +50330,6 @@
     "Desc Marca": "BAUDUCCO"
   },
   {
-    "Descrição": "ZZZ INATIVAR LEITE FERM. FRIMESA 170G",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "QUEIJO RECHEADO KG DAMASCO E AVELA",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "BOM DA FAZENDA"
@@ -52660,11 +50475,6 @@
     "Desc Marca": "SEARA"
   },
   {
-    "Descrição": "ZZZ INATIVAR NATA LAC LELO 260G",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "LAC LELO"
-  },
-  {
     "Descrição": "GELEIA R.MINAS 650G JABUTICABA",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "RESERVA MINAS"
@@ -52698,11 +50508,6 @@
     "Descrição": "DOCE LEITE PORTAO DE CAMBUI 25G",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "PORTAO DE CAMBUI"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LASANHA IMP.DAS MASSAS 700G FRANGO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
   },
   {
     "Descrição": "UVA PASSAS L.VIOLETERA 100G ESCURA",
@@ -52748,11 +50553,6 @@
     "Descrição": "CAFE PO DAMASCO 500G VACUO E FORTE",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "DAMASCO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO NACON 150G BUFALA FATIAS",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "NACON"
   },
   {
     "Descrição": "BISCOITO GRANULADO NESTLE NEGRESCO",
@@ -53045,11 +50845,6 @@
     "Desc Marca": "FINI"
   },
   {
-    "Descrição": "ZZZ INATIVAR SALSICHA FRIMESA 420G HOT DOG FRIMI",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "CAF  3 CORACOES 100G COM LEITE SACHE",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "3 CORACOES"
@@ -53195,11 +50990,6 @@
     "Desc Marca": "LINEA"
   },
   {
-    "Descrição": "ZZZ INATIVAR SOBREMESA LAC.FRIMESA 200G CAFE",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "VINHO CHI TORO DE PIEDRA GRAN RESERVA 750ML TINTO PINOT NOIR",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "TORO DE PIEDRA"
@@ -53300,11 +51090,6 @@
     "Desc Marca": "APTI"
   },
   {
-    "Descrição": "ZZZ INATIVAR MASSA LASANHA IMPERIO MASSAS 500G",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
-  },
-  {
     "Descrição": "LOMBO SUINO SADIA KG CONGELADO",
     "Desc Grupo": "SUINOS - MERCADO",
     "Desc Marca": "SADIA"
@@ -53333,11 +51118,6 @@
     "Descrição": "SORVETINA SELECTA 100G UVA",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "SELECTA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR APRESUNTADO PERDIGAO 200G",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "PERDIGAO"
   },
   {
     "Descrição": "GOMA MASCAR TRIDENT BLUEB CITRUS",
@@ -53710,11 +51490,6 @@
     "Desc Marca": "SANTA JULIA"
   },
   {
-    "Descrição": "ZZZ INATIVAR RICOTA SAO LEOPOLDO KG",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FRIGOVEL"
-  },
-  {
     "Descrição": "CEREAL NESCAU L770GP700G CHOCOLATE",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "NESTLE"
@@ -53798,11 +51573,6 @@
     "Descrição": "VINHO ESP LA VACHE ESPAGNOLE 750ML TINTO TEMPRANILLO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "LA VACHE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MARG.SOYA CREMOSY 250G C/SAL",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "BUNGE"
   },
   {
     "Descrição": "ESPUMANTE ITA SPERONE CELEBRATION 750ML BRUT BRANCO",
@@ -54110,11 +51880,6 @@
     "Desc Marca": "NIETO SENETINER"
   },
   {
-    "Descrição": "ZZZ INATIVAR PAO ALHO ZINHO 300G BOLINHA TRADICIONAL C/ QUEIJO",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "ZINHO"
-  },
-  {
     "Descrição": "MENTOS STICK DUO BLACK ICE 37,",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "MENTOS"
@@ -54128,11 +51893,6 @@
     "Descrição": "VINHO CHI ADOBE 750ML TINTO CARMENERE",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "EMILIANA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LINGUICA FUTURO 250G BANDEJA",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "FAZENDA FUTURO"
   },
   {
     "Descrição": "VINHO ITA BELLOSGUARDO CHIANTI 375ML TINTO BLEND",
@@ -54248,11 +52008,6 @@
     "Descrição": "PANETTONE SANTA EDWIGES 400G PREMIUM FRUTAS",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "SANTA EDWIGES"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE DANONE 900G VIT.FRUTAS",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
   },
   {
     "Descrição": "AZEITONA LA VIOLETERA 80G S/CARO O SACH ",
@@ -54440,11 +52195,6 @@
     "Desc Marca": "KITAL"
   },
   {
-    "Descrição": "ZZZ INATIVAR NATA LORENZO 200G",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "LORENZO"
-  },
-  {
     "Descrição": "BATATA PALHA HUSKER 250 G",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "HUSKER"
@@ -54603,11 +52353,6 @@
     "Descrição": "VINHO ARG CORDERO CON PIEL DE LOBO 750ML TINTO C.SAUVIGNON",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "MOSQUITA MUERTA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR LASANHA ROMANHA 600G QUATRO QUEIJO",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "ROMANHA"
   },
   {
     "Descrição": "EMPANADO FRANGO LAR 700G EMPANITOS",
@@ -55035,11 +52780,6 @@
     "Desc Marca": "DILLIN"
   },
   {
-    "Descrição": "ZZZ INATIVAR MANTEIGA GRAN MESTRI 200G LATA S/SAL",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "GRAN MESTRI"
-  },
-  {
     "Descrição": "BARRA CEREAIS NUTRY 100G CAST.PARA L4",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "NUTRIMENTAL"
@@ -55153,11 +52893,6 @@
     "Descrição": "DOCE LEITE R.MINAS DIET 210G COCO",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "RESERVA MINAS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PRESUNTO COZ.SEARA KG",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SEARA"
   },
   {
     "Descrição": "TRIGO P/KIBE ZAELI 500G",
@@ -55335,11 +53070,6 @@
     "Desc Marca": "BAUDUCCO"
   },
   {
-    "Descrição": "ZZZ INATIVAR LEITE FERM.ACTIVIA 170G CHIA C/MANGA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "ACTIVIA"
-  },
-  {
     "Descrição": "CHA MATE PRENDA 150G VERDE",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "CHA PRENDA DO BRASIL"
@@ -55358,11 +53088,6 @@
     "Descrição": "PE DE MOLEQUE DOTA 50X350G",
     "Desc Grupo": "DOCES,GELEIASEMEL",
     "Desc Marca": "DUDOTA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE V.CAMPO WHEY 250G MORANGO - INATIVAR",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VERDE CAMPO"
   },
   {
     "Descrição": "MOLHO TOMATE QUERO 320G REFOGADO TRADICIONAL CAIXA",
@@ -55488,11 +53213,6 @@
     "Descrição": "BEBIDA LAC.3 CORACOES 250ML CAPP. POWER WHEY CLASSICO",
     "Desc Grupo": "LEITES E DERIVADOS",
     "Desc Marca": "3 CORACOES"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 540G FUNC.MOR/AMEIX",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "DOCE LEITE OLIVEIRA 900G",
@@ -55795,11 +53515,6 @@
     "Desc Marca": "OLVEBRA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE UNIBABY 850G PCT AMEIXA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "UNIBABY"
-  },
-  {
     "Descrição": "MORTADELA FRIMESA 500G C/TOUCINHO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "FRIMESA"
@@ -55818,11 +53533,6 @@
     "Descrição": "SALGAD.TORCIDA JR 45G CALABRESA",
     "Desc Grupo": "SALGADINHOS",
     "Desc Marca": "ELMA CHIPS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 165G INT.CAM.MA.CAN",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "VINHO POR TONS DE DUORUM 750ML TINTO BLEND",
@@ -55858,11 +53568,6 @@
     "Descrição": "MARG.BECEL 500G SABOR MANTEIGA",
     "Desc Grupo": "FRIOS",
     "Desc Marca": "BECEL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR BEBIDA LAC.FRIMESA 1000G COCO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "CHA MATTE LEAO ICE TEA 450ML PET PESSEGO",
@@ -55975,11 +53680,6 @@
     "Desc Marca": "OREO"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO GRAN MESTRI KG PROVOLA DEFUMADO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "GRAN MESTRI"
-  },
-  {
     "Descrição": "QUEIJO PRESIDENT KG BRIE PEDACO",
     "Desc Grupo": "FIAMBRERIA",
     "Desc Marca": "PRESIDENT"
@@ -56030,11 +53730,6 @@
     "Desc Marca": "SADIA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 100G GREGO BAUNILHA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "VINHO POR OLARIA 750ML ROSE SUAVE",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "CARMIM"
@@ -56078,16 +53773,6 @@
     "Descrição": "BOLINHO BAUDUCCO 40G LARANJA",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "BAUDUCCO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR SALSICHA MEICA 180G BROCKWURST",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "MEICA"
-  },
-  {
-    "Descrição": "ZZZ INATIVO IOGURTE DANONINHO 100G P/BEBER UVA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "DANONE"
   },
   {
     "Descrição": "CHA VERDE PO MAGRO 8G CRAMBERRY",
@@ -56175,11 +53860,6 @@
     "Desc Marca": "BEIJA FLOR"
   },
   {
-    "Descrição": "ZZZ INATIVAR SUCO NATURAL ONE 900ML MAMAO E LARANJA",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "NATURAL ONE"
-  },
-  {
     "Descrição": "ARROZ RAMPINELLI 5KG PARBOILIZADO",
     "Desc Grupo": "COMMODITIES",
     "Desc Marca": "RAMPINELLI"
@@ -56218,11 +53898,6 @@
     "Descrição": "BALAS PIETROBON 250G CACAU/CASTANHA",
     "Desc Grupo": "BALAS E CHICLETES",
     "Desc Marca": "PIETROBON"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR HOT POCKET SADIA 112G BURRITO COSTELINHA BARBECUE",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "SADIA"
   },
   {
     "Descrição": "SOBREMESA LAC.FRIMESA 200G TORTA LIMAO",
@@ -56385,11 +54060,6 @@
     "Desc Marca": "LA PASTINA"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE VEGANO VIDA VEG 450G COCO/BAN/MAMAO/MACA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VIDA VEG"
-  },
-  {
     "Descrição": "CHA MATE LEAO C/25UN NATURAL",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "LEAO JUNIOR S/A"
@@ -56418,11 +54088,6 @@
     "Descrição": "MOLHO SHOYU COPRA 150ML COCO AMINOS",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "COPRA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 1000G PCT PESSEGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
   },
   {
     "Descrição": "ERVA MATE 81 1KG",
@@ -56468,11 +54133,6 @@
     "Descrição": "SARDINHA GOMES COSTA 250G LT MOLHO TOMATE",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "GOMES DA COSTA"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PAO QUEIJO PERDIGAO 375G PEITO PERU",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "PERDIGAO"
   },
   {
     "Descrição": "BALA KIDS ZONE 9G SURPRESA EGGS LHAMA FLAMINGO",
@@ -56680,11 +54340,6 @@
     "Desc Marca": "CASTELO"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO RALADO PRESIDENT 100G FRESCO MUSSARELA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "PRESIDENT"
-  },
-  {
     "Descrição": "LEITE UHT MOLICO 1L A&D",
     "Desc Grupo": "LEITE LONGA VIDA",
     "Desc Marca": "NESTLE"
@@ -56840,16 +54495,6 @@
     "Desc Marca": "BATAVO"
   },
   {
-    "Descrição": "ZZZ INATIVAR QUEIJO VIGOR 150G PARMESAO RALADO FRESCO",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "VIGOR"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR CROUTTON PITA BREAD 100G ALHO AZEIT",
-    "Desc Grupo": "BISCOITOS",
-    "Desc Marca": "SEVENBOYS"
-  },
-  {
     "Descrição": "MOLHO SHOYU DUSUL 3L",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "DUSUL"
@@ -56980,11 +54625,6 @@
     "Desc Marca": "COLLECTA"
   },
   {
-    "Descrição": "ZZZ INATIVAR LINGUICA TOSCANA SADIA KG LCS",
-    "Desc Grupo": "SUINOS - MERCADO",
-    "Desc Marca": "SADIA"
-  },
-  {
     "Descrição": "PANETTONE NESTLE 450G CHOCOLATE",
     "Desc Grupo": "BISCOITOS",
     "Desc Marca": "NESTLE"
@@ -57105,11 +54745,6 @@
     "Desc Marca": "QUERO"
   },
   {
-    "Descrição": "ZZZ INATIVAR TABUA DE FRIOS SEARA 120G GOURMET",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "SEARA"
-  },
-  {
     "Descrição": "AZEITONA NUCETE 450G PRETA S/CAROCO",
     "Desc Grupo": "CONSERVAS E ENLATADOS",
     "Desc Marca": "NUCETE"
@@ -57210,11 +54845,6 @@
     "Desc Marca": "CEPERA"
   },
   {
-    "Descrição": "ZZZ INATIVAR CALDO CANA TOPCANA 300ML LIMAO",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "TOPCANA"
-  },
-  {
     "Descrição": "PREPARADO EASY DRINKS 240G COSMOPOLITAN",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "EASY DRINKS"
@@ -57243,11 +54873,6 @@
     "Descrição": "TEMPERO COMP.DUSUL 900G C/BACON",
     "Desc Grupo": "CEREAIS DIVERSOS - MERCADO",
     "Desc Marca": "DUSUL"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MARG.QUALY 250G VITA S/SAL",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "QUALY"
   },
   {
     "Descrição": "MOLHO D'AJUDA 260G TEXGRILL VINAGRETE",
@@ -57293,11 +54918,6 @@
     "Descrição": "MAIONESE D'LANCHE 200G",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "D'LANCHE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR PIZZA SEARA GOURMET 450G CALABRESE ARTESANAL",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "SEARA"
   },
   {
     "Descrição": "QUEIJO GRAN MESTRI 250G MASCARPONE",
@@ -57403,11 +55023,6 @@
     "Descrição": "VINHO BRA ALMADEN 750ML BRANCO GEWURZTRAMINER",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "VINIC.MIOLO"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR QUEIJO FAIXA AZUL KG PARMESAO RES.ESPECIAL",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "FAIXA AZUL"
   },
   {
     "Descrição": "CEBOLINHA CONSERVA DA RO A 500G PACOTE",
@@ -57650,11 +55265,6 @@
     "Desc Marca": "TANG"
   },
   {
-    "Descrição": "ZZZ INATIVAR LINGUICA PERDIGAO BRASA 1KG TOSCANA APIMENTADA",
-    "Desc Grupo": "SUINOS - MERCADO",
-    "Desc Marca": "PERDIGAO"
-  },
-  {
     "Descrição": "CAFE SOL NESCAFE 200G TRADICAO",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "NESTLE"
@@ -57725,11 +55335,6 @@
     "Desc Marca": "CAROLINA"
   },
   {
-    "Descrição": "ZZZ INATIVAR HOT POCKET SADIA 112G BURRITO FRANGO BARBECUE",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "SADIA"
-  },
-  {
     "Descrição": "CAPSULAS 3 CORACOES 110G LATTE MACCHIATO",
     "Desc Grupo": "MATINAIS",
     "Desc Marca": "3 CORACOES"
@@ -57743,16 +55348,6 @@
     "Descrição": "BEBIDA VEGETAL NATURES HEART 1L AMENDOA",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "NESTLE"
-  },
-  {
-    "Descrição": "ZZZ INATIVO IOGURTE NINHO 850G MA   E BANANA",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "NESTLE"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR NATA LACFREE 200G LIGHT",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "VERDE CAMPO"
   },
   {
     "Descrição": "IOGURTE FRIMESA 1000G PCT COCO",
@@ -57880,11 +55475,6 @@
     "Desc Marca": "BODEGA TONELES"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE FRIMESA 170G FUNC.LIG.MORAN",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "FRIMESA"
-  },
-  {
     "Descrição": "REFRESCO PO FRESH 10G MORANGO",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "FRESH"
@@ -58010,11 +55600,6 @@
     "Desc Marca": "PARATI"
   },
   {
-    "Descrição": "INATIVO",
-    "Desc Grupo": "SAUDAVEIS",
-    "Desc Marca": "OLVEBRA"
-  },
-  {
     "Descrição": "ACUCAR BAUNILHA GERIBA 500G PACOTE",
     "Desc Grupo": "INGREDIENTES PARA BOLOS E SOBREMESA",
     "Desc Marca": "GERIBA"
@@ -58105,11 +55690,6 @@
     "Desc Marca": "DAJUDA"
   },
   {
-    "Descrição": "ZZZ INATIVAR RISOLIS TIA MARI 500G",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "TIA MARI"
-  },
-  {
     "Descrição": "ACUCAR DEMERARA MAE TERRA 400G",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "MAE TERRA"
@@ -58153,11 +55733,6 @@
     "Descrição": "VINHO ARG COLIMAN 750ML TINTO C.SAUVIGNON",
     "Desc Grupo": "BEBIDAS",
     "Desc Marca": "LOS HAROLDOS"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MORTADELA CERATTI 100G FAT.LIGHT BOVINA",
-    "Desc Grupo": "FIAMBRERIA",
-    "Desc Marca": "CERATTI"
   },
   {
     "Descrição": "CAFE SOL NESCAFE GOLD 100G BLEND",
@@ -58213,11 +55788,6 @@
     "Descrição": "MOLHO TOMATE HEMMER 680G PASSATA",
     "Desc Grupo": "MOLHOS E EXTRATOS",
     "Desc Marca": "HEMMER"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MAC.IMPERIO DAS MASSAS 300G PENE",
-    "Desc Grupo": "CONGELADOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
   },
   {
     "Descrição": "RECHEIO B.PRINCIPIO 400G BAUNILHA",
@@ -58315,11 +55885,6 @@
     "Desc Marca": "KELLOGGS"
   },
   {
-    "Descrição": "ZZZ INATIVAR IOGURTE CORPUS 850G MORANGO",
-    "Desc Grupo": "LACTEOS",
-    "Desc Marca": "CORPUS"
-  },
-  {
     "Descrição": "ADOCANTE LINEA 25ML SUCRALOSE",
     "Desc Grupo": "SAUDAVEIS",
     "Desc Marca": "LINEA SUCRALOSE"
@@ -58353,11 +55918,6 @@
     "Descrição": "BEBIDA LAC.LACTOBOM 125G LAKINHO PASTILHAS",
     "Desc Grupo": "LACTEOS",
     "Desc Marca": "LACTO BOM"
-  },
-  {
-    "Descrição": "ZZZ INATIVAR MASSA PASTEL IMPERIO 500G GRANDE",
-    "Desc Grupo": "FRIOS",
-    "Desc Marca": "IMPERIO DAS MASSAS"
   },
   {
     "Descrição": "MIX CONSERVA INCOTRIL 200G",
