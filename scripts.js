@@ -25,7 +25,7 @@ async function loadProducts() {
 let fuse;
 function initializeFuse() {
     const options = {
-        keys: ['Descrição', 'Desc Grupo', 'Desc Marca'],
+        keys: ['Descrição'], // Pesquisar apenas na descrição
         threshold: 0.3,  // Ajuste para a sensibilidade da pesquisa fuzzy
     };
     fuse = new Fuse(products, options);
