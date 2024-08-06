@@ -12,6 +12,7 @@ async function loadProducts() {
     try {
         const response = await fetch('products.json');
         products = await response.json();
+        products.sort((a, b) => a["Descrição"].localeCompare(b["Descrição"])); // Ordenar produtos alfabeticamente pela descrição
         filteredProducts = products;
         populateFilters();
         displayProducts(filteredProducts, currentPage);
@@ -77,10 +78,16 @@ function prevPage() {
 function addToCart(productDescription, button) {
     const product = products.find(item => item["Descrição"] === productDescription);
     const existingProduct = cart.find(item => item["Descrição"] === productDescription);
+    const isWeightProduct = productDescription.toLowerCase().includes('kg');
+    
     if (existingProduct) {
-        existingProduct.quantity++;
+        if (isWeightProduct) {
+            existingProduct.quantity += 0.1; // Incrementar por 100g
+        } else {
+            existingProduct.quantity++;
+        }
     } else {
-        cart.push({ ...product, quantity: 1 });
+        cart.push({ ...product, quantity: isWeightProduct ? 0.1 : 1 });
         button.classList.add('selected');
     }
     renderCart();
@@ -89,8 +96,14 @@ function addToCart(productDescription, button) {
 function removeFromCart(productDescription) {
     const productIndex = cart.findIndex(item => item["Descrição"] === productDescription);
     if (productIndex > -1) {
-        cart[productIndex].quantity--;
-        if (cart[productIndex].quantity === 0) {
+        const isWeightProduct = productDescription.toLowerCase().includes('kg');
+        if (isWeightProduct) {
+            cart[productIndex].quantity -= 0.1; // Decrementar por 100g
+        } else {
+            cart[productIndex].quantity--;
+        }
+        
+        if (cart[productIndex].quantity <= 0) {
             cart.splice(productIndex, 1);
             const button = document.querySelector(`button[onclick="addToCart('${productDescription}', this)"]`);
             if (button) {
@@ -106,8 +119,9 @@ function renderCart() {
     cartItems.innerHTML = '';
     cart.forEach(item => {
         const li = document.createElement('li');
+        const isWeightProduct = item["Descrição"].toLowerCase().includes('kg');
         li.innerHTML = `
-            <span>${item["Descrição"]} - Quantidade: ${item.quantity}</span>
+            <span>${item["Descrição"]} - Quantidade: ${isWeightProduct ? (item.quantity.toFixed(1) + ' KG') : item.quantity}</span>
             <button onclick="handleButtonClick(event); removeFromCart('${item["Descrição"]}')">Remover</button>
         `;
         cartItems.appendChild(li);
@@ -115,7 +129,10 @@ function renderCart() {
 }
 
 function checkout() {
-    const orderText = cart.map(item => `${item.quantity}x ${item["Descrição"]}`).join('\n');
+    const orderText = cart.map(item => {
+        const isWeightProduct = item["Descrição"].toLowerCase().includes('kg');
+        return `${isWeightProduct ? item.quantity.toFixed(1) : item.quantity}x ${item["Descrição"]}`;
+    }).join('\n');
     const whatsappUrl = `https://wa.me/554530567512?text=${encodeURIComponent('Meu Carrinho:\n' + orderText)}`;
     window.location.href = whatsappUrl;
     clearCart();
