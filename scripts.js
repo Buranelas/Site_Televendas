@@ -6,6 +6,7 @@ const itemsPerPageDesktop = 50;
 const itemsPerPageMobile = 25;
 const isMobile = window.innerWidth <= 480;
 const itemsPerPage = isMobile ? itemsPerPageMobile : itemsPerPageDesktop;
+let showImages = false; // Estado inicial para mostrar imagens
 
 // Função para carregar os produtos do arquivo JSON
 async function loadProducts() {
@@ -45,6 +46,7 @@ function displayProducts(productsToDisplay, page) {
         const productItem = document.createElement('div');
         productItem.className = 'product-item';
         productItem.innerHTML = `
+            ${showImages ? `<img src="${product.Imagem}" alt="${product["Descrição"]}">` : ''}
             <h2>${product["Descrição"]}</h2>
             <p>Grupo: ${product["Desc Grupo"]}</p>
             <p>Marca: ${product["Desc Marca"]}</p>
@@ -100,42 +102,32 @@ function addToCart(productDescription, button) {
     renderCart();
 }
 
-function decreaseQuantity(productDescription) {
-    const product = cart.find(item => item["Descrição"] === productDescription);
-    if (product) {
-        const isWeightProduct = productDescription.toLowerCase().includes('kg');
-        if (isWeightProduct) {
-            product.quantity -= 0.1; // Decrementar por 100g
-        } else {
-            product.quantity--;
-        }
-        
-        if (product.quantity <= 0) {
-            removeFromCart(productDescription, true);
-        } else {
-            renderCart();
-        }
-    }
+function removeFromCart(productDescription) {
+    cart = cart.filter(item => item["Descrição"] !== productDescription);
+    renderCart();
 }
 
-function removeFromCart(productDescription, removeAll = false) {
-    if (removeAll) {
-        cart = cart.filter(item => item["Descrição"] !== productDescription);
+function incrementQuantity(productDescription) {
+    const product = cart.find(item => item["Descrição"] === productDescription);
+    const isWeightProduct = productDescription.toLowerCase().includes('kg');
+    if (isWeightProduct) {
+        product.quantity += 0.1;
     } else {
-        const product = cart.find(item => item["Descrição"] === productDescription);
-        const isWeightProduct = productDescription.toLowerCase().includes('kg');
-        if (product) {
-            if (isWeightProduct) {
-                product.quantity = 0; // Remover todo o peso
-            } else {
-                cart = cart.filter(item => item["Descrição"] !== productDescription);
-            }
-        }
+        product.quantity++;
     }
-    
-    const button = document.querySelector(`button[onclick="addToCart('${productDescription}', this)"]`);
-    if (button) {
-        button.classList.remove('selected');
+    renderCart();
+}
+
+function decrementQuantity(productDescription) {
+    const product = cart.find(item => item["Descrição"] === productDescription);
+    const isWeightProduct = productDescription.toLowerCase().includes('kg');
+    if (isWeightProduct) {
+        product.quantity -= 0.1;
+    } else {
+        product.quantity--;
+    }
+    if (product.quantity <= 0) {
+        cart = cart.filter(item => item["Descrição"] !== productDescription);
     }
     renderCart();
 }
@@ -148,9 +140,11 @@ function renderCart() {
         const isWeightProduct = item["Descrição"].toLowerCase().includes('kg');
         li.innerHTML = `
             <span>${item["Descrição"]} - Quantidade: ${isWeightProduct ? (item.quantity.toFixed(1) + ' KG') : item.quantity}</span>
-            <button onclick="handleButtonClick(event); decreaseQuantity('${item["Descrição"]}')">-</button>
-            <button onclick="handleButtonClick(event); addToCart('${item["Descrição"]}')">+</button>
-            <button onclick="handleButtonClick(event); removeFromCart('${item["Descrição"]}', true)">Remover</button>
+            <div>
+                <button class="decrement" onclick="handleButtonClick(event); decrementQuantity('${item["Descrição"]}')">-</button>
+                <button class="increment" onclick="handleButtonClick(event); incrementQuantity('${item["Descrição"]}')">+</button>
+                <button onclick="handleButtonClick(event); removeFromCart('${item["Descrição"]}')">Remover</button>
+            </div>
         `;
         cartItems.appendChild(li);
     });
@@ -200,12 +194,8 @@ function populateFilters() {
     const groupFilter = document.getElementById('filter-group');
     const brandFilter = document.getElementById('filter-brand');
 
-    // Limpar filtros antes de adicionar novas opções
-    groupFilter.innerHTML = '<option value="all">Todos os Grupos</option>';
-    brandFilter.innerHTML = '<option value="all">Todas as Marcas</option>';
-
-    const groups = [...new Set(products.map(product => product["Desc Grupo"]).filter(Boolean))];
-    const brands = [...new Set(products.map(product => product["Desc Marca"]).filter(Boolean))];
+    const groups = [...new Set(products.map(product => product["Desc Grupo"]))];
+    const brands = [...new Set(products.map(product => product["Desc Marca"]))];
 
     groups.forEach(group => {
         const option = document.createElement('option');
@@ -228,6 +218,11 @@ function handleButtonClick(event) {
     setTimeout(() => {
         button.classList.remove('clicked');
     }, 300); // Tempo em milissegundos
+}
+
+function toggleImages() {
+    showImages = !showImages;
+    displayProducts(filteredProducts, currentPage);
 }
 
 document.getElementById('search').addEventListener('input', filterProducts);
