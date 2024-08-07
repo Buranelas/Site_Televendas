@@ -20,8 +20,12 @@ function saveProductsJson(products) {
     fs.writeFileSync(jsonFilePath, jsonString);
 }
 
-// Função recursiva para obter todos os arquivos de uma pasta e subpastas
-function getAllFiles(dirPath, arrayOfFiles) {
+// Função recursiva para obter todos os arquivos de uma pasta e subpastas até uma profundidade específica
+function getAllFiles(dirPath, arrayOfFiles, depth = 5, currentDepth = 0) {
+    if (currentDepth > depth) {
+        return arrayOfFiles;
+    }
+
     console.log(`Verificando diretório: ${dirPath}`);
     const files = fs.readdirSync(dirPath);
 
@@ -30,13 +34,35 @@ function getAllFiles(dirPath, arrayOfFiles) {
     files.forEach(file => {
         const filePath = path.join(dirPath, file);
         if (fs.statSync(filePath).isDirectory()) {
-            arrayOfFiles = getAllFiles(filePath, arrayOfFiles);
+            arrayOfFiles = getAllFiles(filePath, arrayOfFiles, depth, currentDepth + 1);
         } else {
             arrayOfFiles.push(filePath);
         }
     });
 
     return arrayOfFiles;
+}
+
+// Função para processar uma parte dos produtos por vez
+function processProductsBatch(productsBatch, imageFiles) {
+    productsBatch.forEach((product, index) => {
+        console.log(`Verificando produto: ${product["Descrição"]}`);
+        if (!product.Imagem || product.Imagem === '') {
+            const imageFile = imageFiles.find(file => {
+                const fileNameWithoutExtension = path.parse(file).name.toLowerCase();
+                const productName = product["Descrição"].replace(/\s+/g, '_').toLowerCase();
+                return fileNameWithoutExtension === productName;
+            });
+
+            if (imageFile) {
+                const relativePath = path.relative(baseImagePath, imageFile);
+                product.Imagem = `${baseImageUrl}/${encodeURIComponent(relativePath).replace(/%5C/g, '/')}`;
+                console.log(`Imagem encontrada para o produto: ${product["Descrição"]} - Caminho: ${product.Imagem}`);
+            } else {
+                console.warn(`Imagem não encontrada para o produto: ${product["Descrição"]}`);
+            }
+        }
+    });
 }
 
 // Função principal para associar URLs de imagens aos produtos
@@ -52,32 +78,12 @@ function associateImagesToProducts() {
         console.log(`Total de imagens encontradas: ${imageFiles.length}`);
     }
 
-    // Listar todos os arquivos de imagem encontrados (depuração)
-    imageFiles.forEach(file => {
-        console.log(`Arquivo de imagem encontrado: ${file}`);
-    });
-
-    products.forEach(product => {
-        console.log(`Verificando produto: ${product["Descrição"]}`);
-        if (!product.Imagem || product.Imagem === '') {
-            const imageFile = imageFiles.find(file => {
-                const fileNameWithoutExtension = path.parse(file).name.toLowerCase();
-                const productName = product["Descrição"].replace(/\s+/g, '_').toLowerCase();
-                console.log(`Comparando: ${fileNameWithoutExtension} com ${productName}`);
-                return fileNameWithoutExtension === productName;
-            });
-
-            if (imageFile) {
-                const relativePath = path.relative(baseImagePath, imageFile);
-                product.Imagem = `${baseImageUrl}/${encodeURIComponent(relativePath).replace(/%5C/g, '/')}`;
-                console.log(`Imagem encontrada para o produto: ${product["Descrição"]} - Caminho: ${product.Imagem}`);
-            } else {
-                console.warn(`Imagem não encontrada para o produto: ${product["Descrição"]}`);
-            }
-        }
-    });
-
-    saveProductsJson(products);
+    const batchSize = 100; // Tamanho do lote de produtos a ser processado de cada vez
+    for (let i = 0; i < products.length; i += batchSize) {
+        const productsBatch = products.slice(i, i + batchSize);
+        processProductsBatch(productsBatch, imageFiles);
+        saveProductsJson(products); // Salvar o JSON atualizado a cada lote
+    }
 }
 
 try {

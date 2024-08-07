@@ -100,23 +100,42 @@ function addToCart(productDescription, button) {
     renderCart();
 }
 
-function removeFromCart(productDescription) {
-    const productIndex = cart.findIndex(item => item["Descrição"] === productDescription);
-    if (productIndex > -1) {
+function decreaseQuantity(productDescription) {
+    const product = cart.find(item => item["Descrição"] === productDescription);
+    if (product) {
         const isWeightProduct = productDescription.toLowerCase().includes('kg');
         if (isWeightProduct) {
-            cart[productIndex].quantity -= 0.1; // Decrementar por 100g
+            product.quantity -= 0.1; // Decrementar por 100g
         } else {
-            cart[productIndex].quantity--;
+            product.quantity--;
         }
         
-        if (cart[productIndex].quantity <= 0) {
-            cart.splice(productIndex, 1);
-            const button = document.querySelector(`button[onclick="addToCart('${productDescription}', this)"]`);
-            if (button) {
-                button.classList.remove('selected');
+        if (product.quantity <= 0) {
+            removeFromCart(productDescription, true);
+        } else {
+            renderCart();
+        }
+    }
+}
+
+function removeFromCart(productDescription, removeAll = false) {
+    if (removeAll) {
+        cart = cart.filter(item => item["Descrição"] !== productDescription);
+    } else {
+        const product = cart.find(item => item["Descrição"] === productDescription);
+        const isWeightProduct = productDescription.toLowerCase().includes('kg');
+        if (product) {
+            if (isWeightProduct) {
+                product.quantity = 0; // Remover todo o peso
+            } else {
+                cart = cart.filter(item => item["Descrição"] !== productDescription);
             }
         }
+    }
+    
+    const button = document.querySelector(`button[onclick="addToCart('${productDescription}', this)"]`);
+    if (button) {
+        button.classList.remove('selected');
     }
     renderCart();
 }
@@ -129,9 +148,9 @@ function renderCart() {
         const isWeightProduct = item["Descrição"].toLowerCase().includes('kg');
         li.innerHTML = `
             <span>${item["Descrição"]} - Quantidade: ${isWeightProduct ? (item.quantity.toFixed(1) + ' KG') : item.quantity}</span>
-            <button onclick="handleButtonClick(event); removeFromCart('${item["Descrição"]}')">Remover</button>
             <button onclick="handleButtonClick(event); decreaseQuantity('${item["Descrição"]}')">-</button>
-            <button onclick="handleButtonClick(event); increaseQuantity('${item["Descrição"]}')">+</button>
+            <button onclick="handleButtonClick(event); addToCart('${item["Descrição"]}')">+</button>
+            <button onclick="handleButtonClick(event); removeFromCart('${item["Descrição"]}', true)">Remover</button>
         `;
         cartItems.appendChild(li);
     });
@@ -205,32 +224,6 @@ function handleButtonClick(event) {
     setTimeout(() => {
         button.classList.remove('clicked');
     }, 300); // Tempo em milissegundos
-}
-
-function increaseQuantity(productDescription) {
-    const product = cart.find(item => item["Descrição"] === productDescription);
-    const isWeightProduct = productDescription.toLowerCase().includes('kg');
-    if (isWeightProduct) {
-        product.quantity += 0.1;
-    } else {
-        product.quantity++;
-    }
-    renderCart();
-}
-
-function decreaseQuantity(productDescription) {
-    const product = cart.find(item => item["Descrição"] === productDescription);
-    const isWeightProduct = productDescription.toLowerCase().includes('kg');
-    if (isWeightProduct) {
-        product.quantity -= 0.1;
-    } else {
-        product.quantity--;
-    }
-    if (product.quantity <= 0) {
-        removeFromCart(productDescription);
-    } else {
-        renderCart();
-    }
 }
 
 document.getElementById('search').addEventListener('input', filterProducts);

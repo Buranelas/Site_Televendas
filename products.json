@@ -1542,12 +1542,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Queijo Ralado President 100G Fresco Mussarela",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "President",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Molho Whiskas 85G Salmão",
     "Desc Grupo": "Produtos Veterinarios",
     "Desc Marca": "Whiskas",
@@ -1707,7 +1701,7 @@
     "Descrição": "Seleta Legumes Grano 300G",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Grano",
-    "Imagem": ""
+    "Imagem": "http://192.168.110.252/Unidade - 10/Dep_Marketing/2- DEPARTAMENTO DE MARKETING - CRIAÇÃO/11 - Banco de Imagens/Produtos Supermercado/Atacado/seleta_legumes_grano_300g.png"
   },
   {
     "Descrição": "Mortadela Frimesa 1Kg C/Toucinho",
@@ -2300,12 +2294,6 @@
   {
     "Descrição": "Pacoca Primato Kg",
     "Desc Grupo": "Panificadora",
-    "Desc Marca": "Primato",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Taxa De Entrega",
-    "Desc Grupo": "Consumo Interno",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -5124,12 +5112,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Sorvete Gebon Sorbet 250G Limão Siciliano",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Gebon",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Flor Natural Azaleia P14",
     "Desc Grupo": "Hortifruti e Grangeiros",
     "Desc Marca": "Planta Garden",
@@ -7698,12 +7680,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Bebida Lac.Unibaby 125G Açai Banana E Granola",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Unibaby",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Sabonete Liquido 200Ml Ch  Camomila",
     "Desc Grupo": "Higiene E Perfumaria",
     "Desc Marca": "Huggies",
@@ -7905,12 +7881,6 @@
     "Descrição": "Rodo Novica Vai E Vem 30Cm",
     "Desc Grupo": "Bazar",
     "Desc Marca": "Bettanin",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativo Mortadela Perdigão",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Perdigão",
     "Imagem": ""
   },
   {
@@ -11316,12 +11286,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Sand.Rider 26/36 Play Kids",
-    "Desc Grupo": "Bazar",
-    "Desc Marca": "Rider",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Sabonete Farnese 180G Puro E Hidratante",
     "Desc Grupo": "Higiene E Perfumaria",
     "Desc Marca": "Farnese",
@@ -13182,12 +13146,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Linguica Defumada Cattani Kg Colonial",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Iraci Cattani",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Pão Primato Kg Sovado",
     "Desc Grupo": "Panificadora",
     "Desc Marca": "Primato",
@@ -14115,12 +14073,6 @@
     "Descrição": "Pino Fascil Adapt.15A Reverso 6220",
     "Desc Grupo": "Bazar",
     "Desc Marca": "Fascil",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativar Sorvete Gebon 1,5L Classico Buuu Unicornio",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Gebon",
     "Imagem": ""
   },
   {
@@ -16257,12 +16209,6 @@
     "Descrição": "Tempero Ki-Forte 400G Ervas Finas",
     "Desc Grupo": "Mercearia Salgada",
     "Desc Marca": "Ki Forte",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativar Queijo Ralado President 100G Fresco Prato",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "President",
     "Imagem": ""
   },
   {
@@ -19503,12 +19449,6 @@
     "Descrição": "Melado Guimaraes 300G Organico",
     "Desc Grupo": "Mercearia Saudavel",
     "Desc Marca": "Guimaraes",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativar Sorvete Kibon 800Ml Chocolate M&M",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Kibon",
     "Imagem": ""
   },
   {
@@ -24240,12 +24180,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Taxa De Entrega Isento",
-    "Desc Grupo": "Consumo Interno",
-    "Desc Marca": "Primato",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Pilha Duracell C/4 Aa",
     "Desc Grupo": "Bazar",
     "Desc Marca": "Duracell",
@@ -24471,12 +24405,6 @@
     "Descrição": "Balas Fini 90G Banana",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Fini",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativar Iogurte Batavo 170G Bob Morango",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Batavo",
     "Imagem": ""
   },
   {
@@ -25353,12 +25281,6 @@
     "Descrição": "Sabão Po Urca 4Kg Concentrado Sache",
     "Desc Grupo": "Limpeza",
     "Desc Marca": "Urca",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativar Iogurte Frimesa 165G Parc.Desnatado F. Vermelhas",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Frimesa",
     "Imagem": ""
   },
   {
@@ -29118,12 +29040,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Manteiga Crioulo 200G C/Sal",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Crioulo",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Prato Fundo Couprato Foliage",
     "Desc Grupo": "Bazar",
     "Desc Marca": "Porto Brasil",
@@ -30006,12 +29922,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Sand.Ipanema 23/32 Lol Surprise Mom",
-    "Desc Grupo": "Bazar",
-    "Desc Marca": "Ipanema",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Fertilizante Humusfertil 150G Orqui",
     "Desc Grupo": "Hortifruti e Grangeiros",
     "Desc Marca": "Humusfertil",
@@ -30567,12 +30477,6 @@
     "Descrição": "Agnoline Sabor De Mãe 500G Queijo",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Sabor De Mãe",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativar Caf  Espresso Cafeteria 50Ml C/Leite Pequeno",
-    "Desc Grupo": "Panificadora",
-    "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
@@ -34764,12 +34668,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Carne Moida Futuro 270G Bandeja",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Fazenda Futuro",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Leite Ferm.Batavinho 450G Patrulha Canina",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Batavo",
@@ -35607,12 +35505,6 @@
     "Descrição": "Pão Caseirinho 260G Bisnaguinhas",
     "Desc Grupo": "Panificadora",
     "Desc Marca": "Caseirinho",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativar Pudim Batavo 200G Doce De Leite",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Batavo",
     "Imagem": ""
   },
   {
@@ -41706,12 +41598,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Leite Ferm.Batavo 850G.Familia",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Batavo",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Alecrim Huber 30G",
     "Desc Grupo": "Mercearia Salgada",
     "Desc Marca": "Huber",
@@ -44994,12 +44880,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Sorvete Kibon 1,5L Cremosissimo Chicabon",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Kibon",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Gengibre Conserva Taressu 200G Shoga Gari",
     "Desc Grupo": "Mercearia Salgada",
     "Desc Marca": "Taressu",
@@ -46968,12 +46848,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Sand.Havaianas Top 33/46 Max Street Fighter",
-    "Desc Grupo": "Bazar",
-    "Desc Marca": "Havaianas",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Bone Americano Camuflado Verde",
     "Desc Grupo": "Agro",
     "Desc Marca": "Diversos",
@@ -48153,12 +48027,6 @@
     "Descrição": "Iogurte Batavo 450G Ped. Pessego",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Batavo",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativar Iogurte Frimesa 165G Imune Tangerina",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Frimesa",
     "Imagem": ""
   },
   {
@@ -49560,12 +49428,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Iogurte Batavo 160G Integral Cremoso",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Batavo",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Bebida Lac.Unibaby 150G Açai C/Banana",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
@@ -50697,12 +50559,6 @@
     "Descrição": "Aromatizante Uau 130Ml Lavanda",
     "Desc Grupo": "Limpeza",
     "Desc Marca": "Uau",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativar Sand.Havaianas Kids Max Street 29/30",
-    "Desc Grupo": "Bazar",
-    "Desc Marca": "Havaianas",
     "Imagem": ""
   },
   {
@@ -51888,12 +51744,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Taxa De Entrega Por Km",
-    "Desc Grupo": "Consumo Interno",
-    "Desc Marca": "Primato",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Sal Grosso Ki-Forte 500G Magic Sal",
     "Desc Grupo": "Mercearia Salgada",
     "Desc Marca": "Ki Forte",
@@ -53022,12 +52872,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Hamburguer Futuro 230G Bandeja",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Fazenda Futuro",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Pão Queijo Tradicão Minas 350G Recheado Doce De Leite",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Tradicão Minas",
@@ -54003,12 +53847,6 @@
     "Descrição": "Vinagre Balsamico Casa Madeira 500Ml Gourmet",
     "Desc Grupo": "Mercearia Salgada",
     "Desc Marca": "Casa Madeira",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativar Mini Strudel Panutti 100G Sabores C/ Receita",
-    "Desc Grupo": "Panificadora",
-    "Desc Marca": "Panutti (Doce D'Oce)",
     "Imagem": ""
   },
   {
@@ -57510,12 +57348,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Frango Futuro 200G Bandeja",
-    "Desc Grupo": "Pereciveis",
-    "Desc Marca": "Fazenda Futuro",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Chocolate Barra Hershey'S 85G Coffeecreations Expresso",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Hersheys",
@@ -59100,12 +58932,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Chips Coco Kg S/Açucar",
-    "Desc Grupo": "Panificadora",
-    "Desc Marca": "Rmoura",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Vinho Bra Mesa Halberth 750Ml Branco Suave",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Halberth",
@@ -59868,12 +59694,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Taxa De Entrega Delivery",
-    "Desc Grupo": "Consumo Interno",
-    "Desc Marca": "Primato",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Saponaceo Cremoso Ype 300Ml Citrus",
     "Desc Grupo": "Limpeza",
     "Desc Marca": "Ype",
@@ -60375,12 +60195,6 @@
     "Descrição": "Ovo Garoto Baton 212G Colors",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Garoto",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativar Chupeta Lillo Extra Air Silicone 2 Lil S",
-    "Desc Grupo": "Higiene E Perfumaria",
-    "Desc Marca": "Lillo",
     "Imagem": ""
   },
   {
@@ -61134,12 +60948,6 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Zzz Inativar Sand.Havaianas Kids Max Marvel 29/30",
-    "Desc Grupo": "Bazar",
-    "Desc Marca": "Havaianas",
-    "Imagem": ""
-  },
-  {
     "Descrição": "Caneca Glassral 300Ml Mãe Avulso Ref Gr2166",
     "Desc Grupo": "Bazar",
     "Desc Marca": "Glassral",
@@ -61875,12 +61683,6 @@
     "Descrição": "Kit Roleta Russa 1 Grf + Copo Ipa 500Ml",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Roleta Russa",
-    "Imagem": ""
-  },
-  {
-    "Descrição": "Zzz Inativar Pastel Panutti 72G Belem",
-    "Desc Grupo": "Panificadora",
-    "Desc Marca": "Panutti (Doce D'Oce)",
     "Imagem": ""
   },
   {
