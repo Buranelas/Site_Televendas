@@ -211,10 +211,22 @@ header h1 {
     margin-bottom: 10px;
     border-bottom: 1px solid #ddd;
     padding-bottom: 5px;
+    padding-right: 10px; /* Espacamento para os botoes */
 }
 
 #cart-items li:last-child {
     border-bottom: none;
+}
+
+#cart-items span {
+    flex-grow: 1; /* Faz com que o texto ocupe o máximo de espaço possível */
+    text-align: left;
+}
+
+#cart-items div {
+    display: flex;
+    justify-content: flex-end;
+    flex-shrink: 0; /* Impede os botoes de encolher */
 }
 
 #cart-items button {
