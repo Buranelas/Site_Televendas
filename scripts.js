@@ -187,8 +187,8 @@ function filterProducts() {
 
     filteredProducts = results.filter(product => {
         return (
-            (selectedGroup === "" || product["Desc Grupo"] === selectedGroup) &&
-            (selectedBrand === "" || product["Desc Marca"] === selectedBrand)
+            (selectedGroup === "all" || product["Desc Grupo"] === selectedGroup) &&
+            (selectedBrand === "all" || product["Desc Marca"] === selectedBrand)
         );
     });
 
@@ -200,8 +200,12 @@ function populateFilters() {
     const groupFilter = document.getElementById('filter-group');
     const brandFilter = document.getElementById('filter-brand');
 
-    const groups = [...new Set(products.map(product => product["Desc Grupo"]))];
-    const brands = [...new Set(products.map(product => product["Desc Marca"]))];
+    // Limpar filtros antes de adicionar novas opções
+    groupFilter.innerHTML = '<option value="all">Todos os Grupos</option>';
+    brandFilter.innerHTML = '<option value="all">Todas as Marcas</option>';
+
+    const groups = [...new Set(products.map(product => product["Desc Grupo"]).filter(Boolean))];
+    const brands = [...new Set(products.map(product => product["Desc Marca"]).filter(Boolean))];
 
     groups.forEach(group => {
         const option = document.createElement('option');

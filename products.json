@@ -73,7 +73,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Leitão Kg Costela",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -85,7 +85,7 @@
   },
   {
     "Descrição": "Carne Ave Lar 600G Resfriada File De Peito",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -127,7 +127,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Musculo C/Osso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -223,7 +223,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Paleta Sete",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -235,7 +235,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Congelada Coracão",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -289,7 +289,7 @@
   },
   {
     "Descrição": "Carne Ave Primato Iqf 1Kg File Sassami",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -337,7 +337,7 @@
   },
   {
     "Descrição": "Linguica Pernil Friceu Kg Fininha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Friceu",
     "Imagem": ""
   },
@@ -373,19 +373,19 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Ponta De Peito",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Copacol 800G File Peito C/Manjericão",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Kg Congelada Peito C/Osso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -421,7 +421,7 @@
   },
   {
     "Descrição": "Carne Ave Primato Iqf 1Kg Coxinha Asa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -726,7 +726,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 150G Morango",
+    "Descrição": "Bebida Lactea Lactobom 150G Morango",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -1332,7 +1332,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Legger 520Ml Limão",
+    "Descrição": "Beb Adoçada Legger 520Ml Limão",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Legger",
     "Imagem": ""
@@ -1381,7 +1381,7 @@
   },
   {
     "Descrição": "Carne Ave Lar 700G Frango Passarinho Temperado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -1566,7 +1566,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Kapo 200Ml Frutas Citricas",
+    "Descrição": "Beb Adoçada Kapo 200Ml Frutas Citricas",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -1615,7 +1615,7 @@
   },
   {
     "Descrição": "Carne Ave Lar 700G Moela",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -1686,7 +1686,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 150G Sl.Frutas",
+    "Descrição": "Bebida Lactea Lactobom 150G Sl.Frutas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -1716,7 +1716,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Nescau 1L Actigen-E",
+    "Descrição": "Bebida Lactea Nescau 1L Actigen-E",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Nestle",
     "Imagem": ""
@@ -1818,7 +1818,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Nescau 270Ml Shake",
+    "Descrição": "Bebida Lactea Nescau 270Ml Shake",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Nestle",
     "Imagem": ""
@@ -1849,7 +1849,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg File Duplo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -1890,7 +1890,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Del Valle Frut 1L Pet Uva",
+    "Descrição": "Beb Adoçada Del Valle Frut 1L Pet Uva",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -1902,7 +1902,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 900G Pct Morango",
+    "Descrição": "Bebida Lactea Lactobom 900G Pct Morango",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -1962,7 +1962,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 510G Morango",
+    "Descrição": "Bebida Lactea Lactobom 510G Morango",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -2113,7 +2113,7 @@
   },
   {
     "Descrição": "Carne Ave Carcaca Kg Variado S/M",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -2226,7 +2226,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Kapo 200Ml Laranja",
+    "Descrição": "Beb Adoçada Kapo 200Ml Laranja",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -2262,7 +2262,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 150G Pessego",
+    "Descrição": "Bebida Lactea Unibaby 150G Pessego",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -2352,7 +2352,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Unibaby 180G Chocolate",
+    "Descrição": "Sobremesa Lactea Unibaby 180G Chocolate",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -2472,7 +2472,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 150G Sal.Frutas",
+    "Descrição": "Bebida Lactea Unibaby 150G Sal.Frutas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -2844,7 +2844,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Piracanjuba Whey 250Ml 23G Prot.Frutas Vermelhas",
+    "Descrição": "Bebida Lactea Piracanjuba Whey 250Ml 23G Prot.Frutas Vermelhas",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Piracanjuba",
     "Imagem": ""
@@ -3018,7 +3018,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 200Ml Lakinho Chocolate",
+    "Descrição": "Bebida Lactea Lactobom 200Ml Lakinho Chocolate",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -3295,7 +3295,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Resfriada File Peito",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -3331,7 +3331,7 @@
   },
   {
     "Descrição": "Peixe Jumbo 800G Sardinha Inteira",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Jumbo",
     "Imagem": ""
   },
@@ -4549,7 +4549,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Bife Ancho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -4657,7 +4657,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Bife Chorizo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -4861,7 +4861,7 @@
   },
   {
     "Descrição": "Carne Suina Kg Miudo Rabo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -4974,7 +4974,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Del Valle Frut 1,5L Pet Uva",
+    "Descrição": "Beb Adoçada Del Valle Frut 1,5L Pet Uva",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -5047,7 +5047,7 @@
   },
   {
     "Descrição": "Carne Suina Frimesa 1Kg Porco A Passarinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
@@ -5160,7 +5160,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Primato 150G F.Vermelhas",
+    "Descrição": "Bebida Lactea Primato 150G F.Vermelhas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Primato",
     "Imagem": ""
@@ -5173,7 +5173,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Tomahawk",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -5509,7 +5509,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Leitão Kg Rolete",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -5599,7 +5599,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Resfriada Linguica Frango Granel",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -5887,7 +5887,7 @@
   },
   {
     "Descrição": "Carne Cordeiro Kg Paleta",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -5953,13 +5953,13 @@
   },
   {
     "Descrição": "Carne Cordeiro Kg Banda",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Kg Posta Branca",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -6043,7 +6043,7 @@
   },
   {
     "Descrição": "Carne Cordeiro Kg Costela",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -6295,7 +6295,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Resfriada Coracão",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -6541,7 +6541,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Matambre",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -6643,7 +6643,7 @@
   },
   {
     "Descrição": "Carne Ave Nhobento Kg Frango Inteiro",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Seara",
     "Imagem": ""
   },
@@ -7123,7 +7123,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Leitão Kg Sem Cabe A",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -7453,13 +7453,13 @@
   },
   {
     "Descrição": "Carne Bovina Carcaca Precoce Kg Costela",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Cordeiro Carcaca Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -7471,13 +7471,13 @@
   },
   {
     "Descrição": "Osso Bovinaino Kg Osso/Sebo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Carcaca Precoce Kg Traseiro Bola",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -7603,7 +7603,7 @@
   },
   {
     "Descrição": "File De Peito Frango 2,5Kg Desfiado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "C.Vale",
     "Imagem": ""
   },
@@ -7711,7 +7711,7 @@
   },
   {
     "Descrição": "Carne Bovina Congelada Kg Picanha Especial",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -7825,7 +7825,7 @@
   },
   {
     "Descrição": "Carne Suina Frimesa Kg Panceta Cong",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
@@ -8017,7 +8017,7 @@
   },
   {
     "Descrição": "Linguica Toscana Primato Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -8071,7 +8071,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Panceta C/P",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -8125,7 +8125,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Paleta",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -8137,7 +8137,7 @@
   },
   {
     "Descrição": "Peixe Tambaqui Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -8167,7 +8167,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Retalho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -8257,7 +8257,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Costela Ripa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -8323,13 +8323,13 @@
   },
   {
     "Descrição": "Camarão Costa Sul 400G Descascado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
   {
     "Descrição": "Surimi Costa Sul 200G Kani-Kama",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -8389,7 +8389,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol 1Kg Bdj.Figado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -8419,7 +8419,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Alcatra C/Osso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -8491,13 +8491,13 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Costela Minga",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Sadia Iqf 1Kg Coxinhas Asas",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Sadia",
     "Imagem": ""
   },
@@ -8521,7 +8521,7 @@
   },
   {
     "Descrição": "Carne Ave C.Vale Iqf 1Kg File Sassami",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "C.Vale",
     "Imagem": ""
   },
@@ -8598,7 +8598,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Tampico 2L Frutas Citricas",
+    "Descrição": "Beb Adoçada Tampico 2L Frutas Citricas",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Tampico",
     "Imagem": ""
@@ -8815,7 +8815,7 @@
   },
   {
     "Descrição": "Carne Ave Lar 700G Meio Asa Temperado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -8982,7 +8982,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Vigor 200Ml Morango",
+    "Descrição": "Beb Adoçada Vigor 200Ml Morango",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Vigor",
     "Imagem": ""
@@ -9252,7 +9252,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 800G Salada Frutas",
+    "Descrição": "Bebida Lactea Lactobom 800G Salada Frutas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -9348,7 +9348,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 800G Morango",
+    "Descrição": "Bebida Lactea Unibaby 800G Morango",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -9457,7 +9457,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol Iqf 800G Meio Asa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -9505,7 +9505,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Asado De Tiras",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -9811,13 +9811,13 @@
   },
   {
     "Descrição": "File Salmão Komdelli 125G Porcionado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Komdelli",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Capa File",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -9829,13 +9829,13 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg File Paulista",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave C.Vale Iqf 1Kg Coxinha Da Asa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "C.Vale",
     "Imagem": ""
   },
@@ -9925,7 +9925,7 @@
   },
   {
     "Descrição": "Carne Ave C Vale 800G Ling Frango",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "C.Vale",
     "Imagem": ""
   },
@@ -10039,7 +10039,7 @@
   },
   {
     "Descrição": "Posta Tilapia Primato Iqf 800G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -10177,7 +10177,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol Iqf 800G Filezinho Sassami",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -10188,7 +10188,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Batavo 180G Creamy Chocolate",
+    "Descrição": "Sobremesa Lactea Batavo 180G Creamy Chocolate",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Batavo",
     "Imagem": ""
@@ -10351,7 +10351,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Temp.Kg Alcatra",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -10561,7 +10561,7 @@
   },
   {
     "Descrição": "Carne Ave Lar 375G Moida",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -10674,7 +10674,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Frimesa 200G Chocolate Branco",
+    "Descrição": "Sobremesa Lactea Frimesa 200G Chocolate Branco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Frimesa",
     "Imagem": ""
@@ -10722,7 +10722,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 150G F.Vermelhas",
+    "Descrição": "Bebida Lactea Unibaby 150G F.Vermelhas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -10915,7 +10915,7 @@
   },
   {
     "Descrição": "Iscas De Tilapia-Barriga C.Vale 500G Cong",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "C.Vale",
     "Imagem": ""
   },
@@ -11106,7 +11106,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 800G Uva Verde",
+    "Descrição": "Bebida Lactea Unibaby 800G Uva Verde",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -11274,7 +11274,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 900G Pct Açai C/Banana",
+    "Descrição": "Bebida Lactea Lactobom 900G Pct Açai C/Banana",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -11334,7 +11334,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 800G F. Vermelhas",
+    "Descrição": "Bebida Lactea Unibaby 800G F. Vermelhas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -11370,7 +11370,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Maguary 275Ml Pet Laranja",
+    "Descrição": "Beb Adoçada Maguary 275Ml Pet Laranja",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Maguary",
     "Imagem": ""
@@ -11407,7 +11407,7 @@
   },
   {
     "Descrição": "Posta Perna De Moca Pescados Toledo Iqf 800G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Pescados Toledo",
     "Imagem": ""
   },
@@ -11466,7 +11466,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sorvete Guri 500Ml Zero Lac.Chocolate",
+    "Descrição": "Sorvete Guri 500Ml Zero Lactea Chocolate",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Sorvetes Guri",
     "Imagem": ""
@@ -11628,14 +11628,14 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.3 Corações 260Ml Cappuccino Pingado",
+    "Descrição": "Bebida Lactea 3 Corações 260Ml Cappuccino Pingado",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "3 Corações",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Corte Americano",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -11695,7 +11695,7 @@
   },
   {
     "Descrição": "Camarão Copacol 200G Inteiro",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -11784,7 +11784,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Del Valle Frut 450Ml Pet Frutas Citricas",
+    "Descrição": "Beb Adoçada Del Valle Frut 450Ml Pet Frutas Citricas",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -12210,7 +12210,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 150G F. Vermelhas",
+    "Descrição": "Bebida Lactea Lactobom 150G F. Vermelhas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -12271,7 +12271,7 @@
   },
   {
     "Descrição": "File Merluza Costa Sul 500G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -12319,7 +12319,7 @@
   },
   {
     "Descrição": "Bacalhau Riberalves 500G Macro Desfiado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Riberalves",
     "Imagem": ""
   },
@@ -12690,7 +12690,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Absorvente Intimus Days Cuidado Avancado Protetor Di Rio C/15 S/Abas S/Perfume",
+    "Descrição": "Absorvente Intimus Days Cuidado Avançado Protetor Di Rio C/15 S/Abas S/Perfume",
     "Desc Grupo": "Higiene E Perfumaria",
     "Desc Marca": "Intimus",
     "Imagem": ""
@@ -12913,7 +12913,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Resfriada Coxa Sobrecoxa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -12931,7 +12931,7 @@
   },
   {
     "Descrição": "Bacalhau Riberalves Saithe 1Kg Lombo Dessalgado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Riberalves",
     "Imagem": ""
   },
@@ -13003,7 +13003,7 @@
   },
   {
     "Descrição": "Posta Pintado Pescados Toledo Iqf 800G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Pescados Toledo",
     "Imagem": ""
   },
@@ -13098,7 +13098,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Del Valle Frut 250Ml Pet Laranja",
+    "Descrição": "Beb Adoçada Del Valle Frut 250Ml Pet Laranja",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -13843,7 +13843,7 @@
   },
   {
     "Descrição": "Posta Pintado Copacol Iqf 400G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -13915,7 +13915,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Copa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -13963,7 +13963,7 @@
   },
   {
     "Descrição": "Carne Cordeiro Kg Pernil",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -14388,7 +14388,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.3 Corações 250Ml Capp. Power Whey Cookies",
+    "Descrição": "Bebida Lactea 3 Corações 250Ml Capp. Power Whey Cookies",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "3 Corações",
     "Imagem": ""
@@ -14551,7 +14551,7 @@
   },
   {
     "Descrição": "Carne Suina Perdigão Kg Costela Brasa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Perdigão",
     "Imagem": ""
   },
@@ -14737,7 +14737,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Ponta Peito S/Osso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -14844,7 +14844,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Pirakids 200Ml Z.Lacto Chocolate",
+    "Descrição": "Bebida Lactea Pirakids 200Ml Z.Lacto Chocolate",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Piracanjuba",
     "Imagem": ""
@@ -14868,7 +14868,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Piracanjuba Whey 250Ml 15G Prot.Chocolate",
+    "Descrição": "Bebida Lactea Piracanjuba Whey 250Ml 15G Prot.Chocolate",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Piracanjuba",
     "Imagem": ""
@@ -15379,13 +15379,13 @@
   },
   {
     "Descrição": "Carne Bovina Carcaca Precoce Kg Costela Aparada",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Linguica Toscana Primato Kg Compra",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -15529,13 +15529,13 @@
   },
   {
     "Descrição": "Carne Suina Kg Sobrepaleta S/Pele C/Osso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Caixaria Kg Paleta S/Osso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -15607,7 +15607,7 @@
   },
   {
     "Descrição": "Carne Ave Frango Kg Com Miudo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Somave",
     "Imagem": ""
   },
@@ -15792,7 +15792,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bandeja Isop.Darnel Pr 02Lbbc C/400",
+    "Descrição": "Bandeja Isopor Darnel Pr 02Lbbc C/400",
     "Desc Grupo": "Consumo Interno",
     "Desc Marca": "Darnel",
     "Imagem": ""
@@ -15828,7 +15828,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bandeja Isop.Darnel Br 04Se C/400",
+    "Descrição": "Bandeja Isopor Darnel Br 04Se C/400",
     "Desc Grupo": "Consumo Interno",
     "Desc Marca": "Darnel",
     "Imagem": ""
@@ -15859,13 +15859,13 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Coxão Mole",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Suina Primato Kg Cabeca",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -15961,13 +15961,13 @@
   },
   {
     "Descrição": "Peixe Inteiro Pacu Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
   {
     "Descrição": "File Tilapia Copacol Iqf 800G Pct",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -16009,7 +16009,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Costela C/Pele",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -16069,7 +16069,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Costela Ripa Congelada",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -16141,13 +16141,13 @@
   },
   {
     "Descrição": "Carne Bovina Kg Miudo Figado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Linguica Pernil Frimesa Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
@@ -16183,7 +16183,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Pele",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -16195,7 +16195,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Cupim",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -16255,7 +16255,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Temp.Kg Paleta Desossada",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -16315,7 +16315,7 @@
   },
   {
     "Descrição": "Linguica Perdigão Brasa 1Kg Pernil",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Perdigão",
     "Imagem": ""
   },
@@ -16416,7 +16416,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Frimesa 200G Flan Baunilha Frutas Vermelhas",
+    "Descrição": "Sobremesa Lactea Frimesa 200G Flan Baunilha Frutas Vermelhas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Frimesa",
     "Imagem": ""
@@ -16446,7 +16446,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 510G Mor/Coco",
+    "Descrição": "Bebida Lactea Unibaby 510G Mor/Coco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -16854,13 +16854,13 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Batavo 510G Morango",
+    "Descrição": "Bebida Lactea Batavo 510G Morango",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Batavo",
     "Imagem": ""
   },
   {
-    "Descrição": "Balas Fini 80G Tub.Morango",
+    "Descrição": "Balas Fini 80G Tubles Morango",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Fini",
     "Imagem": ""
@@ -17046,7 +17046,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Legger 520Ml Açai",
+    "Descrição": "Beb Adoçada Legger 520Ml Açai",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Legger",
     "Imagem": ""
@@ -17094,7 +17094,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Batavo 510G Morango/Coco",
+    "Descrição": "Bebida Lactea Batavo 510G Morango/Coco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Batavo",
     "Imagem": ""
@@ -17148,7 +17148,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Neston 280Ml Fast",
+    "Descrição": "Bebida Lactea Neston 280Ml Fast",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Nestle",
     "Imagem": ""
@@ -17209,7 +17209,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Posta Vermelha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -17287,7 +17287,7 @@
   },
   {
     "Descrição": "Carne Ave Primato Iqf 1Kg File Coxa Sobrecoxa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -17364,7 +17364,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Parmalat Whey Fit 250Ml Coco/Batata Doce",
+    "Descrição": "Bebida Lactea Parmalat Whey Fit 250Ml Coco/Batata Doce",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Parmalat",
     "Imagem": ""
@@ -17814,7 +17814,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 800G Coco",
+    "Descrição": "Bebida Lactea Lactobom 800G Coco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -17898,7 +17898,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Absorvente Intimus Days Cuidado Avancado Protetor Di Rio C/40 S/Abas S/Perfume",
+    "Descrição": "Absorvente Intimus Days Cuidado Avançado Protetor Di Rio C/40 S/Abas S/Perfume",
     "Desc Grupo": "Higiene E Perfumaria",
     "Desc Marca": "Intimus",
     "Imagem": ""
@@ -17917,7 +17917,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Miudo Mocoto",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -18031,7 +18031,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Congelada Sambiquira",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -18156,7 +18156,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Batavo 200G Flan Caramelo",
+    "Descrição": "Sobremesa Lactea Batavo 200G Flan Caramelo",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Batavo",
     "Imagem": ""
@@ -18295,7 +18295,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol 500G Moida",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -18499,7 +18499,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Temp.Kg Panceta",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -18871,7 +18871,7 @@
   },
   {
     "Descrição": "Carne Ave Sadia 1Kg Coracão Bdj",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Sadia",
     "Imagem": ""
   },
@@ -19189,7 +19189,7 @@
   },
   {
     "Descrição": "Peixe Copacol 800G Sardinha Inteira",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -19411,7 +19411,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol 1Kg Bdj.Coxa Sob.S/Osso S/Pele",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -19422,13 +19422,13 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.3 Corações 260Ml Cappuccino Classic",
+    "Descrição": "Bebida Lactea 3 Corações 260Ml Cappuccino Classic",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "3 Corações",
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 150G Coco",
+    "Descrição": "Bebida Lactea Unibaby 150G Coco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -19501,7 +19501,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol 1Kg Bdj.Coxinha Asa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -19542,7 +19542,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Frimesa 200G Chocolate Meio Amargo",
+    "Descrição": "Sobremesa Lactea Frimesa 200G Chocolate Meio Amargo",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Frimesa",
     "Imagem": ""
@@ -19620,7 +19620,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Piracanjuba Whey 250Ml 23G Prot.Cacau",
+    "Descrição": "Bebida Lactea Piracanjuba Whey 250Ml 23G Prot.Cacau",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Piracanjuba",
     "Imagem": ""
@@ -19681,7 +19681,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol 600G Ling Fr Quei",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -19795,7 +19795,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Congelada Sobrecoxa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -19891,7 +19891,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol 800G C Asa Iqf",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -20101,7 +20101,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Costela S/Pele",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -20335,7 +20335,7 @@
   },
   {
     "Descrição": "Mexilhão Costa Sul 400G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -20557,7 +20557,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Resfriada Sobrecoxa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -20952,7 +20952,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Primato 800G Sl.Frutas",
+    "Descrição": "Bebida Lactea Primato 800G Sl.Frutas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Primato",
     "Imagem": ""
@@ -21091,7 +21091,7 @@
   },
   {
     "Descrição": "Bolinho Bacalhau Costa Sul 270G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -21151,7 +21151,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Ponta De Peito S/O",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -21271,7 +21271,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Paleta S/Pele S/Osso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -21523,7 +21523,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol Iqf 800G File Peito",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -21912,7 +21912,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.3 Corações 250Ml Capp. Power Whey Chocolate",
+    "Descrição": "Bebida Lactea 3 Corações 250Ml Capp. Power Whey Chocolate",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "3 Corações",
     "Imagem": ""
@@ -22051,7 +22051,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Miudo Rabo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -22129,7 +22129,7 @@
   },
   {
     "Descrição": "Peixe Copacol 400G Tambaqui Costelinha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -22501,7 +22501,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol 1Kg Pct.File Sassami",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -22531,7 +22531,7 @@
   },
   {
     "Descrição": "Carne Ave Sadia Kg Frango Galeto",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Sadia",
     "Imagem": ""
   },
@@ -22879,7 +22879,7 @@
   },
   {
     "Descrição": "Carne Bovina Carcaca Compra Kg Bisteca S/Mignon",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -22993,7 +22993,7 @@
   },
   {
     "Descrição": "Carne Bovina Compra Kg Fraldinha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -23095,7 +23095,7 @@
   },
   {
     "Descrição": "Carne Bovina Angus Kg Ponta Peito",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Angus Diversos",
     "Imagem": ""
   },
@@ -23125,7 +23125,7 @@
   },
   {
     "Descrição": "Lombo Suino Frimesa Kg Temp.S/Osso (Natalino)",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
@@ -23383,13 +23383,13 @@
   },
   {
     "Descrição": "Carne Bovina Caixaria Kg Miolo/Coracão Do Alcatra",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Primato Iqf 1Kg Frango Passarinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -23503,7 +23503,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Pernil",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -23515,7 +23515,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Bisteca S/Mignon",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -23617,7 +23617,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Acem",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -23713,7 +23713,7 @@
   },
   {
     "Descrição": "Pernil Suino Frimesa Kg Temp. Vinho S/ Osso (Natalino)",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
@@ -23731,7 +23731,7 @@
   },
   {
     "Descrição": "Linguica Suina Perdigão Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Perdigão",
     "Imagem": ""
   },
@@ -23881,7 +23881,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Fraldinha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -23899,7 +23899,7 @@
   },
   {
     "Descrição": "File Tilapia Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -23953,7 +23953,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol 1Kg Bdj.Moela",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -23976,14 +23976,14 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Parmalat Whey Fit 250Ml Chocolate",
+    "Descrição": "Bebida Lactea Parmalat Whey Fit 250Ml Chocolate",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Parmalat",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Lar Iqf 700G Frango Passarinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -24127,7 +24127,7 @@
   },
   {
     "Descrição": "Carne Ave Lar 700G Figado Pct",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -24264,7 +24264,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Balas Fini 80G Tub.Citricos Morango",
+    "Descrição": "Balas Fini 80G Tubles Citricos Morango",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Fini",
     "Imagem": ""
@@ -24390,7 +24390,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Vigor 200Ml Maracujá",
+    "Descrição": "Beb Adoçada Vigor 200Ml Maracujá",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Vigor",
     "Imagem": ""
@@ -24487,7 +24487,7 @@
   },
   {
     "Descrição": "Linguica Toscana Primato Kg Apimentada",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -24768,7 +24768,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Nescau 180Ml Fator Crescer",
+    "Descrição": "Bebida Lactea Nescau 180Ml Fator Crescer",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Nestle",
     "Imagem": ""
@@ -24834,7 +24834,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Vigor 200Ml Laranja",
+    "Descrição": "Beb Adoçada Vigor 200Ml Laranja",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Vigor",
     "Imagem": ""
@@ -25003,7 +25003,7 @@
   },
   {
     "Descrição": "Carne Ave Kg File De Coxa E Sobrecoxa Int",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -25134,7 +25134,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Kapo 200Ml Abacaxi",
+    "Descrição": "Beb Adoçada Kapo 200Ml Abacaxi",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -25446,7 +25446,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 800G Abacaxi C/Hortela",
+    "Descrição": "Bebida Lactea Lactobom 800G Abacaxi C/Hortela",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -25548,7 +25548,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Pirakids 200Ml Chocolate",
+    "Descrição": "Bebida Lactea Pirakids 200Ml Chocolate",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Piracanjuba",
     "Imagem": ""
@@ -25626,7 +25626,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Toddynho 200Ml Chocolate",
+    "Descrição": "Bebida Lactea Toddynho 200Ml Chocolate",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Toddy",
     "Imagem": ""
@@ -25728,7 +25728,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Frimesa 200G Torta Limão",
+    "Descrição": "Sobremesa Lactea Frimesa 200G Torta Limão",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Frimesa",
     "Imagem": ""
@@ -26010,7 +26010,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 900G Pct Sl.Frutas",
+    "Descrição": "Bebida Lactea Lactobom 900G Pct Sl.Frutas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -26058,7 +26058,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Unibaby 320G Chocolate",
+    "Descrição": "Sobremesa Lactea Unibaby 320G Chocolate",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -26215,7 +26215,7 @@
   },
   {
     "Descrição": "Carne Ave Lar 600G Resfriada Sobrecoxas",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -26364,7 +26364,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Frimesa 200G Doce De Leite",
+    "Descrição": "Sobremesa Lactea Frimesa 200G Doce De Leite",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Frimesa",
     "Imagem": ""
@@ -26460,7 +26460,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 510G Morango/Coco",
+    "Descrição": "Bebida Lactea Lactobom 510G Morango/Coco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -26550,7 +26550,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Maguary 275Ml Pet Morango",
+    "Descrição": "Beb Adoçada Maguary 275Ml Pet Morango",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Maguary",
     "Imagem": ""
@@ -27451,7 +27451,7 @@
   },
   {
     "Descrição": "Carne Suina Frimesa 1Kg Panceta Aperitivo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
@@ -27637,7 +27637,7 @@
   },
   {
     "Descrição": "Posta Tilapia Copacol Iqf 800G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -27919,7 +27919,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Espinhaco",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -27991,7 +27991,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Bananinha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -28123,7 +28123,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Congelada Galinha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -28933,7 +28933,7 @@
   },
   {
     "Descrição": "Carne Suina Frimesa Kg Costela Congelada Premium",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
@@ -28969,7 +28969,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Miudo Coracão",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -29227,7 +29227,7 @@
   },
   {
     "Descrição": "File De Peito Frango 500G Desfiado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "C.Vale",
     "Imagem": ""
   },
@@ -29287,7 +29287,7 @@
   },
   {
     "Descrição": "Carne Ave C.Vale 1Kg Filezinho Grelhado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "C.Vale",
     "Imagem": ""
   },
@@ -29611,7 +29611,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Prime Rib",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -29767,7 +29767,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg File Mignon",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -30187,7 +30187,7 @@
   },
   {
     "Descrição": "Carne Ave Perdigão 800G Coxinha Asa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Perdigão",
     "Imagem": ""
   },
@@ -30859,7 +30859,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Carcaca Kg Pescoco",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -30907,13 +30907,13 @@
   },
   {
     "Descrição": "Carcaca Suina Kg Leitão Rolete",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Carcaca Precoce Kg Traseiro Capote",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -30925,7 +30925,7 @@
   },
   {
     "Descrição": "Carne Suina Carcaca Compra Kg Costela C/Panceta E Pele",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -30991,7 +30991,7 @@
   },
   {
     "Descrição": "Carne Bovina Compra Kg Patinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -31171,7 +31171,7 @@
   },
   {
     "Descrição": "Carne Cordeiro Vacuo Kg Prime Rib",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Rei Do Cordeiro",
     "Imagem": ""
   },
@@ -31237,7 +31237,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Moida Light",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -31357,31 +31357,31 @@
   },
   {
     "Descrição": "Carne Ave Kg Congelada Coxa Sobrecoxa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Caixaria Kg Fraldinha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
   {
     "Descrição": "File Tilapia Primato Iqf 800G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Caixaria Kg Patinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
   {
     "Descrição": "Osso Suino Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -31393,7 +31393,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Pe Com Joelho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -31507,13 +31507,13 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Picanha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Copacol 1Kg Bdj.Coracão",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -31567,7 +31567,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Patinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -31597,7 +31597,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Picanha Fatiada",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -31723,13 +31723,13 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg File Mignon",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Linguica Perdigão Brasa 600G Queijo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Perdigão",
     "Imagem": ""
   },
@@ -31783,7 +31783,7 @@
   },
   {
     "Descrição": "Camarão Costa Sul 400G Vanamei Gg Coz.Descascado 31/40Pc",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -31855,7 +31855,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Temp.Kg Copa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -31867,7 +31867,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol 800G File Peito Manteiga/Cebola",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -32107,7 +32107,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Miolo Da Alcatra",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Friboi",
     "Imagem": ""
   },
@@ -32119,13 +32119,13 @@
   },
   {
     "Descrição": "Carne Ave Lar 600G Resfriada Meio Das Asas",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Alcatra Completa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -32172,7 +32172,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Kapo 200Ml Uva",
+    "Descrição": "Beb Adoçada Kapo 200Ml Uva",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -32400,7 +32400,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 800G Açai C/Banana",
+    "Descrição": "Bebida Lactea Unibaby 800G Açai C/Banana",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -32418,7 +32418,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Batavo 510G Mor./Pessego",
+    "Descrição": "Bebida Lactea Batavo 510G Mor./Pessego",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Batavo",
     "Imagem": ""
@@ -32443,7 +32443,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg File Mignon",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -32634,7 +32634,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 125G Lakinho Flocos",
+    "Descrição": "Bebida Lactea Lactobom 125G Lakinho Flocos",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -32748,7 +32748,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Balas Fini 80G Tub.Trolls",
+    "Descrição": "Balas Fini 80G Tubles Trolls",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Fini",
     "Imagem": ""
@@ -32844,7 +32844,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Kapo 200Ml Morango",
+    "Descrição": "Beb Adoçada Kapo 200Ml Morango",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -32911,13 +32911,13 @@
   },
   {
     "Descrição": "Linguica Calabresa Frescal Frimesa 1Kg Apimentada",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Copacol Iqf 800G File Peito Bife",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -32965,7 +32965,7 @@
   },
   {
     "Descrição": "Carne Ave Lar 700G Coxinha Asa Tempe",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -33084,7 +33084,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Parmalat Whey Fit 250Ml Baunilha",
+    "Descrição": "Bebida Lactea Parmalat Whey Fit 250Ml Baunilha",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Parmalat",
     "Imagem": ""
@@ -33942,7 +33942,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Piracanjuba Whey 250Ml 23G Prot.Banana",
+    "Descrição": "Bebida Lactea Piracanjuba Whey 250Ml 23G Prot.Banana",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Piracanjuba",
     "Imagem": ""
@@ -33991,7 +33991,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Moida 1A",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -34081,7 +34081,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Fraldinha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -34692,7 +34692,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 800G F.Vermelhas",
+    "Descrição": "Bebida Lactea Lactobom 800G F.Vermelhas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -34782,7 +34782,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 130G Divertido/Pastilha",
+    "Descrição": "Bebida Lactea Unibaby 130G Divertido/Pastilha",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -34969,7 +34969,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol Iqf 800G Frango Passarinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -35005,7 +35005,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Congelada Pe",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -35238,7 +35238,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Maguary 275Ml Pet Maracujá",
+    "Descrição": "Beb Adoçada Maguary 275Ml Pet Maracujá",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Maguary",
     "Imagem": ""
@@ -35250,7 +35250,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 800G Coco",
+    "Descrição": "Bebida Lactea Unibaby 800G Coco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -35850,7 +35850,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Del Valle Frut 450Ml Pet Laranja",
+    "Descrição": "Beb Adoçada Del Valle Frut 450Ml Pet Laranja",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -35917,7 +35917,7 @@
   },
   {
     "Descrição": "File Perna De Moca Pescados Toledo Iqf 800G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Pescados Toledo",
     "Imagem": ""
   },
@@ -36235,7 +36235,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Temp.Kg Porco A Passarinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -36379,7 +36379,7 @@
   },
   {
     "Descrição": "File De Cacão Costa Sul 500G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -36505,7 +36505,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Aranha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -36612,7 +36612,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Primato 800G Coco",
+    "Descrição": "Bebida Lactea Primato 800G Coco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Primato",
     "Imagem": ""
@@ -36739,7 +36739,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Resfriada Strogonoff File Peito",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -37099,7 +37099,7 @@
   },
   {
     "Descrição": "Carne Bovina Maturatta Kg Ancho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Friboi",
     "Imagem": ""
   },
@@ -37165,7 +37165,7 @@
   },
   {
     "Descrição": "Aneis Lula Costa Sul 400G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -37183,7 +37183,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Banda",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -37195,13 +37195,13 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Paleta Simples S/Osso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Dianteiro",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -37225,7 +37225,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Costela Minga",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -38149,7 +38149,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Costela Minga Desossada",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -38250,7 +38250,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Piracanjuba Whey 250Ml 15G Prot.Morango",
+    "Descrição": "Bebida Lactea Piracanjuba Whey 250Ml 15G Prot.Morango",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Piracanjuba",
     "Imagem": ""
@@ -38268,7 +38268,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Batavo 90G Chocolate C/ Chantily",
+    "Descrição": "Sobremesa Lactea Batavo 90G Chocolate C/ Chantily",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Batavo",
     "Imagem": ""
@@ -38689,7 +38689,7 @@
   },
   {
     "Descrição": "Carcaca Suina Kg Padrão Varejo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -38725,7 +38725,7 @@
   },
   {
     "Descrição": "Carne Bovina Carcaca Compra Kg Paleta C/Osso Completa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -38869,7 +38869,7 @@
   },
   {
     "Descrição": "Carne Bovina Compra Kg Miolo/Coracão Do Alcatra",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -39025,7 +39025,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Congelada Meio Da Asa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -39210,7 +39210,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bandeja Isop.Darnel Rs 04 Sle C/400",
+    "Descrição": "Bandeja Isopor Darnel Rs 04 Sle C/400",
     "Desc Grupo": "Consumo Interno",
     "Desc Marca": "Darnel",
     "Imagem": ""
@@ -39241,7 +39241,7 @@
   },
   {
     "Descrição": "Camarão Costa Sul 400G Vanamei S/Cabeca Coz.60/90Pc",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -39289,25 +39289,25 @@
   },
   {
     "Descrição": "Carne Ave Lar 600G Resfriada Coracão",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Kg Congelada File Peito",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Suina Primato Leitão Kg Paleta",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Posta Branca",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -39349,7 +39349,7 @@
   },
   {
     "Descrição": "Carne Bovina Caixaria Kg Coxão Mole",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -39379,7 +39379,7 @@
   },
   {
     "Descrição": "Carne Suina Kg Bisteca S/P Congelad",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Sadia",
     "Imagem": ""
   },
@@ -39463,7 +39463,7 @@
   },
   {
     "Descrição": "Carne Bovina Caixaria Kg Contra File",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -39523,7 +39523,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Maminha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -39583,7 +39583,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Moida 2A",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -39673,7 +39673,7 @@
   },
   {
     "Descrição": "Carne Ave Lar 600G Resfriada Filezinho Sassami",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -39685,7 +39685,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Costela De Segunda",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -39697,7 +39697,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Temp.Kg Costela Ripa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -39733,7 +39733,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Picanha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -39984,7 +39984,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Batavo 304G Chocolate",
+    "Descrição": "Sobremesa Lactea Batavo 304G Chocolate",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Batavo",
     "Imagem": ""
@@ -39997,7 +39997,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Miolo Da Alcatra",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -40068,7 +40068,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Chocolateo Milk 1L",
+    "Descrição": "Bebida Lactea Chocolateo Milk 1L",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Batavo",
     "Imagem": ""
@@ -40188,7 +40188,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Frimesa 200G Flan Caramelo",
+    "Descrição": "Sobremesa Lactea Frimesa 200G Flan Caramelo",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Frimesa",
     "Imagem": ""
@@ -40207,7 +40207,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Resfriada Coxinha Asa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -40482,7 +40482,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 125G Lakinho Colorido",
+    "Descrição": "Bebida Lactea Lactobom 125G Lakinho Colorido",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -40669,7 +40669,7 @@
   },
   {
     "Descrição": "Carne Suina Kg Miudo Orelha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -40687,7 +40687,7 @@
   },
   {
     "Descrição": "File Tilapia Copacol Iqf 400G Pct",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -40788,7 +40788,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Vigor 200Ml Uva",
+    "Descrição": "Beb Adoçada Vigor 200Ml Uva",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Vigor",
     "Imagem": ""
@@ -40830,7 +40830,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Vigor 200Ml Maca",
+    "Descrição": "Beb Adoçada Vigor 200Ml Maca",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Vigor",
     "Imagem": ""
@@ -40842,7 +40842,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Del Valle Frut 1L Pet Laranja",
+    "Descrição": "Beb Adoçada Del Valle Frut 1L Pet Laranja",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -40902,7 +40902,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 800G Zero Lac.Ameixa",
+    "Descrição": "Bebida Lactea Unibaby 800G Zero Lactea Ameixa",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -40968,13 +40968,13 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Chandelle 360G Chocolate Branco",
+    "Descrição": "Sobremesa Lactea Chandelle 360G Chocolate Branco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Nestle",
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Chandelle 360G Chocolate",
+    "Descrição": "Sobremesa Lactea Chandelle 360G Chocolate",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Nestle",
     "Imagem": ""
@@ -41412,14 +41412,14 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 150G Morango",
+    "Descrição": "Bebida Lactea Unibaby 150G Morango",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Lar Kg Frango Temperado S/M",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -41449,7 +41449,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Posta De Bife",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -41467,7 +41467,7 @@
   },
   {
     "Descrição": "Carne Ave Lar Iqf 700G Coxinha Asa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -41526,7 +41526,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 850G Pct Morango",
+    "Descrição": "Bebida Lactea Unibaby 850G Pct Morango",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -41604,7 +41604,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Unibaby 180G Chocolate Branco",
+    "Descrição": "Sobremesa Lactea Unibaby 180G Chocolate Branco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -41755,7 +41755,7 @@
   },
   {
     "Descrição": "Carne Ave C.Vale Iqf 1Kg Frango A Passarinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "C.Vale",
     "Imagem": ""
   },
@@ -41911,13 +41911,13 @@
   },
   {
     "Descrição": "Carne Ave Sadia Iqf 1Kg Filezinho Sassa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Sadia",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Sadia 1Kg File Peito Bdj",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Sadia",
     "Imagem": ""
   },
@@ -42240,7 +42240,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Maguary 275Ml Pet Uva",
+    "Descrição": "Beb Adoçada Maguary 275Ml Pet Uva",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Maguary",
     "Imagem": ""
@@ -42589,7 +42589,7 @@
   },
   {
     "Descrição": "Posta Cascudo Pescados Toledo Iqf 800G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Pescados Toledo",
     "Imagem": ""
   },
@@ -42708,7 +42708,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Del Valle Fresh 250Ml Pet Limão",
+    "Descrição": "Beb Adoçada Del Valle Fresh 250Ml Pet Limão",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -42889,7 +42889,7 @@
   },
   {
     "Descrição": "Peixe Lambari 400G Pescados Toledo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Pescados Toledo",
     "Imagem": ""
   },
@@ -43206,7 +43206,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.3 Corações 260Ml Cappuccino Chocolate",
+    "Descrição": "Bebida Lactea 3 Corações 260Ml Cappuccino Chocolate",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "3 Corações",
     "Imagem": ""
@@ -43369,7 +43369,7 @@
   },
   {
     "Descrição": "Carne Ave Sadia Assa Facil 800G Sobrecoxa Temperada",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Sadia",
     "Imagem": ""
   },
@@ -43531,7 +43531,7 @@
   },
   {
     "Descrição": "Carne Ave Nhobento 700G Fr.Passarinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Seara",
     "Imagem": ""
   },
@@ -43693,7 +43693,7 @@
   },
   {
     "Descrição": "Carne Suina Kg Espinhaco",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -43723,7 +43723,7 @@
   },
   {
     "Descrição": "Osso Bovinaino Kg Venda",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -43807,13 +43807,13 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Pacu",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Precoce Kg File Paulista",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -44214,7 +44214,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Del Valle Frut 1,5L Pet Laranja",
+    "Descrição": "Beb Adoçada Del Valle Frut 1,5L Pet Laranja",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -44383,7 +44383,7 @@
   },
   {
     "Descrição": "Carne Ave Sadia Assa Facil 700G File Peito",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Sadia",
     "Imagem": ""
   },
@@ -44478,13 +44478,13 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Primato 150G Morango",
+    "Descrição": "Bebida Lactea Primato 150G Morango",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Primato 800G F.Vermelhas",
+    "Descrição": "Bebida Lactea Primato 800G F.Vermelhas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Primato",
     "Imagem": ""
@@ -44557,7 +44557,7 @@
   },
   {
     "Descrição": "Carne Ave Frimesa Kg Especial (Natalino)",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
@@ -44580,7 +44580,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Primato 150G Sl.Frutas",
+    "Descrição": "Bebida Lactea Primato 150G Sl.Frutas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Primato",
     "Imagem": ""
@@ -44905,7 +44905,7 @@
   },
   {
     "Descrição": "Ingred.P/Paella Costa Sul 400G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -45007,7 +45007,7 @@
   },
   {
     "Descrição": "Bacalhau G.Morhua Kg 10/12 Porto",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -45151,7 +45151,7 @@
   },
   {
     "Descrição": "Carne Cordeiro Kg Carre",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -45397,7 +45397,7 @@
   },
   {
     "Descrição": "Carne Ave C.Vale 2Kg Fr.Desos.Reche",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "C.Vale",
     "Imagem": ""
   },
@@ -45469,7 +45469,7 @@
   },
   {
     "Descrição": "Copa Suina Frimesa Kg Temp.S/Osso (Natalino)",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
@@ -45625,7 +45625,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Galo Congelado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -46098,7 +46098,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Piracanjuba Whey 250Ml 15G Prot.Coco",
+    "Descrição": "Bebida Lactea Piracanjuba Whey 250Ml 15G Prot.Coco",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Piracanjuba",
     "Imagem": ""
@@ -46219,7 +46219,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol 800G Ling Frango Congelada",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -46393,7 +46393,7 @@
   },
   {
     "Descrição": "Carcaca Suina Kg C/Pele Leitão Sem Cabe A",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -46525,7 +46525,7 @@
   },
   {
     "Descrição": "Carne Bovina Compra Kg Posta Vermelha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -46729,7 +46729,7 @@
   },
   {
     "Descrição": "Osso Cordeiro Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -46854,7 +46854,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bandeja Isop.Darnel Br 11Se C/400",
+    "Descrição": "Bandeja Isopor Darnel Br 11Se C/400",
     "Desc Grupo": "Consumo Interno",
     "Desc Marca": "Darnel",
     "Imagem": ""
@@ -46884,7 +46884,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bandeja Isop.Darnel Pr 04Lbbc C/400",
+    "Descrição": "Bandeja Isopor Darnel Pr 04Lbbc C/400",
     "Desc Grupo": "Consumo Interno",
     "Desc Marca": "Darnel",
     "Imagem": ""
@@ -46902,7 +46902,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bandeja Isop.Darnel Br 02Se C/400",
+    "Descrição": "Bandeja Isopor Darnel Br 02Se C/400",
     "Desc Grupo": "Consumo Interno",
     "Desc Marca": "Darnel",
     "Imagem": ""
@@ -46963,13 +46963,13 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg File Agulha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Caixaria Kg Posta Vermelha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -46981,7 +46981,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Leitão Kg Pernil",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -47017,7 +47017,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Posta Vermelha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -47047,13 +47047,13 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Bisteca C/Pele",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Linguica Queijo Friceu Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Friceu",
     "Imagem": ""
   },
@@ -47107,7 +47107,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Congelada Coxa Sobrecoxa C/Dorso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -47167,7 +47167,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Paleta",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -47203,13 +47203,13 @@
   },
   {
     "Descrição": "Carne Ave Copacol 1Kg Bdj.File Peito",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Lar Iqf 700G File De Peito",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -47227,7 +47227,7 @@
   },
   {
     "Descrição": "Carne Suina Kg Costela S/Pele",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -47257,7 +47257,7 @@
   },
   {
     "Descrição": "Linguica Campeira Primato Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -47293,7 +47293,7 @@
   },
   {
     "Descrição": "Linguica Toscana Frimesa Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
@@ -47310,7 +47310,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Pirakids 1L Chocolate",
+    "Descrição": "Bebida Lactea Pirakids 1L Chocolate",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Piracanjuba",
     "Imagem": ""
@@ -47341,13 +47341,13 @@
   },
   {
     "Descrição": "Carne Bovina Kg Coxão Mole",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Linguica Perdigão Brasa 600G Biquinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Perdigão",
     "Imagem": ""
   },
@@ -47467,7 +47467,7 @@
   },
   {
     "Descrição": "Carne Suina Kg Miudo Pele",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -47479,7 +47479,7 @@
   },
   {
     "Descrição": "Carne Ave Kg Congelada Coxinha Asa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -47491,13 +47491,13 @@
   },
   {
     "Descrição": "Carne Ave Lar Iqf 700G File Sassami",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
   {
     "Descrição": "Linguica Perdigão Brasa 600G Alho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Perdigão",
     "Imagem": ""
   },
@@ -47706,13 +47706,13 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 150G Coco",
+    "Descrição": "Bebida Lactea Lactobom 150G Coco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 150G Abacaxi C/Hortela",
+    "Descrição": "Bebida Lactea Lactobom 150G Abacaxi C/Hortela",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -47935,7 +47935,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Patinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -48085,7 +48085,7 @@
   },
   {
     "Descrição": "Carne Ave Lar Iqf 700G Sobrecoxa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -48168,7 +48168,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Balas Fini 80G Tub.Tutti Frutti",
+    "Descrição": "Balas Fini 80G Tubles Tutti Frutti",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Fini",
     "Imagem": ""
@@ -48378,7 +48378,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Colonia Holandesa 200Ml Chocolate",
+    "Descrição": "Bebida Lactea Colonia Holandesa 200Ml Chocolate",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Colonia Holandesa",
     "Imagem": ""
@@ -48390,7 +48390,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 900G Pct Coco",
+    "Descrição": "Bebida Lactea Lactobom 900G Pct Coco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -48625,13 +48625,13 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Rabo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Sadia Iqf 1Kg Meio Das Asas",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Sadia",
     "Imagem": ""
   },
@@ -48738,7 +48738,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 800G Morango",
+    "Descrição": "Bebida Lactea Lactobom 800G Morango",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -48894,7 +48894,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Chocolateo Milk 200Ml Garrafa",
+    "Descrição": "Bebida Lactea Chocolateo Milk 200Ml Garrafa",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Batavo",
     "Imagem": ""
@@ -49110,7 +49110,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Unibaby 180G Flan Baunilha",
+    "Descrição": "Sobremesa Lactea Unibaby 180G Flan Baunilha",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -49326,7 +49326,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 125G Lakinho Pastilhas",
+    "Descrição": "Bebida Lactea Lactobom 125G Lakinho Pastilhas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -49428,7 +49428,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 150G Açai C/Banana",
+    "Descrição": "Bebida Lactea Unibaby 150G Açai C/Banana",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -49482,7 +49482,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 150G Uva Verde",
+    "Descrição": "Bebida Lactea Unibaby 150G Uva Verde",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -49585,7 +49585,7 @@
   },
   {
     "Descrição": "Posta Tilapia C.Vale Iqf 800G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "C.Vale",
     "Imagem": ""
   },
@@ -49734,7 +49734,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 150G Açai C/Morango",
+    "Descrição": "Bebida Lactea Unibaby 150G Açai C/Morango",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -49819,7 +49819,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Lombo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -49968,7 +49968,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Frimesa 200G Milho",
+    "Descrição": "Sobremesa Lactea Frimesa 200G Milho",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Frimesa",
     "Imagem": ""
@@ -50094,7 +50094,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Batavo 200G Flan Frutas Verm",
+    "Descrição": "Sobremesa Lactea Batavo 200G Flan Frutas Verm",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Batavo",
     "Imagem": ""
@@ -50179,7 +50179,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Temp.Kg Pernil Desossado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -50575,7 +50575,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg File Mignon Industrial",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -50988,7 +50988,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Frimesa 200G Chocolate",
+    "Descrição": "Sobremesa Lactea Frimesa 200G Chocolate",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Frimesa",
     "Imagem": ""
@@ -51313,7 +51313,7 @@
   },
   {
     "Descrição": "Sardinha Costa Sul 800G Lt Evicerada",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -51348,7 +51348,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Balas Fini 80G Tub.Tropical",
+    "Descrição": "Balas Fini 80G Tubles Tropical",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Fini",
     "Imagem": ""
@@ -51409,7 +51409,7 @@
   },
   {
     "Descrição": "Posta Cacão Costa Sul Iqf 800G",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -51835,7 +51835,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Cupim",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -52123,7 +52123,7 @@
   },
   {
     "Descrição": "Linguica Toscana Perdigão 400G Fininha Na Brasa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Perdigão",
     "Imagem": ""
   },
@@ -52291,7 +52291,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Contra File",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -52440,13 +52440,13 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Primato 150G Coco",
+    "Descrição": "Bebida Lactea Primato 150G Coco",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Primato 800G Morango",
+    "Descrição": "Bebida Lactea Primato 800G Morango",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Primato",
     "Imagem": ""
@@ -52747,7 +52747,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Costela Completa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -52836,14 +52836,14 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Del Valle Fresh 1,5L Pet Limão",
+    "Descrição": "Beb Adoçada Del Valle Fresh 1,5L Pet Limão",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Do Campo Kg Frango Caipira Inteiro",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frango Sabor Caipira",
     "Imagem": ""
   },
@@ -52921,7 +52921,7 @@
   },
   {
     "Descrição": "Camarão Copacol 400G 7 Barbas",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -52987,13 +52987,13 @@
   },
   {
     "Descrição": "Peixe Costa Sul 500G Cascudinho Do Mar File S/Pele",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
   {
     "Descrição": "Peixe Costa Sul 500G Castanha File Espalmado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -53119,7 +53119,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Traseiro Capote",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -53305,7 +53305,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Costela Ripa Desossada",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -53587,7 +53587,7 @@
   },
   {
     "Descrição": "Carne Ave Lar 700G Ling Frango Conge",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -54127,7 +54127,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Bife Suino Lombo",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -54475,7 +54475,7 @@
   },
   {
     "Descrição": "Carne Bovina Carcaca Compra Kg Bisteca C/Mignon",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -54511,7 +54511,7 @@
   },
   {
     "Descrição": "Carne Bovina Carcaca Precoce Kg Lombo Jacare S/Fraldinha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -54913,7 +54913,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Temp.Kg Matambre",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -55099,7 +55099,7 @@
   },
   {
     "Descrição": "Linguica Pernil Primato Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -55201,13 +55201,13 @@
   },
   {
     "Descrição": "Carne Ave Sadia Kg Frango Temperado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Sadia",
     "Imagem": ""
   },
   {
     "Descrição": "Pernil Suino Frimesa Kg Temp. Cebola S/ Osso (Natalino)",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
@@ -55225,7 +55225,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Kg Retalho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -55267,13 +55267,13 @@
   },
   {
     "Descrição": "Linguica Perdigão Brasa 1Kg Toscana",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Perdigão",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Kg Congelada File C.Sobrecoxa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -55285,19 +55285,19 @@
   },
   {
     "Descrição": "Carne Suina Primato Temp.Kg File Mignon",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Suina Primato Temp.Kg Picanha",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Ave Sadia Iqf 1Kg Coxa Sobrecoxa S/Osso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Sadia",
     "Imagem": ""
   },
@@ -55375,7 +55375,7 @@
   },
   {
     "Descrição": "Carne Ave Lar Iqf 700G Coxa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -55411,7 +55411,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol 400G Peito Desfiado Cozido",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -55476,7 +55476,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Kapo 200Ml Maca",
+    "Descrição": "Beb Adoçada Kapo 200Ml Maca",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -55567,7 +55567,7 @@
   },
   {
     "Descrição": "Carne Ave Lar 700G Linguica Frango Fina Resfriada",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -55806,7 +55806,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 510G Mor/Sl.Frutas",
+    "Descrição": "Bebida Lactea Unibaby 510G Mor/Sl.Frutas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -55944,7 +55944,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Unibaby 130G Divertido/Chocolateo",
+    "Descrição": "Bebida Lactea Unibaby 130G Divertido/Chocolateo",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -56005,7 +56005,7 @@
   },
   {
     "Descrição": "Carne Ave Lar 600G Resfriada Coxinha Da Asa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -56467,7 +56467,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Contra File",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -56491,7 +56491,7 @@
   },
   {
     "Descrição": "File Salmão Komdelli Kg",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Komdelli",
     "Imagem": ""
   },
@@ -56622,7 +56622,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sobremesa Lac.Unibaby 180G Frutas Vermelhas",
+    "Descrição": "Sobremesa Lactea Unibaby 180G Frutas Vermelhas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Unibaby",
     "Imagem": ""
@@ -56808,7 +56808,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.3 Corações 260Ml Cappuccino Whey",
+    "Descrição": "Bebida Lactea 3 Corações 260Ml Cappuccino Whey",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "3 Corações",
     "Imagem": ""
@@ -57066,7 +57066,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 150G Açai C/Banana",
+    "Descrição": "Bebida Lactea Lactobom 150G Açai C/Banana",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -57175,7 +57175,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Strogonoff",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -57433,7 +57433,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Miudo Bucho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -57762,7 +57762,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Lactobom 900G Pct F. Vermelhas",
+    "Descrição": "Bebida Lactea Lactobom 900G Pct F. Vermelhas",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Lacto Bom",
     "Imagem": ""
@@ -57805,7 +57805,7 @@
   },
   {
     "Descrição": "Carne Ave Lar Iqf 700G File Coxa Sobrecoxa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Lar",
     "Imagem": ""
   },
@@ -58309,7 +58309,7 @@
   },
   {
     "Descrição": "Camarão Costa Sul 400G Vanamei Int.Coz.40/60Pc",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Costa Sul",
     "Imagem": ""
   },
@@ -58446,7 +58446,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Toddynho 200Ml Levinho",
+    "Descrição": "Bebida Lactea Toddynho 200Ml Levinho",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Toddy",
     "Imagem": ""
@@ -58675,7 +58675,7 @@
   },
   {
     "Descrição": "File Salmão Komdelli 250G Porcionado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Komdelli",
     "Imagem": ""
   },
@@ -58704,7 +58704,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.Piracanjuba Whey 250Ml 23G Prot.Baunilha",
+    "Descrição": "Bebida Lactea Piracanjuba Whey 250Ml 23G Prot.Baunilha",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "Piracanjuba",
     "Imagem": ""
@@ -58945,7 +58945,7 @@
   },
   {
     "Descrição": "Carne Suina Frimesa Kg Costela Congelada C/Osso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frimesa",
     "Imagem": ""
   },
@@ -59377,13 +59377,13 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Alcatra S/Osso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Musculo S/Osso",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -59664,7 +59664,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Beb Adocada Del Valle Frut 450Ml Pet Uva",
+    "Descrição": "Beb Adoçada Del Valle Frut 450Ml Pet Uva",
     "Desc Grupo": "Bebidas",
     "Desc Marca": "Coca-Cola",
     "Imagem": ""
@@ -60271,7 +60271,7 @@
   },
   {
     "Descrição": "Carne Suina Primato Temp.Kg Bife Ancho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato Marca Propria",
     "Imagem": ""
   },
@@ -60481,7 +60481,7 @@
   },
   {
     "Descrição": "Carne Bovina Precoce Kg Shoulder",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -60912,13 +60912,13 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.3 Corações 250Ml Capp. Power Whey Doce De Leite",
+    "Descrição": "Bebida Lactea 3 Corações 250Ml Capp. Power Whey Doce De Leite",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "3 Corações",
     "Imagem": ""
   },
   {
-    "Descrição": "Bebida Lac.3 Corações 250Ml Capp. Power Whey Classico",
+    "Descrição": "Bebida Lactea 3 Corações 250Ml Capp. Power Whey Classico",
     "Desc Grupo": "Mercearia Doce",
     "Desc Marca": "3 Corações",
     "Imagem": ""
@@ -60960,7 +60960,7 @@
     "Imagem": ""
   },
   {
-    "Descrição": "Sorvete Guri 500Ml Zero Lac.Morango",
+    "Descrição": "Sorvete Guri 500Ml Zero Lactea Morango",
     "Desc Grupo": "Pereciveis",
     "Desc Marca": "Sorvetes Guri",
     "Imagem": ""
@@ -60973,7 +60973,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol Kg Congelada Fr.Desossado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -61141,7 +61141,7 @@
   },
   {
     "Descrição": "Carne Ave Do Campo Kg Frango Passarinho",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Frango Sabor Caipira",
     "Imagem": ""
   },
@@ -61705,7 +61705,7 @@
   },
   {
     "Descrição": "Carne Bovina Compra Kg Coxão Mole",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
@@ -61819,7 +61819,7 @@
   },
   {
     "Descrição": "Carne Bovina Carcaca Precoce Kg Boi Casado",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -61837,13 +61837,13 @@
   },
   {
     "Descrição": "Carne Bovina Carcaca Precoce Kg Dianteiro",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
   {
     "Descrição": "Carne Bovina Carcaca Precoce Kg Alcatra Completa",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Primato",
     "Imagem": ""
   },
@@ -61963,7 +61963,7 @@
   },
   {
     "Descrição": "Carne Ave Copacol 2Kg Peito Desfiado Cozido",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Copacol",
     "Imagem": ""
   },
@@ -62101,7 +62101,7 @@
   },
   {
     "Descrição": "Carne Bovina Kg Costela Ripa Segunda",
-    "Desc Grupo": "Acougue",
+    "Desc Grupo": "Açougue",
     "Desc Marca": "Diversos",
     "Imagem": ""
   },
