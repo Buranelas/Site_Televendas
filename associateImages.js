@@ -3,7 +3,10 @@ const path = require('path');
 
 // Caminhos dos arquivos
 const jsonFilePath = path.join(__dirname, 'products.json');
-const imagesFolderPath = path.join(__dirname, 'Produtos Supermercado');
+
+// Caminho base para as imagens armazenadas no servidor de arquivos
+const baseImagePath = '\\\\192.168.110.252\\Unidade - 10\\Dep_Marketing\\2- DEPARTAMENTO DE MARKETING - CRIAÇÃO\\11 - Banco de Imagens\\Produtos Supermercado';
+const baseImageUrl = 'http://192.168.110.252/Unidade - 10/Dep_Marketing/2- DEPARTAMENTO DE MARKETING - CRIAÇÃO/11 - Banco de Imagens/Produtos Supermercado';
 
 // Função para ler o JSON dos produtos
 function readProductsJson() {
@@ -17,45 +20,69 @@ function saveProductsJson(products) {
     fs.writeFileSync(jsonFilePath, jsonString);
 }
 
-// Função para obter os nomes dos arquivos de todas as subpastas da pasta de imagens
-function getAllImageFiles(dirPath, arrayOfFiles) {
+// Função recursiva para obter todos os arquivos de uma pasta e subpastas
+function getAllFiles(dirPath, arrayOfFiles) {
+    console.log(`Verificando diretório: ${dirPath}`);
     const files = fs.readdirSync(dirPath);
 
     arrayOfFiles = arrayOfFiles || [];
 
     files.forEach(file => {
-        if (fs.statSync(path.join(dirPath, file)).isDirectory()) {
-            arrayOfFiles = getAllImageFiles(path.join(dirPath, file), arrayOfFiles);
+        const filePath = path.join(dirPath, file);
+        if (fs.statSync(filePath).isDirectory()) {
+            arrayOfFiles = getAllFiles(filePath, arrayOfFiles);
         } else {
-            arrayOfFiles.push(path.join(dirPath, file));
+            arrayOfFiles.push(filePath);
         }
     });
 
     return arrayOfFiles;
 }
 
-// Função principal para associar imagens aos produtos
+// Função principal para associar URLs de imagens aos produtos
 function associateImagesToProducts() {
     const products = readProductsJson();
-    const imageFiles = getAllImageFiles(imagesFolderPath);
+    const imageFiles = getAllFiles(baseImagePath);
+
+    // Verificação de acessibilidade do diretório
+    if (imageFiles.length === 0) {
+        console.error('Nenhuma imagem encontrada. Verifique o caminho e as permissões do diretório.');
+        return;
+    } else {
+        console.log(`Total de imagens encontradas: ${imageFiles.length}`);
+    }
+
+    // Listar todos os arquivos de imagem encontrados (depuração)
+    imageFiles.forEach(file => {
+        console.log(`Arquivo de imagem encontrado: ${file}`);
+    });
 
     products.forEach(product => {
-        // Tenta encontrar uma imagem correspondente
-        const imageFile = imageFiles.find(file => {
-            const fileNameWithoutExtension = path.parse(file).name.toLowerCase();
-            return product["Descrição"].toLowerCase().includes(fileNameWithoutExtension);
-        });
+        console.log(`Verificando produto: ${product["Descrição"]}`);
+        if (!product.Imagem || product.Imagem === '') {
+            const imageFile = imageFiles.find(file => {
+                const fileNameWithoutExtension = path.parse(file).name.toLowerCase();
+                const productName = product["Descrição"].replace(/\s+/g, '_').toLowerCase();
+                console.log(`Comparando: ${fileNameWithoutExtension} com ${productName}`);
+                return fileNameWithoutExtension === productName;
+            });
 
-        // Atualiza o campo "Imagem" do produto
-        if (imageFile) {
-            product.Imagem = path.relative(__dirname, imageFile).replace(/\\/g, '/');
-        } else {
-            product.Imagem = ''; // Ou um caminho padrão se não encontrar a imagem
+            if (imageFile) {
+                const relativePath = path.relative(baseImagePath, imageFile);
+                product.Imagem = `${baseImageUrl}/${encodeURIComponent(relativePath).replace(/%5C/g, '/')}`;
+                console.log(`Imagem encontrada para o produto: ${product["Descrição"]} - Caminho: ${product.Imagem}`);
+            } else {
+                console.warn(`Imagem não encontrada para o produto: ${product["Descrição"]}`);
+            }
         }
     });
 
     saveProductsJson(products);
 }
 
-associateImagesToProducts();
-console.log('Imagens associadas com sucesso!');
+try {
+    associateImagesToProducts();
+    console.log('URLs das imagens associadas com sucesso!');
+} catch (error) {
+    console.error('Erro ao acessar o servidor de arquivos:', error);
+}

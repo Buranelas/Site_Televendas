@@ -45,7 +45,6 @@ function displayProducts(productsToDisplay, page) {
         const productItem = document.createElement('div');
         productItem.className = 'product-item';
         productItem.innerHTML = `
-            <img src="${product["Imagem"]}" alt="${product["Descrição"]}">
             <h2>${product["Descrição"]}</h2>
             <p>Grupo: ${product["Desc Grupo"]}</p>
             <p>Marca: ${product["Desc Marca"]}</p>
@@ -102,37 +101,21 @@ function addToCart(productDescription, button) {
 }
 
 function removeFromCart(productDescription) {
-    cart = cart.filter(item => item["Descrição"] !== productDescription);
-    renderCart();
-    const button = document.querySelector(`button[onclick="addToCart('${productDescription}', this)"]`);
-    if (button) {
-        button.classList.remove('selected');
-    }
-}
-
-function incrementCartItem(productDescription) {
-    const product = cart.find(item => item["Descrição"] === productDescription);
-    const isWeightProduct = productDescription.toLowerCase().includes('kg');
-    if (isWeightProduct) {
-        product.quantity += 0.1;
-    } else {
-        product.quantity++;
-    }
-    renderCart();
-}
-
-function decrementCartItem(productDescription) {
-    const product = cart.find(item => item["Descrição"] === productDescription);
-    const isWeightProduct = productDescription.toLowerCase().includes('kg');
-    if (isWeightProduct) {
-        product.quantity -= 0.1;
-        if (product.quantity <= 0) {
-            removeFromCart(productDescription);
+    const productIndex = cart.findIndex(item => item["Descrição"] === productDescription);
+    if (productIndex > -1) {
+        const isWeightProduct = productDescription.toLowerCase().includes('kg');
+        if (isWeightProduct) {
+            cart[productIndex].quantity -= 0.1; // Decrementar por 100g
+        } else {
+            cart[productIndex].quantity--;
         }
-    } else {
-        product.quantity--;
-        if (product.quantity <= 0) {
-            removeFromCart(productDescription);
+        
+        if (cart[productIndex].quantity <= 0) {
+            cart.splice(productIndex, 1);
+            const button = document.querySelector(`button[onclick="addToCart('${productDescription}', this)"]`);
+            if (button) {
+                button.classList.remove('selected');
+            }
         }
     }
     renderCart();
@@ -146,9 +129,9 @@ function renderCart() {
         const isWeightProduct = item["Descrição"].toLowerCase().includes('kg');
         li.innerHTML = `
             <span>${item["Descrição"]} - Quantidade: ${isWeightProduct ? (item.quantity.toFixed(1) + ' KG') : item.quantity}</span>
-            <button class="decrement" onclick="handleButtonClick(event); decrementCartItem('${item["Descrição"]}')">-</button>
-            <button class="increment" onclick="handleButtonClick(event); incrementCartItem('${item["Descrição"]}')">+</button>
             <button onclick="handleButtonClick(event); removeFromCart('${item["Descrição"]}')">Remover</button>
+            <button onclick="handleButtonClick(event); decreaseQuantity('${item["Descrição"]}')">-</button>
+            <button onclick="handleButtonClick(event); increaseQuantity('${item["Descrição"]}')">+</button>
         `;
         cartItems.appendChild(li);
     });
@@ -224,8 +207,38 @@ function handleButtonClick(event) {
     }, 300); // Tempo em milissegundos
 }
 
+function increaseQuantity(productDescription) {
+    const product = cart.find(item => item["Descrição"] === productDescription);
+    const isWeightProduct = productDescription.toLowerCase().includes('kg');
+    if (isWeightProduct) {
+        product.quantity += 0.1;
+    } else {
+        product.quantity++;
+    }
+    renderCart();
+}
+
+function decreaseQuantity(productDescription) {
+    const product = cart.find(item => item["Descrição"] === productDescription);
+    const isWeightProduct = productDescription.toLowerCase().includes('kg');
+    if (isWeightProduct) {
+        product.quantity -= 0.1;
+    } else {
+        product.quantity--;
+    }
+    if (product.quantity <= 0) {
+        removeFromCart(productDescription);
+    } else {
+        renderCart();
+    }
+}
+
 document.getElementById('search').addEventListener('input', filterProducts);
 document.getElementById('filter-group').addEventListener('change', filterProducts);
 document.getElementById('filter-brand').addEventListener('change', filterProducts);
 
 document.addEventListener('DOMContentLoaded', loadProducts);
+
+document.querySelectorAll('button').forEach(button => {
+    button.addEventListener('click', handleButtonClick);
+});
