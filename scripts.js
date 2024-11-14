@@ -155,7 +155,7 @@ function checkout() {
         const isWeightProduct = item["Descrição"].toLowerCase().includes('kg');
         return `${isWeightProduct ? item.quantity.toFixed(1) : item.quantity}x ${item["Descrição"]}`;
     }).join('\n');
-    const whatsappUrl = `https://wa.me/554530567512?text=${encodeURIComponent('Meu Carrinho:\n' + orderText)}`;
+    const whatsappUrl = `https://wa.me/554530567511?text=${encodeURIComponent('Meu Carrinho:\n' + orderText)}`;
     window.location.href = whatsappUrl;
     clearCart();
 }
